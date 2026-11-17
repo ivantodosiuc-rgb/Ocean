@@ -1,0 +1,127 @@
+name: CI
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Luau compiler
+        run: |
+          curl --retry 3 --retry-all-errors -fsSL https://github.com/luau-lang/luau/releases/download/0.731/luau-ubuntu.zip -o /tmp/luau.zip
+          echo "4fe023ee801158d6d04af3327dbdb8c164697e286229ba52221716cccd0e3dbe  /tmp/luau.zip" | sha256sum --check
+          unzip -q /tmp/luau.zip -d /tmp/luau
+          chmod +x /tmp/luau/luau-compile
+          echo "/tmp/luau" >> "$GITHUB_PATH"
+
+      - name: Validate skill structure
+        run: python3 scripts/validate_skills.py
+
+      - name: Validator regression tests
+        run: |
+          test -f tests/test_validators.py
+          python3 -m unittest discover -s tests -p 'test_*.py'
+
+      - name: API drift check
+        run: |
+          python3 scripts/mirror_creator_docs.py
+          for i in 1 2 3; do
+            if python3 scripts/verify_api_drift.py; then
+              exit 0
+            fi
+            echo "Retry $i/3..."
+            sleep 5
+          done
+          exit 1
+
+      - name: Source URL check
+        run: |
+          for i in 1 2 3; do
+            if python3 scripts/verify_source_urls.py; then
+              exit 0
+            fi
+            echo "Retry $i/3..."
+            sleep 5
+          done
+          exit 1
+
+      - name: Version pin check
+        run: python3 scripts/verify_version_pins.py
+
+  install-test:
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        node: [20, 22]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Install skills from checked-out repo
+        run: npx -y skills add . --yes
+
+      - name: Verify skills installed
+        shell: bash
+        run: |
+          # skills CLI installs to .agents/skills/
+          SKILLS_DIR=".agents/skills"
+
+          if [ ! -d "$SKILLS_DIR" ]; then
+            echo "ERROR: $SKILLS_DIR not found"
+            echo "Listing current directory:"
+            find . -maxdepth 3 -type f 2>/dev/null | head -30
+            exit 1
+          fi
+
+          count=$(find "$SKILLS_DIR" -name "SKILL.md" | wc -l)
+          expected_count=$(find skills -mindepth 3 -maxdepth 3 -name "SKILL.md" | wc -l)
+          echo "Found $count skills in $SKILLS_DIR (expected $expected_count)"
+
+          if [ "$count" -ne "$expected_count" ]; then
+            echo "ERROR: Expected $expected_count skills, got $count"
+            exit 1
+          fi
+
+          # Verify every published full reference is installed.
+          ref_count=$(find "$SKILLS_DIR" -path "*/references/full.md" -type f | wc -l)
+          expected_ref_count=$(find skills -path "*/references/full.md" -type f | wc -l)
+          echo "Found $ref_count reference files (expected $expected_ref_count)"
+
+          if [ "$ref_count" -ne "$expected_ref_count" ]; then
+            echo "ERROR: Expected $expected_ref_count reference files, got $ref_count"
+            exit 1
+          fi
+
+          resource_count=$(find "$SKILLS_DIR" -path "*/references/*" -type f ! -name "full.md" | wc -l)
+          expected_resource_count=$(find skills -path "*/references/*" -type f ! -name "full.md" | wc -l)
+          echo "Found $resource_count supporting resources (expected $expected_resource_count)"
+
+          if [ "$resource_count" -ne "$expected_resource_count" ]; then
+            echo "ERROR: Expected $expected_resource_count supporting resources, got $resource_count"
+            exit 1
+          fi
+
+          # Compare each installed skill with its source; the installer flattens
+          # the library folders into a single .agents/skills directory.
+          for source in skills/*/*/SKILL.md; do
+            skill_dir="$(dirname "$source")"
+            name="$(basename "$skill_dir")"
+            if ! diff -qr "$skill_dir" "$SKILLS_DIR/$name"; then
+              echo "ERROR: Installed payload differs for $name"
+              exit 1
+            fi
+          done
+
+          echo "Install test passed with exact payload parity ($count skills, $ref_count references, $resource_count resources)"
