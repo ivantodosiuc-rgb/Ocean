@@ -1,0 +1,1276 @@
+﻿{
+    "keyword":  "pirate",
+    "previousPageCursor":  null,
+    "nextPageCursor":  "2_1_e07d23e07e283e6aee551498c3a61658",
+    "data":  [
+                 {
+                     "bundledItems":  [
+                                          {
+                                              "id":  27847359,
+                                              "name":  "Pirate Torso",
+                                              "type":  "Asset",
+                                              "assetType":  27
+                                          },
+                                          {
+                                              "id":  27847382,
+                                              "name":  "Pirate Right Arm",
+                                              "type":  "Asset",
+                                              "assetType":  28
+                                          },
+                                          {
+                                              "id":  27847412,
+                                              "name":  "Pirate Left Arm",
+                                              "type":  "Asset",
+                                              "assetType":  29
+                                          },
+                                          {
+                                              "id":  27847445,
+                                              "name":  "Pirate Left Leg",
+                                              "type":  "Asset",
+                                              "assetType":  30
+                                          },
+                                          {
+                                              "id":  27847473,
+                                              "name":  "Pirate Right Leg",
+                                              "type":  "Asset",
+                                              "assetType":  31
+                                          },
+                                          {
+                                              "id":  131929571,
+                                              "name":  "Pirate Swashbuckler",
+                                              "type":  "UserOutfit"
+                                          }
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kfHzJwaNYM8s2CWRqYUhRa",
+                                          "taxonomyName":  "Characters"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2018-08-14T22:51:40.8Z",
+                     "id":  306,
+                     "itemType":  "Bundle",
+                     "bundleType":  1,
+                     "isRecolorable":  true,
+                     "name":  "Pirate Swashbuckler",
+                     "description":  "Arrrrrggg, there be pirates in these waters and I be one of them!!!",
+                     "productId":  807933700032060,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  400,
+                     "lowestPrice":  400,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  102980,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "660f8f54-f6d4-4906-994d-d0bfe5e4e356",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "8i1sggNTrxoN799hpRrR1S",
+                                          "taxonomyName":  "Shoulder Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2010-01-16T02:28:42.113Z",
+                     "id":  20721256,
+                     "itemType":  "Asset",
+                     "assetType":  44,
+                     "name":  "Pirate Parrot",
+                     "description":  "Pauly want a cracker? No...Pauly wants gold. He\u0027s a pirate\u0027s bird.",
+                     "productId":  4788351882154678,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  58,
+                     "lowestPrice":  58,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  37799,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "2f2663ae-1229-4321-9c2e-a2236b3284f0",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-08-06T23:56:41.173Z",
+                     "id":  14131602,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Pirate Hook",
+                     "description":  "Arrr! I be hooked on this weapon!",
+                     "productId":  8897300533324527,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  150,
+                     "lowestPrice":  150,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  7984,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "3c857812-eb4f-4829-b16d-c9465f7ed56b",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+                                          {
+                                              "id":  75548133218243,
+                                              "name":  "Friendly Pirate - Head",
+                                              "type":  "Asset",
+                                              "supportsHeadShapes":  true,
+                                              "assetType":  79
+                                          },
+                                          {
+                                              "id":  6419816151961593,
+                                              "name":  "Friendly Pirate",
+                                              "type":  "UserOutfit"
+                                          },
+                                          {
+                                              "id":  100899826510600,
+                                              "name":  "Friendly Pirate - Mood",
+                                              "type":  "Asset",
+                                              "assetType":  78
+                                          }
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "s5NLP7BS9PRLKvUVca4XKg",
+                                          "taxonomyName":  "Heads"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2026-01-17T08:18:28.36Z",
+                     "id":  206613604437790,
+                     "itemType":  "Bundle",
+                     "bundleType":  4,
+                     "isRecolorable":  false,
+                     "name":  "Friendly Pirate",
+                     "description":  "His smile says he\u0027s friendly.  His scar says he\u0027s tough.",
+                     "productId":  6393078903191642,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Live"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  75,
+                     "lowestPrice":  75,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1201,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "ed41be9a-73b1-42dc-811c-fde317e337ce",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-05-20T19:45:11.153Z",
+                     "id":  10910681,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Pirate Cutlass",
+                     "description":  "Avast!!",
+                     "productId":  6287596966627667,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  250,
+                     "lowestPrice":  250,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  8882,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "f8cf2346-81e4-49fc-bc25-bd713a0c7e62",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-02-15T01:16:51.863Z",
+                     "id":  106709229,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Topper",
+                     "description":  "Most pirate hats are bought second hand, because they usually lose their first.",
+                     "productId":  1148022776031841,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  125,
+                     "lowestPrice":  125,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  30390,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "5df1f0e0-ec35-467f-9dee-f9640353b294",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+                                          {
+                                              "id":  2510230574,
+                                              "name":  "Rthro Climb",
+                                              "type":  "Asset",
+                                              "assetType":  48
+                                          },
+                                          {
+                                              "id":  2510233257,
+                                              "name":  "Rthro Fall",
+                                              "type":  "Asset",
+                                              "assetType":  50
+                                          },
+                                          {
+                                              "id":  2510235063,
+                                              "name":  "Rthro Idle",
+                                              "type":  "Asset",
+                                              "assetType":  51
+                                          },
+                                          {
+                                              "id":  2510236649,
+                                              "name":  "Rthro Jump",
+                                              "type":  "Asset",
+                                              "assetType":  52
+                                          },
+                                          {
+                                              "id":  2510238627,
+                                              "name":  "Rthro Run",
+                                              "type":  "Asset",
+                                              "assetType":  53
+                                          },
+                                          {
+                                              "id":  2510240941,
+                                              "name":  "Rthro Swim",
+                                              "type":  "Asset",
+                                              "assetType":  54
+                                          },
+                                          {
+                                              "id":  2510242378,
+                                              "name":  "Rthro Walk",
+                                              "type":  "Asset",
+                                              "assetType":  55
+                                          },
+                                          {
+                                              "id":  2627685701,
+                                              "name":  "High Seas: Pirate King Xerxes - Left Arm",
+                                              "type":  "Asset",
+                                              "assetType":  29
+                                          },
+                                          {
+                                              "id":  2627737825,
+                                              "name":  "High Seas: Pirate King Xerxes - Left Leg",
+                                              "type":  "Asset",
+                                              "assetType":  30
+                                          },
+                                          {
+                                              "id":  2627738819,
+                                              "name":  "High Seas: Pirate King Xerxes - Right Arm",
+                                              "type":  "Asset",
+                                              "assetType":  28
+                                          },
+                                          {
+                                              "id":  2627739824,
+                                              "name":  "High Seas: Pirate King Xerxes - Right Leg",
+                                              "type":  "Asset",
+                                              "assetType":  31
+                                          },
+                                          {
+                                              "id":  2627740637,
+                                              "name":  "High Seas: Pirate King Xerxes - Torso",
+                                              "type":  "Asset",
+                                              "assetType":  27
+                                          },
+                                          {
+                                              "id":  2627743634,
+                                              "name":  "High Seas: Pirate King Xerxes - Pirate Bandana",
+                                              "type":  "Asset",
+                                              "assetType":  8
+                                          },
+                                          {
+                                              "id":  2627744664,
+                                              "name":  "High Seas: Pirate King Xerxes - Pirate Hat",
+                                              "type":  "Asset",
+                                              "assetType":  8
+                                          },
+                                          {
+                                              "id":  489635259,
+                                              "name":  "High Seas: Pirate King Xerxes",
+                                              "type":  "UserOutfit"
+                                          },
+                                          {
+                                              "id":  6462984168129527,
+                                              "name":  "Pirate King Xerxes - Face",
+                                              "type":  "UserOutfit"
+                                          },
+                                          {
+                                              "id":  138693162453186,
+                                              "name":  "Pirate King Xerxes - Mood",
+                                              "type":  "Asset",
+                                              "assetType":  78
+                                          },
+                                          {
+                                              "id":  98996826320047,
+                                              "name":  "Pirate King Xerxes - Head",
+                                              "type":  "Asset",
+                                              "supportsHeadShapes":  false,
+                                              "assetType":  79
+                                          }
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kfHzJwaNYM8s2CWRqYUhRa",
+                                          "taxonomyName":  "Characters"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2018-12-07T03:45:20.863Z",
+                     "id":  436,
+                     "itemType":  "Bundle",
+                     "bundleType":  1,
+                     "isRecolorable":  false,
+                     "name":  "High Seas: Pirate King Xerxes",
+                     "description":  "Time to set sail! The Pirate King is off to find the next big adventure!",
+                     "productId":  1637058003204573,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  200,
+                     "lowestPrice":  200,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4157,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "50c3a60c-d630-4fff-a506-0be2b2c32932",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2018-10-08T21:10:15.29Z",
+                     "id":  2463698084,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Witch Pirate",
+                     "description":  "It\u0027s very hard to trick or treat on the open ocean.",
+                     "productId":  4892328729189435,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  100,
+                     "lowestPrice":  100,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4317,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "bc4fdce0-bb08-43d5-8dfa-4d2b73a8c30c",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "7yGywzp5JeDsNjhXWJqSw3",
+                                          "taxonomyName":  "Back Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2017-04-28T04:13:41.967Z",
+                     "id":  753988285,
+                     "itemType":  "Asset",
+                     "assetType":  46,
+                     "name":  "King of Pirates Cape",
+                     "description":  "What do you mean pirates didn\u0027t have kings? Wear this cape and see if you still feel that way.",
+                     "productId":  8875484476323738,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  1000,
+                     "lowestPrice":  1000,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  5756,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "91f70b54-c476-470f-8d0d-ca56c6467919",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "8i1sggNTrxoN799hpRrR1S",
+                                          "taxonomyName":  "Shoulder Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-05-02T19:35:44.197Z",
+                     "id":  155675806,
+                     "itemType":  "Asset",
+                     "assetType":  44,
+                     "name":  "True Pirate Parrot",
+                     "description":  "He\u0027s embraced the pirate lifestyle, but don\u0027t call him Polly.  He does not want a cracker. He wants your treasure.",
+                     "productId":  2685625332888105,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  125,
+                     "lowestPrice":  125,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  6645,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "ede3a7f3-bea0-4502-a5a9-4566164ad85d",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-07-16T23:47:06.773Z",
+                     "id":  271014901,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Queen",
+                     "description":  "Like the great Grace O\u0027Malley before her, she will sail the sea for riches!",
+                     "productId":  2822442509087485,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  100,
+                     "lowestPrice":  100,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  7460,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "dc2d2442-a4ed-4306-95a1-e70472d94d64",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2017-04-28T21:34:00.017Z",
+                     "id":  754869699,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Deluxe Pirate Hook",
+                     "description":  "For the pirate who lives life with flair. Click to swing this stylish pirate hook at your enemies; dealing 12 damage per hit.",
+                     "productId":  168569749018031,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  500,
+                     "lowestPrice":  500,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2651,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "221f4e49-c42c-4bd9-aa84-29b19fe08e19",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-08-05T20:50:55.407Z",
+                     "id":  125378164,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Old Pirate Brigade",
+                     "description":  "He does what he wants....",
+                     "productId":  2036033985686372,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  5999,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "e62cd88e-436f-4cef-a06b-33d0387d46d2",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2011-08-02T18:55:36.77Z",
+                     "id":  58245276,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Mercenary",
+                     "description":  "Allied with no one but himself he searches for riches... by any means necessary!",
+                     "productId":  1197836513447053,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3834,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "2f455723-97fd-45f3-b750-2ef73d13f38a",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "7yGywzp5JeDsNjhXWJqSw3",
+                                          "taxonomyName":  "Back Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-11-14T01:20:04.853Z",
+                     "id":  319655422,
+                     "itemType":  "Asset",
+                     "assetType":  46,
+                     "name":  "LightAge Pirate Swordpack",
+                     "description":  "The light of the sun on the sea exposes all...",
+                     "productId":  6856174526163505,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  200,
+                     "lowestPrice":  200,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  10152,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "68ca52bb-3c05-4525-9561-e8b9e3e762f7",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-12-07T19:39:43.27Z",
+                     "id":  99855237,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Nimble Pirate",
+                     "description":  "Let\u0027s hope he\u0027s more nimble than the feather in his cap!",
+                     "productId":  5650666793370217,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  100,
+                     "lowestPrice":  100,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2353,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "647064d9-fb41-4e09-9cf4-847535196995",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-07-23T22:50:38.2Z",
+                     "id":  13476872,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Headband",
+                     "description":  "Yer money or yer life! Arrr!",
+                     "productId":  804905255818987,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  78630,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "319b05e4-621a-4019-b0c8-5d0cc9ea3eb1",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2011-03-18T22:05:09.177Z",
+                     "id":  48159648,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Pirate Lieutenant\u0027s Cutlass",
+                     "description":  "A mighty sword she be.  Only the mightiest of men might hope to wield her gracefully.",
+                     "productId":  7479708691199652,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  500,
+                     "lowestPrice":  500,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1350,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "d1696ba6-83fb-46e4-8f01-0ed35adf408e",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2018-11-13T11:24:22.493Z",
+                     "id":  2566024220,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Top Hat",
+                     "description":  "Yar! This ‘ere be a dapper hat for ye’ look!",
+                     "productId":  1085040221242352,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  300,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1093,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "7a54aeed-28eb-4531-b605-a0a389b5443f",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2010-05-08T01:01:22.083Z",
+                     "id":  26776902,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Space Pirate",
+                     "description":  "Earth pirates are overrated.",
+                     "productId":  3981671241329783,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  300,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4024,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "68f73f6e-345b-4eea-bd26-c563c584e863",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-09-18T18:55:16.647Z",
+                     "id":  93047542,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Steampunk Pirate",
+                     "description":  "Captain of the high skies.",
+                     "productId":  3837077106244019,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  175,
+                     "lowestPrice":  175,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4838,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "fd751815-eeb0-422c-84ea-244bc7974a9a",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-11-07T02:03:12.627Z",
+                     "id":  317592936,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Pirate Throwing Axes",
+                     "description":  "Yer foes don\u0027t stand a chance when you got yer trusty pirate axes.  Click to throw two hatchets at your foes. Each hatchet does 28 damage. If you\u0027re really lucky and both hit, that\u0027s a combined 56 total damage!",
+                     "productId":  8345770764686352,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  500,
+                     "lowestPrice":  500,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2462,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "87fc10ce-4939-4732-812f-3ab66967fc3d",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-05-02T18:50:56.637Z",
+                     "id":  155671106,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Rusted Steampunk Pirate",
+                     "description":  "You dropped your beloved captain\u0027s hat in the middle of the ocean. You fished it out but it doesn\u0027t have quite the same shine anymore....",
+                     "productId":  8251281880787119,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  175,
+                     "lowestPrice":  3530,
+                     "lowestResalePrice":  3530,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3246,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "a7c340b5-7c2c-4b50-ace4-9d81cc461436",
+                     "totalQuantity":  1200,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-12-18T01:21:00.84Z",
+                     "id":  19364658,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Elf",
+                     "description":  "Just imagine what his pirate boots look like.",
+                     "productId":  7357337064651479,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  50,
+                     "lowestPrice":  2850,
+                     "lowestResalePrice":  2850,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1372,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "6cbdb293-9ab3-4568-ac24-2c745fa01a86",
+                     "totalQuantity":  4992,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-01-31T23:56:40.72Z",
+                     "id":  144506058,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Chicken",
+                     "description":  "\"I be no spring chicken, but I can pillage with the best o\u0027 them.\"",
+                     "productId":  7028318380271541,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  1762,
+                     "lowestResalePrice":  1762,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1235,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "fd9a13d8-ffc0-42a0-a47f-5763821e6c14",
+                     "totalQuantity":  2762,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-12-18T01:21:11.887Z",
+                     "id":  19364667,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pirate Santa",
+                     "description":  "If you be fool enough to be naughty, you\u0027ll be walkin the plank!",
+                     "productId":  8507918028360383,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  100,
+                     "lowestPrice":  3897,
+                     "lowestResalePrice":  3897,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3746,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "d2cbeb83-8c12-4be1-9be2-f7551d32ccb4",
+                     "totalQuantity":  2362,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-05-22T18:30:25.07Z",
+                     "id":  158068446,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Platinum Pirate Headphones",
+                     "description":  "All sea shanties, all the time.",
+                     "productId":  3510824725325886,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  500,
+                     "lowestPrice":  27999,
+                     "lowestResalePrice":  27999,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3765,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "ce56c480-bd6c-4877-aa0b-4d88cbdf98b7",
+                     "totalQuantity":  541,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-04-10T19:45:31.07Z",
+                     "id":  236399087,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Steampunk Pirate Captain",
+                     "description":  "His sea is the limitless sky.",
+                     "productId":  4579930170122526,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  250,
+                     "lowestPrice":  5544,
+                     "lowestResalePrice":  5544,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2815,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "b74afe4e-7b4d-404c-bba4-90fc4f57c56e",
+                     "totalQuantity":  1000,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "b5rkQhGSfwhfTK177y6ERa",
+                                          "taxonomyName":  "Face Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2011-02-25T23:20:40.06Z",
+                     "id":  46839188,
+                     "itemType":  "Asset",
+                     "assetType":  42,
+                     "name":  "Pirate Luv",
+                     "description":  "\"The sea be my only true love.\"",
+                     "productId":  1040351477596792,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  94399,
+                     "lowestResalePrice":  94399,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  10840,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "203bfea5-4bc1-4aac-a676-1c33d354424a",
+                     "totalQuantity":  582,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 }
+             ]
+}

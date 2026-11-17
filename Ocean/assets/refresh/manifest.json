@@ -1,0 +1,175 @@
+{
+  "objects": [
+    {
+      "name": "RefreshNPC__Finn",
+      "triangles": 12084
+    },
+    {
+      "name": "RefreshNPC__Maya",
+      "triangles": 13412
+    },
+    {
+      "name": "RefreshNPC__CaptainShell",
+      "triangles": 13636
+    },
+    {
+      "name": "RefreshFlora__Coral",
+      "triangles": 2236
+    },
+    {
+      "name": "RefreshFlora__Cream",
+      "triangles": 2312
+    },
+    {
+      "name": "RefreshFlora__Lilac",
+      "triangles": 2312
+    },
+    {
+      "name": "RefreshGrass__Patch_0_2",
+      "triangles": 1600
+    },
+    {
+      "name": "RefreshGrass__Patch_0_1",
+      "triangles": 1408
+    },
+    {
+      "name": "RefreshGrass__Patch_0_3",
+      "triangles": 1792
+    },
+    {
+      "name": "RefreshGrass__Patch_0_4",
+      "triangles": 704
+    },
+    {
+      "name": "RefreshGrass__Patch_1_1",
+      "triangles": 2816
+    },
+    {
+      "name": "RefreshGrass__Patch_1_2",
+      "triangles": 512
+    },
+    {
+      "name": "RefreshGrass__Patch_1_3",
+      "triangles": 4096
+    },
+    {
+      "name": "RefreshGrass__Patch_1_4",
+      "triangles": 3904
+    },
+    {
+      "name": "RefreshGrass__Patch_1_0",
+      "triangles": 1088
+    },
+    {
+      "name": "RefreshGrass__Patch_1_5",
+      "triangles": 1024
+    },
+    {
+      "name": "RefreshGrass__Patch_2_0",
+      "triangles": 2496
+    },
+    {
+      "name": "RefreshGrass__Patch_2_1",
+      "triangles": 4032
+    },
+    {
+      "name": "RefreshGrass__Patch_2_2",
+      "triangles": 1280
+    },
+    {
+      "name": "RefreshGrass__Patch_2_3",
+      "triangles": 1920
+    },
+    {
+      "name": "RefreshGrass__Patch_2_4",
+      "triangles": 2816
+    },
+    {
+      "name": "RefreshGrass__Patch_2_5",
+      "triangles": 2112
+    },
+    {
+      "name": "RefreshGrass__Patch_3_0",
+      "triangles": 1344
+    },
+    {
+      "name": "RefreshGrass__Patch_3_1",
+      "triangles": 1920
+    },
+    {
+      "name": "RefreshGrass__Patch_3_2",
+      "triangles": 1280
+    },
+    {
+      "name": "RefreshGrass__Patch_3_4",
+      "triangles": 3648
+    },
+    {
+      "name": "RefreshGrass__Patch_3_3",
+      "triangles": 1600
+    },
+    {
+      "name": "RefreshGrass__Patch_3_5",
+      "triangles": 1664
+    },
+    {
+      "name": "RefreshGrass__Patch_4_0",
+      "triangles": 320
+    },
+    {
+      "name": "RefreshGrass__Patch_4_2",
+      "triangles": 3520
+    },
+    {
+      "name": "RefreshGrass__Patch_4_3",
+      "triangles": 640
+    },
+    {
+      "name": "RefreshGrass__Patch_4_4",
+      "triangles": 3712
+    },
+    {
+      "name": "RefreshGrass__Patch_4_5",
+      "triangles": 704
+    },
+    {
+      "name": "RefreshGrass__Patch_4_1",
+      "triangles": 1536
+    },
+    {
+      "name": "RefreshGrass__Patch_5_1",
+      "triangles": 1472
+    },
+    {
+      "name": "RefreshGrass__Patch_5_2",
+      "triangles": 2624
+    },
+    {
+      "name": "RefreshGrass__Patch_5_4",
+      "triangles": 128
+    },
+    {
+      "name": "RefreshGrass__Patch_5_3",
+      "triangles": 640
+    }
+  ],
+  "total_triangles": 106344,
+  "grass_clumps": 943,
+  "npc_origins": {
+    "Finn": [
+      -5.5,
+      0,
+      0
+    ],
+    "Maya": [
+      0,
+      0,
+      0
+    ],
+    "CaptainShell": [
+      5.5,
+      0,
+      0
+    ]
+  }
+}

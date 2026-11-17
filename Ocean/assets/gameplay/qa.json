@@ -1,0 +1,765 @@
+{
+  "Tool__BasicStraw": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__BasicStraw: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__BasicStraw": {
+        "verts": 736,
+        "faces": 1472,
+        "tris": 1472,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 4,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "Tool__ColorfulStraw": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__ColorfulStraw: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__ColorfulStraw": {
+        "verts": 352,
+        "faces": 704,
+        "tris": 704,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 1,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Tool__BambooStraw": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__BambooStraw: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__BambooStraw": {
+        "verts": 822,
+        "faces": 1640,
+        "tris": 1640,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 5,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Tool__GoldenStraw": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__GoldenStraw: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__GoldenStraw": {
+        "verts": 950,
+        "faces": 1896,
+        "tris": 1896,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 6,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Tool__CrystalStraw": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__CrystalStraw: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__CrystalStraw": {
+        "verts": 382,
+        "faces": 752,
+        "tris": 752,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 5,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Tool__OceanVacuum": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Tool__OceanVacuum: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Tool__OceanVacuum": {
+        "verts": 1428,
+        "faces": 2816,
+        "tris": 2816,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 12,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.2
+      }
+    }
+  },
+  "Loot__CommonShell": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__CommonShell: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Loot__CommonShell": {
+        "verts": 462,
+        "faces": 920,
+        "tris": 920,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 1,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "Loot__Starfish": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__Starfish: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Loot__Starfish": {
+        "verts": 350,
+        "faces": 676,
+        "tris": 676,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 6,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "Loot__PearlShell": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__PearlShell: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Loot__PearlShell": {
+        "verts": 1286,
+        "faces": 2560,
+        "tris": 2560,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 3,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Loot__OldBottle": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__OldBottle: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Loot__OldBottle": {
+        "verts": 488,
+        "faces": 960,
+        "tris": 960,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 5,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Loot__TreasureChest": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__TreasureChest: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Loot__TreasureChest": {
+        "verts": 868,
+        "faces": 1712,
+        "tris": 1712,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 8,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Loot__AncientRelic": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Loot__AncientRelic: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "Loot__AncientRelic: duplicate verts=8 loose verts=0",
+      "hidden back-to-back faces: Loot__AncientRelic (11 pairs) - delete to save tris"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [
+      {
+        "where": "Loot__AncientRelic",
+        "tri_pairs": 11
+      }
+    ],
+    "enclosed": [],
+    "objects": {
+      "Loot__AncientRelic": {
+        "verts": 516,
+        "faces": 1008,
+        "tris": 1008,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 8,
+        "islands": 7,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Icon__Coin": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Coin: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Coin": {
+        "verts": 386,
+        "faces": 764,
+        "tris": 764,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 3,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "Icon__Backpack": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Backpack: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Backpack": {
+        "verts": 376,
+        "faces": 732,
+        "tris": 732,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 5,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Icon__Power": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Power: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Power": {
+        "verts": 98,
+        "faces": 192,
+        "tris": 192,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 1,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "Icon__Speed": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Speed: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Speed": {
+        "verts": 642,
+        "faces": 1268,
+        "tris": 1268,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 5,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Icon__Walk": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Walk: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Walk": {
+        "verts": 434,
+        "faces": 852,
+        "tris": 852,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 4,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Icon__Ocean": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Icon__Ocean: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Icon__Ocean": {
+        "verts": 278,
+        "faces": 548,
+        "tris": 548,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 2,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  }
+}

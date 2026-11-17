@@ -1,0 +1,362 @@
+{
+  "objects": [
+    {
+      "name": "Reef__SunsetStaghorn",
+      "triangles": 3800,
+      "dimensions": [
+        2.454336166381836,
+        2.4131102561950684,
+        3.3485076427459717
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__VioletSeaFan",
+      "triangles": 3800,
+      "dimensions": [
+        4.675380706787109,
+        1.073671817779541,
+        3.403290271759033
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__TurquoiseTable",
+      "triangles": 2572,
+      "dimensions": [
+        4.202010631561279,
+        3.7809271812438965,
+        2.4499266147613525
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__GoldenBrain",
+      "triangles": 3592,
+      "dimensions": [
+        2.8999991416931152,
+        2.3999996185302734,
+        2.0892069339752197
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__PeachCups",
+      "triangles": 1336,
+      "dimensions": [
+        2.549999952316284,
+        2.049999952316284,
+        2.0399999618530273
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__LavenderFingers",
+      "triangles": 1288,
+      "dimensions": [
+        1.7468080520629883,
+        1.8580756187438965,
+        2.5554704666137695
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__CrimsonLettuce",
+      "triangles": 2876,
+      "dimensions": [
+        3.086183547973633,
+        2.8193907737731934,
+        1.946000099182129
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__CobaltTubes",
+      "triangles": 2636,
+      "dimensions": [
+        2.3215384483337402,
+        2.1731364727020264,
+        2.634999990463257
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__SunbeamAntlers",
+      "triangles": 3800,
+      "dimensions": [
+        2.45818829536438,
+        2.412841320037842,
+        4.881237030029297
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Reef__MintPagoda",
+      "triangles": 2240,
+      "dimensions": [
+        4.094951629638672,
+        4.022224426269531,
+        2.746000051498413
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Coast__DuneGrass",
+      "triangles": 364,
+      "dimensions": [
+        1.5697393417358398,
+        1.3257501125335693,
+        1.2601144313812256
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Coast__BroadleafGrass",
+      "triangles": 312,
+      "dimensions": [
+        1.5697393417358398,
+        1.3257501125335693,
+        1.2601144313812256
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Coast__CoastalShrub",
+      "triangles": 1152,
+      "dimensions": [
+        2.549999952316284,
+        1.7799999713897705,
+        1.5
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Coast__Driftwood",
+      "triangles": 332,
+      "dimensions": [
+        3.2457776069641113,
+        1.2605998516082764,
+        0.8109133839607239
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Sail",
+      "triangles": 568,
+      "dimensions": [
+        5.75,
+        0.6800003051757812,
+        4.8619914054870605
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Railings",
+      "triangles": 1280,
+      "dimensions": [
+        14.59999942779541,
+        34.849998474121094,
+        6.099999904632568
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Mast",
+      "triangles": 232,
+      "dimensions": [
+        14.0,
+        1.6841154098510742,
+        16.56063461303711
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__HullStarboard",
+      "triangles": 2184,
+      "dimensions": [
+        5.330146789550781,
+        36.26924133300781,
+        4.983953475952148
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__HullPort",
+      "triangles": 2536,
+      "dimensions": [
+        5.51207160949707,
+        36.26924133300781,
+        4.983953475952148
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Deck",
+      "triangles": 8824,
+      "dimensions": [
+        14.600000381469727,
+        32.0,
+        5.025000095367432
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Cargo",
+      "triangles": 2892,
+      "dimensions": [
+        10.0600004196167,
+        26.059999465942383,
+        2.299999713897705
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Bowsprit",
+      "triangles": 304,
+      "dimensions": [
+        12.102582931518555,
+        15.551606178283691,
+        3.7071056365966797
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__Bow",
+      "triangles": 748,
+      "dimensions": [
+        11.21456527709961,
+        7.519815444946289,
+        5.100642681121826
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Chest__Lid",
+      "triangles": 564,
+      "dimensions": [
+        3.6500000953674316,
+        2.5399999618530273,
+        0.7100000381469727
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Chest__Base",
+      "triangles": 2016,
+      "dimensions": [
+        3.5999999046325684,
+        2.693000078201294,
+        1.9249999523162842
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Ship__MaritimeDetails",
+      "triangles": 7632,
+      "dimensions": [
+        17.94565773010254,
+        36.130977630615234,
+        12.783354759216309
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Boat__LittleBoat",
+      "triangles": 9632,
+      "dimensions": [
+        6.611655235290527,
+        9.902080535888672,
+        4.25
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__SafetyRope",
+      "triangles": 432,
+      "dimensions": [
+        12.828254699707031,
+        42.02049255371094,
+        0.8391232490539551
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__PileRope",
+      "triangles": 2880,
+      "dimensions": [
+        27.619998931884766,
+        59.6199951171875,
+        0.22516632080078125
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__PierPile",
+      "triangles": 360,
+      "dimensions": [
+        27.236373901367188,
+        59.29999542236328,
+        11.0
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__PierHead",
+      "triangles": 972,
+      "dimensions": [
+        29.0,
+        16.099998474121094,
+        0.5
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__PierCap",
+      "triangles": 360,
+      "dimensions": [
+        27.483646392822266,
+        59.55999755859375,
+        0.5
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__PierBoard",
+      "triangles": 2808,
+      "dimensions": [
+        13.0,
+        51.00700378417969,
+        0.5
+      ],
+      "materials": 1
+    },
+    {
+      "name": "Dock__Understructure",
+      "triangles": 1128,
+      "dimensions": [
+        28.0,
+        67.5,
+        1.0
+      ],
+      "materials": 1
+    }
+  ],
+  "totalTriangles": 78452,
+  "coralVariants": [
+    "SunsetStaghorn",
+    "VioletSeaFan",
+    "TurquoiseTable",
+    "GoldenBrain",
+    "PeachCups",
+    "LavenderFingers",
+    "CrimsonLettuce",
+    "CobaltTubes",
+    "SunbeamAntlers",
+    "MintPagoda"
+  ],
+  "textures": [
+    "LagoonPaint_Color.png",
+    "LagoonPaint_Roughness.png",
+    "LagoonPaint_Metalness.png"
+  ]
+}

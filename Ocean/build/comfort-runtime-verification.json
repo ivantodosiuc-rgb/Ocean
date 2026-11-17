@@ -1,0 +1,118 @@
+{
+  "unitTests": {
+    "comfort": 33,
+    "economyProfiles": 88,
+    "oceanLedger": 30
+  },
+  "liveTests": {
+    "ok": true,
+    "count": 28,
+    "checks": [
+      "Buy and equip ColorfulStraw",
+      "Physical model ColorfulStraw",
+      "Buy and equip BambooStraw",
+      "Physical model BambooStraw",
+      "Buy and equip GoldenStraw",
+      "Physical model GoldenStraw",
+      "Buy and equip CrystalStraw",
+      "Physical model CrystalStraw",
+      "Buy and equip OceanVacuum",
+      "Physical model OceanVacuum",
+      "Buy and equip CoralTwister",
+      "Physical model CoralTwister",
+      "Buy and equip TidalCoil",
+      "Physical model TidalCoil",
+      "Buy and equip StarSiphon",
+      "Physical model StarSiphon",
+      "Buy and equip Leviathan",
+      "Physical model Leviathan",
+      "Premium preview remote cannot grant ownership",
+      "Shop requires actual proximity",
+      "Full need blocks real suction",
+      "Remote restroom use from ocean rejected",
+      "Toilet begins with movement locked",
+      "Tool switch cannot interrupt restroom state",
+      "Interrupted use retains need and releases occupant",
+      "Restroom can be used after interruption",
+      "Completed use resets need and restores movement",
+      "Equipped tool restored after restroom"
+    ]
+  },
+  "layouts": {
+    "desktop": {
+      "ok": true,
+      "safeArea": "1276, 454.799988",
+      "premiumCard": "752, 296",
+      "viewport": "1276, 512.799988",
+      "issues": [],
+      "touch": false
+    },
+    "tablet": {
+      "ok": true,
+      "safeArea": "819, 1119",
+      "premiumCard": "743, 485",
+      "viewport": "819, 1177",
+      "issues": [],
+      "touch": true
+    },
+    "portrait": {
+      "ok": true,
+      "safeArea": "388, 703",
+      "premiumCard": "312, 485",
+      "viewport": "388, 761",
+      "issues": [],
+      "touch": true
+    },
+    "landscape": {
+      "ok": true,
+      "safeArea": "749, 331",
+      "premiumCard": "673, 173",
+      "viewport": "749, 389",
+      "issues": [],
+      "touch": true
+    }
+  },
+  "deathCleanup": {
+    "gateReleased": true,
+    "needRetained": true,
+    "unoccupied": true
+  },
+  "actualSuction": {
+    "removed": 950.6513914093375,
+    "personalNeed": 950.6513914093375,
+    "starterRate": 250
+  },
+  "audio": {
+    "assetId": 9126175899,
+    "loaded": true,
+    "played": true,
+    "duration": 4.576
+  },
+  "keyboardOne": {
+    "putAway": true,
+    "takeOut": true
+  },
+  "mussel": {
+    "startingCount": 16,
+    "saleCoins": 1,
+    "duplicateRejected": true
+  },
+  "grass": {
+    "removedFromSand": 11,
+    "relocated": 8,
+    "remainingCoastalObjects": 27,
+    "offMeadow": []
+  },
+  "screenshots": {
+    "prism": "build/screenshots/comfort-prism-final.jpg",
+    "booth": "build/screenshots/comfort-booth-final.jpg",
+    "portrait": "build/screenshots/comfort-portrait.jpg",
+    "landscape": "build/screenshots/comfort-landscape.jpg"
+  },
+  "limitations": [
+    "Unpublished experience: actual cloud DataStore rejoin has not been verified.",
+    "79 Robux offer is a preview; no purchase or entitlement enabled.",
+    "Device Simulator checks do not replace physical mobile performance measurements.",
+    "Studio animation recording has no audio track."
+  ]
+}

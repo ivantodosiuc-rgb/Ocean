@@ -1,0 +1,1 @@
+for _,folder in {workspace.UnderwaterTerrain.PolishedReefs,workspace.Decorations.CoastalPlanting} do for _,m in folder:GetChildren() do local cf=m:GetPivot();print('POLISH_PLACEMENT',game.HttpService:JSONEncode({name=m.Name,folder=folder.Name,x=cf.X,z=cf.Z,y=cf.Y,ground=m:GetAttribute('GroundY')})) end end

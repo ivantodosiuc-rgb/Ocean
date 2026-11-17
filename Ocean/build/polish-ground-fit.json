@@ -1,0 +1,1422 @@
+[
+  {
+    "folder": "PolishedReefs",
+    "x": -81.92168426513672,
+    "name": "Reef_001_SunsetStaghorn",
+    "z": 75.0469741821289,
+    "ground": -7.648143768310547,
+    "y": -7.718143939971924,
+    "visibleGround": -7.84456,
+    "correction": -0.19641
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 10.683425903320312,
+    "name": "Reef_002_VioletSeaFan",
+    "z": -121.73210144042969,
+    "ground": -12.340120315551758,
+    "y": -12.410120010375977,
+    "visibleGround": -12.75217,
+    "correction": -0.41205
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 131.20394897460938,
+    "name": "Reef_003_TurquoiseTable",
+    "z": -83.46121215820312,
+    "ground": -33.46854019165039,
+    "y": -33.53853988647461,
+    "visibleGround": -35.06545,
+    "correction": -1.59691
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -81.90306854248047,
+    "name": "Reef_004_GoldenBrain",
+    "z": -157.69940185546875,
+    "ground": -41.79896926879883,
+    "y": -41.86896896362305,
+    "visibleGround": -41.89604,
+    "correction": -0.09707
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 89.43124389648438,
+    "name": "Reef_005_PeachCups",
+    "z": -191.1094970703125,
+    "ground": -55.395164489746094,
+    "y": -55.46516418457031,
+    "visibleGround": -55.44114,
+    "correction": -0.04597
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 66.470947265625,
+    "name": "Reef_006_LavenderFingers",
+    "z": 211.9198455810547,
+    "ground": -62.64894104003906,
+    "y": -62.71894073486328,
+    "visibleGround": -62.78853,
+    "correction": -0.13959
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 108.50868225097656,
+    "name": "Reef_007_CrimsonLettuce",
+    "z": -23.855331420898438,
+    "ground": -9.757171630859375,
+    "y": -9.827171325683594,
+    "visibleGround": -10.43132,
+    "correction": -0.67414
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -70.28081512451172,
+    "name": "Reef_008_CobaltTubes",
+    "z": 99.96723175048828,
+    "ground": -12.996725082397461,
+    "y": -13.06672477722168,
+    "visibleGround": -13.14503,
+    "correction": -0.1483
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -155.36721801757812,
+    "name": "Reef_009_SunbeamAntlers",
+    "z": 6.424919128417969,
+    "ground": -31.476551055908203,
+    "y": -31.546550750732422,
+    "visibleGround": -31.48418,
+    "correction": -0.00763
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -8.208221435546875,
+    "name": "Reef_010_MintPagoda",
+    "z": 177.5103302001953,
+    "ground": -44.7105712890625,
+    "y": -44.78057098388672,
+    "visibleGround": -45.10719,
+    "correction": -0.39662
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -173.20111083984375,
+    "name": "Reef_011_SunsetStaghorn",
+    "z": 120.50881958007812,
+    "ground": -52.904170989990234,
+    "y": -52.97417068481445,
+    "visibleGround": -52.90418,
+    "correction": -1e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 48.7468147277832,
+    "name": "Reef_012_VioletSeaFan",
+    "z": -216.68446350097656,
+    "ground": -60.24566650390625,
+    "y": -60.31566619873047,
+    "visibleGround": -60.24564,
+    "correction": 2e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -105.84416961669922,
+    "name": "Reef_013_TurquoiseTable",
+    "z": -33.76717758178711,
+    "ground": -10.407840728759766,
+    "y": -10.477840423583984,
+    "visibleGround": -10.96683,
+    "correction": -0.55899
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 110.93207550048828,
+    "name": "Reef_014_GoldenBrain",
+    "z": -51.25343322753906,
+    "ground": -15.687469482421875,
+    "y": -15.757469177246094,
+    "visibleGround": -15.71463,
+    "correction": -0.02716
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 137.64695739746094,
+    "name": "Reef_015_PeachCups",
+    "z": 72.3433837890625,
+    "ground": -28.912294387817383,
+    "y": -28.9822940826416,
+    "visibleGround": -29.03892,
+    "correction": -0.12662
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 96.10686492919922,
+    "name": "Reef_016_LavenderFingers",
+    "z": -149.46826171875,
+    "ground": -40.80027389526367,
+    "y": -40.87027359008789,
+    "visibleGround": -40.83533,
+    "correction": -0.03506
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 210.27957153320312,
+    "name": "Reef_017_CrimsonLettuce",
+    "z": -17.421234130859375,
+    "ground": -55.7325439453125,
+    "y": -55.80254364013672,
+    "visibleGround": -56.8569,
+    "correction": -1.12436
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -150.82351684570312,
+    "name": "Reef_018_CobaltTubes",
+    "z": 163.0358123779297,
+    "ground": -59.76118469238281,
+    "y": -59.83118438720703,
+    "visibleGround": -60.48835,
+    "correction": -0.72717
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 74.64643859863281,
+    "name": "Reef_019_SunbeamAntlers",
+    "z": 82.28681182861328,
+    "ground": -9.854377746582031,
+    "y": -9.92437744140625,
+    "visibleGround": -9.87885,
+    "correction": -0.02448
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -121.67853546142578,
+    "name": "Reef_020_MintPagoda",
+    "z": -11.277137756347656,
+    "ground": -14.791263580322266,
+    "y": -14.861263275146484,
+    "visibleGround": -14.87158,
+    "correction": -0.08032
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -82.8201675415039,
+    "name": "Reef_021_SunsetStaghorn",
+    "z": -131.60952758789062,
+    "ground": -31.392688751220703,
+    "y": -31.462688446044922,
+    "visibleGround": -31.39244,
+    "correction": 0.00025
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -158.09725952148438,
+    "name": "Reef_022_VioletSeaFan",
+    "z": 81.13289642333984,
+    "ground": -37.45665740966797,
+    "y": -37.52665710449219,
+    "visibleGround": -37.87695,
+    "correction": -0.42029
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -190.67138671875,
+    "name": "Reef_023_TurquoiseTable",
+    "z": -90.36273193359375,
+    "ground": -59.7186279296875,
+    "y": -59.78862762451172,
+    "visibleGround": -60.38128,
+    "correction": -0.66265
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 212.24159240722656,
+    "name": "Reef_024_GoldenBrain",
+    "z": -65.43634796142578,
+    "ground": -62.874977111816406,
+    "y": -62.944976806640625,
+    "visibleGround": -63.95568,
+    "correction": -1.0807
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -23.325706481933594,
+    "name": "Reef_025_PeachCups",
+    "z": -108.62376403808594,
+    "ground": -9.458930969238281,
+    "y": -9.5289306640625,
+    "visibleGround": -9.66935,
+    "correction": -0.21042
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 99.6231918334961,
+    "name": "Reef_026_LavenderFingers",
+    "z": 70.76764678955078,
+    "ground": -13.709695816040039,
+    "y": -13.779695510864258,
+    "visibleGround": -14.65454,
+    "correction": -0.94484
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 5.6669158935546875,
+    "name": "Reef_027_CrimsonLettuce",
+    "z": 155.39669799804688,
+    "ground": -33.003440856933594,
+    "y": -33.07344055175781,
+    "visibleGround": -33.00346,
+    "correction": -2e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 177.46817016601562,
+    "name": "Reef_028_CobaltTubes",
+    "z": 9.074066162109375,
+    "ground": -39.243995666503906,
+    "y": -39.313995361328125,
+    "visibleGround": -39.41302,
+    "correction": -0.16903
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 119.66246032714844,
+    "name": "Reef_029_SunbeamAntlers",
+    "z": 173.78692626953125,
+    "ground": -56.63031005859375,
+    "y": -56.70030975341797,
+    "visibleGround": -56.70919,
+    "correction": -0.07888
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -216.444091796875,
+    "name": "Reef_030_MintPagoda",
+    "z": -49.80328369140625,
+    "ground": -63.93689727783203,
+    "y": -64.00689697265625,
+    "visibleGround": -63.9411,
+    "correction": -0.0042
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -34.283111572265625,
+    "name": "Reef_031_SunsetStaghorn",
+    "z": 105.67818450927734,
+    "ground": -10.785228729248047,
+    "y": -10.855228424072266,
+    "visibleGround": -11.78216,
+    "correction": -0.99693
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -50.71161651611328,
+    "name": "Reef_032_VioletSeaFan",
+    "z": -111.18074035644531,
+    "ground": -13.799703598022461,
+    "y": -13.86970329284668,
+    "visibleGround": -13.84505,
+    "correction": -0.04535
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 73.01400756835938,
+    "name": "Reef_033_TurquoiseTable",
+    "z": -137.2924041748047,
+    "ground": -28.029008865356445,
+    "y": -28.099008560180664,
+    "visibleGround": -28.02899,
+    "correction": 2e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -148.9976348876953,
+    "name": "Reef_034_GoldenBrain",
+    "z": -96.83486938476562,
+    "ground": -41.907623291015625,
+    "y": -41.977622985839844,
+    "visibleGround": -42.03333,
+    "correction": -0.12571
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -16.395217895507812,
+    "name": "Reef_035_PeachCups",
+    "z": -210.362060546875,
+    "ground": -55.19760513305664,
+    "y": -55.26760482788086,
+    "visibleGround": -55.30545,
+    "correction": -0.10785
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 162.29811096191406,
+    "name": "Reef_036_LavenderFingers",
+    "z": 151.6170654296875,
+    "ground": -61.46011734008789,
+    "y": -61.53011703491211,
+    "visibleGround": -62.76021,
+    "correction": -1.30009
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 82.64974975585938,
+    "name": "Reef_037_CrimsonLettuce",
+    "z": -74.24383544921875,
+    "ground": -10.915199279785156,
+    "y": -10.985198974609375,
+    "visibleGround": -11.93773,
+    "correction": -1.02253
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -11.870590209960938,
+    "name": "Reef_038_CobaltTubes",
+    "z": 121.62207794189453,
+    "ground": -15.075569152832031,
+    "y": -15.14556884765625,
+    "visibleGround": -15.15067,
+    "correction": -0.0751
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -132.01199340820312,
+    "name": "Reef_039_SunbeamAntlers",
+    "z": 82.17715454101562,
+    "ground": -26.1177921295166,
+    "y": -26.18779182434082,
+    "visibleGround": -26.19663,
+    "correction": -0.07884
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 80.36068725585938,
+    "name": "Reef_040_MintPagoda",
+    "z": 158.4911651611328,
+    "ground": -40.18454360961914,
+    "y": -40.25454330444336,
+    "visibleGround": -40.18457,
+    "correction": -2e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -91.29180145263672,
+    "name": "Reef_041_SunsetStaghorn",
+    "z": 190.22830200195312,
+    "ground": -59.987884521484375,
+    "y": -60.057884216308594,
+    "visibleGround": -60.8368,
+    "correction": -0.84892
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -64.40019226074219,
+    "name": "Reef_042_VioletSeaFan",
+    "z": -212.55828857421875,
+    "ground": -62.70265579223633,
+    "y": -62.77265548706055,
+    "visibleGround": -63.25521,
+    "correction": -0.55256
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -108.73609161376953,
+    "name": "Reef_043_TurquoiseTable",
+    "z": 22.79552459716797,
+    "ground": -8.937812805175781,
+    "y": -9.0078125,
+    "visibleGround": -9.55366,
+    "correction": -0.61585
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 71.25279998779297,
+    "name": "Reef_044_GoldenBrain",
+    "z": -99.27677917480469,
+    "ground": -13.959817886352539,
+    "y": -14.029817581176758,
+    "visibleGround": -14.14075,
+    "correction": -0.18093
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -107.76071166992188,
+    "name": "Reef_045_PeachCups",
+    "z": -34.555137634277344,
+    "ground": -11.010080337524414,
+    "y": -11.080080032348633,
+    "visibleGround": -11.88396,
+    "correction": -0.87388
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -103.47764587402344,
+    "name": "Reef_046_LavenderFingers",
+    "z": -43.94695281982422,
+    "ground": -10.446296691894531,
+    "y": -10.51629638671875,
+    "visibleGround": -11.38354,
+    "correction": -0.93725
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -97.50592041015625,
+    "name": "Reef_047_CrimsonLettuce",
+    "z": -42.12932586669922,
+    "ground": -8.316471099853516,
+    "y": -8.386470794677734,
+    "visibleGround": -8.51937,
+    "correction": -0.2029
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -107.94160461425781,
+    "name": "Reef_048_CobaltTubes",
+    "z": -45.594093322753906,
+    "ground": -12.156806945800781,
+    "y": -12.226806640625,
+    "visibleGround": -12.56496,
+    "correction": -0.40815
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -99.91058349609375,
+    "name": "Reef_049_SunbeamAntlers",
+    "z": -46.73048400878906,
+    "ground": -9.620399475097656,
+    "y": -9.690399169921875,
+    "visibleGround": -10.3539,
+    "correction": -0.7335
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -101.0215072631836,
+    "name": "Reef_050_MintPagoda",
+    "z": -28.490631103515625,
+    "ground": -8.137382507324219,
+    "y": -8.207382202148438,
+    "visibleGround": -8.17438,
+    "correction": -0.03699
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 84.23928833007812,
+    "name": "Reef_051_SunsetStaghorn",
+    "z": -93.55513763427734,
+    "ground": -16.808555603027344,
+    "y": -16.878555297851562,
+    "visibleGround": -16.96129,
+    "correction": -0.15273
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 88.52235412597656,
+    "name": "Reef_052_VioletSeaFan",
+    "z": -102.94695281982422,
+    "ground": -22.62807846069336,
+    "y": -22.698078155517578,
+    "visibleGround": -23.0729,
+    "correction": -0.44482
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 94.49407958984375,
+    "name": "Reef_053_TurquoiseTable",
+    "z": -101.12932586669922,
+    "ground": -24.513166427612305,
+    "y": -24.583166122436523,
+    "visibleGround": -24.627,
+    "correction": -0.11383
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 84.05839538574219,
+    "name": "Reef_054_GoldenBrain",
+    "z": -104.5940933227539,
+    "ground": -21.360130310058594,
+    "y": -21.430130004882812,
+    "visibleGround": -21.74913,
+    "correction": -0.389
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 92.08941650390625,
+    "name": "Reef_055_PeachCups",
+    "z": -105.73048400878906,
+    "ground": -24.566774368286133,
+    "y": -24.63677406311035,
+    "visibleGround": -24.72354,
+    "correction": -0.15676
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 90.9784927368164,
+    "name": "Reef_056_LavenderFingers",
+    "z": -87.49063110351562,
+    "ground": -17.431455612182617,
+    "y": -17.501455307006836,
+    "visibleGround": -17.91114,
+    "correction": -0.47968
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 144.23928833007812,
+    "name": "Reef_057_CrimsonLettuce",
+    "z": 69.44486236572266,
+    "ground": -31.235931396484375,
+    "y": -31.305931091308594,
+    "visibleGround": -31.61585,
+    "correction": -0.37992
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 148.52235412597656,
+    "name": "Reef_058_CobaltTubes",
+    "z": 60.05304718017578,
+    "ground": -31.07935333251953,
+    "y": -31.14935302734375,
+    "visibleGround": -31.23511,
+    "correction": -0.15576
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 154.49403381347656,
+    "name": "Reef_059_SunbeamAntlers",
+    "z": 61.870662689208984,
+    "ground": -34.61484146118164,
+    "y": -34.68484115600586,
+    "visibleGround": -35.42358,
+    "correction": -0.80873
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 144.0583953857422,
+    "name": "Reef_060_MintPagoda",
+    "z": 58.405906677246094,
+    "ground": -27.917381286621094,
+    "y": -27.987380981445312,
+    "visibleGround": -27.91739,
+    "correction": -1e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 152.08941650390625,
+    "name": "Reef_061_SunsetStaghorn",
+    "z": 57.26951599121094,
+    "ground": -32.51805114746094,
+    "y": -32.588050842285156,
+    "visibleGround": -32.69481,
+    "correction": -0.17675
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 150.97848510742188,
+    "name": "Reef_062_VioletSeaFan",
+    "z": 75.50936889648438,
+    "ground": -35.476051330566406,
+    "y": -35.546051025390625,
+    "visibleGround": -36.87817,
+    "correction": -1.40212
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -113.76071166992188,
+    "name": "Reef_063_TurquoiseTable",
+    "z": 115.44486236572266,
+    "ground": -31.127426147460938,
+    "y": -31.197425842285156,
+    "visibleGround": -31.12746,
+    "correction": -3e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -109.47764587402344,
+    "name": "Reef_064_GoldenBrain",
+    "z": 106.05304718017578,
+    "ground": -25.63960075378418,
+    "y": -25.7096004486084,
+    "visibleGround": -25.80402,
+    "correction": -0.16442
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -103.50592041015625,
+    "name": "Reef_065_PeachCups",
+    "z": 107.87067413330078,
+    "ground": -24.821022033691406,
+    "y": -24.891021728515625,
+    "visibleGround": -24.97026,
+    "correction": -0.14924
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -113.94160461425781,
+    "name": "Reef_066_LavenderFingers",
+    "z": 104.4059066772461,
+    "ground": -26.22188377380371,
+    "y": -26.29188346862793,
+    "visibleGround": -26.32624,
+    "correction": -0.10436
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -105.91058349609375,
+    "name": "Reef_067_CrimsonLettuce",
+    "z": 103.26951599121094,
+    "ground": -24.10982322692871,
+    "y": -24.17982292175293,
+    "visibleGround": -24.60928,
+    "correction": -0.49945
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -107.0215072631836,
+    "name": "Reef_068_CobaltTubes",
+    "z": 121.50936889648438,
+    "ground": -31.87472915649414,
+    "y": -31.94472885131836,
+    "visibleGround": -31.87475,
+    "correction": -2e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -40.76069641113281,
+    "name": "Reef_069_SunbeamAntlers",
+    "z": 171.44476318359375,
+    "ground": -44.602046966552734,
+    "y": -44.67204666137695,
+    "visibleGround": -44.75989,
+    "correction": -0.15784
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -36.47764587402344,
+    "name": "Reef_070_MintPagoda",
+    "z": 162.0530548095703,
+    "ground": -38.77241134643555,
+    "y": -38.842411041259766,
+    "visibleGround": -38.79459,
+    "correction": -0.02218
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -30.505916595458984,
+    "name": "Reef_071_SunsetStaghorn",
+    "z": 163.87066650390625,
+    "ground": -38.97647476196289,
+    "y": -39.04647445678711,
+    "visibleGround": -38.99577,
+    "correction": -0.01929
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -40.94160079956055,
+    "name": "Reef_072_VioletSeaFan",
+    "z": 160.40591430664062,
+    "ground": -38.55748748779297,
+    "y": -38.62748718261719,
+    "visibleGround": -38.58293,
+    "correction": -0.02544
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -32.91058349609375,
+    "name": "Reef_073_TurquoiseTable",
+    "z": 159.26951599121094,
+    "ground": -38.034549713134766,
+    "y": -38.104549407958984,
+    "visibleGround": -38.03874,
+    "correction": -0.00419
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -34.021507263183594,
+    "name": "Reef_074_GoldenBrain",
+    "z": 177.50936889648438,
+    "ground": -47.53004455566406,
+    "y": -47.60004425048828,
+    "visibleGround": -48.20603,
+    "correction": -0.67598
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 164.23928833007812,
+    "name": "Reef_075_PeachCups",
+    "z": -86.55513763427734,
+    "ground": -49.630393981933594,
+    "y": -49.70039367675781,
+    "visibleGround": -50.99174,
+    "correction": -1.36135
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 168.52235412597656,
+    "name": "Reef_076_LavenderFingers",
+    "z": -95.94695281982422,
+    "ground": -53.496849060058594,
+    "y": -53.56684875488281,
+    "visibleGround": -53.51848,
+    "correction": -0.02163
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 174.49407958984375,
+    "name": "Reef_077_CrimsonLettuce",
+    "z": -94.12932586669922,
+    "ground": -55.86610412597656,
+    "y": -55.93610382080078,
+    "visibleGround": -55.95895,
+    "correction": -0.09285
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 164.0583953857422,
+    "name": "Reef_078_CobaltTubes",
+    "z": -97.5940933227539,
+    "ground": -52.053558349609375,
+    "y": -52.123558044433594,
+    "visibleGround": -52.19532,
+    "correction": -0.14176
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 172.08941650390625,
+    "name": "Reef_079_SunbeamAntlers",
+    "z": -98.73048400878906,
+    "ground": -56.10570526123047,
+    "y": -56.17570495605469,
+    "visibleGround": -56.22251,
+    "correction": -0.11681
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 170.97848510742188,
+    "name": "Reef_080_MintPagoda",
+    "z": -80.49063110351562,
+    "ground": -50.87921905517578,
+    "y": -50.94921875,
+    "visibleGround": -51.4073,
+    "correction": -0.52808
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 58.848907470703125,
+    "name": "Shallows_01_SunsetStaghorn",
+    "z": 78.67848205566406,
+    "ground": -5.12396240234375,
+    "y": -5.193962574005127,
+    "visibleGround": -5.49991,
+    "correction": -0.37594
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 61.32359313964844,
+    "name": "Shallows_01_VioletSeaFan",
+    "z": 73.6635971069336,
+    "ground": -4.516437530517578,
+    "y": -4.586437702178955,
+    "visibleGround": -5.08361,
+    "correction": -0.56717
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 62.886146545410156,
+    "name": "Shallows_01_TurquoiseTable",
+    "z": 79.03309631347656,
+    "ground": -5.880168914794922,
+    "y": -5.950169086456299,
+    "visibleGround": -5.9629,
+    "correction": -0.08274
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -63.78617858886719,
+    "name": "Shallows_03_CrimsonLettuce",
+    "z": 71.72318267822266,
+    "ground": -3.8183326721191406,
+    "y": -3.8883326053619385,
+    "visibleGround": -4.39882,
+    "correction": -0.58048
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -61.311500549316406,
+    "name": "Shallows_03_CobaltTubes",
+    "z": 66.70829772949219,
+    "ground": -2.444293975830078,
+    "y": -2.514293909072876,
+    "visibleGround": -2.50401,
+    "correction": -0.05971
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -59.74894714355469,
+    "name": "Shallows_03_SunbeamAntlers",
+    "z": 72.07779693603516,
+    "ground": -3.3704490661621094,
+    "y": -3.4404489994049072,
+    "visibleGround": -3.72278,
+    "correction": -0.35233
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -99.12538146972656,
+    "name": "Shallows_04_MintPagoda",
+    "z": 16.58080291748047,
+    "ground": -5.6109161376953125,
+    "y": -5.6809163093566895,
+    "visibleGround": -5.80777,
+    "correction": -0.19685
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -96.65070343017578,
+    "name": "Shallows_04_SunsetStaghorn",
+    "z": 11.56591796875,
+    "ground": -4.8854827880859375,
+    "y": -4.9554829597473145,
+    "visibleGround": -5.51338,
+    "correction": -0.62789
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -95.08815002441406,
+    "name": "Shallows_04_VioletSeaFan",
+    "z": 16.93541717529297,
+    "ground": -4.520729064941406,
+    "y": -4.590729236602783,
+    "visibleGround": -5.21285,
+    "correction": -0.69212
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -90.07246398925781,
+    "name": "Shallows_05_TurquoiseTable",
+    "z": -51.72834396362305,
+    "ground": -6.885394096374512,
+    "y": -6.955394268035889,
+    "visibleGround": -6.88539,
+    "correction": 0.0
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -87.5977783203125,
+    "name": "Shallows_05_GoldenBrain",
+    "z": -56.743228912353516,
+    "ground": -7.005037784576416,
+    "y": -7.075037956237793,
+    "visibleGround": -7.00503,
+    "correction": 1e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -86.03522491455078,
+    "name": "Shallows_05_PeachCups",
+    "z": -51.37372970581055,
+    "ground": -4.159665107727051,
+    "y": -4.229665279388428,
+    "visibleGround": -4.15966,
+    "correction": 1e-05
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -31.784378051757812,
+    "name": "Shallows_06_LavenderFingers",
+    "z": -86.14665222167969,
+    "ground": -1.7250686883926392,
+    "y": -1.7950687408447266,
+    "visibleGround": -2.01694,
+    "correction": -0.29187
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -29.30970001220703,
+    "name": "Shallows_06_CrimsonLettuce",
+    "z": -91.16153717041016,
+    "ground": -3.323659896850586,
+    "y": -3.393659830093384,
+    "visibleGround": -3.49252,
+    "correction": -0.16886
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": -27.747142791748047,
+    "name": "Shallows_06_CobaltTubes",
+    "z": -85.79203796386719,
+    "ground": -0.9502770900726318,
+    "y": -1.0202771425247192,
+    "visibleGround": -1.03318,
+    "correction": -0.08291
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 33.639930725097656,
+    "name": "Shallows_07_SunbeamAntlers",
+    "z": -89.18011474609375,
+    "ground": -3.269939422607422,
+    "y": -3.3399393558502197,
+    "visibleGround": -3.74232,
+    "correction": -0.47238
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 36.11460876464844,
+    "name": "Shallows_07_MintPagoda",
+    "z": -94.19499969482422,
+    "ground": -4.783527374267578,
+    "y": -4.853527545928955,
+    "visibleGround": -5.22423,
+    "correction": -0.4407
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 37.67716598510742,
+    "name": "Shallows_07_SunsetStaghorn",
+    "z": -88.82550048828125,
+    "ground": -3.7786407470703125,
+    "y": -3.8486406803131104,
+    "visibleGround": -4.30606,
+    "correction": -0.52742
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 88.27091979980469,
+    "name": "Shallows_08_VioletSeaFan",
+    "z": -47.18547821044922,
+    "ground": -6.777797698974609,
+    "y": -6.847797870635986,
+    "visibleGround": -6.79512,
+    "correction": -0.01732
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 90.74559783935547,
+    "name": "Shallows_08_TurquoiseTable",
+    "z": -52.20035934448242,
+    "ground": -8.990425109863281,
+    "y": -9.0604248046875,
+    "visibleGround": -8.99057,
+    "correction": -0.00014
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 92.30815887451172,
+    "name": "Shallows_08_GoldenBrain",
+    "z": -46.83086395263672,
+    "ground": -8.182147979736328,
+    "y": -8.252147674560547,
+    "visibleGround": -8.19062,
+    "correction": -0.00847
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 88.93401336669922,
+    "name": "Shallows_09_PeachCups",
+    "z": 20.502639770507812,
+    "ground": -2.6802024841308594,
+    "y": -2.7502024173736572,
+    "visibleGround": -2.80889,
+    "correction": -0.12869
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 91.40869140625,
+    "name": "Shallows_09_LavenderFingers",
+    "z": 15.487754821777344,
+    "ground": -3.088336944580078,
+    "y": -3.158336877822876,
+    "visibleGround": -3.35943,
+    "correction": -0.2711
+  },
+  {
+    "folder": "PolishedReefs",
+    "x": 92.97124481201172,
+    "name": "Shallows_09_CrimsonLettuce",
+    "z": 20.857254028320312,
+    "ground": -3.720073699951172,
+    "y": -3.7900736331939697,
+    "visibleGround": -4.23654,
+    "correction": -0.51647
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -19.000001907348633,
+    "name": "GardenFoliage_1",
+    "z": -20.999998092651367,
+    "ground": 5.999997138977051,
+    "y": 5.929996967315674,
+    "visibleGround": 6.0,
+    "correction": 0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -17.30000114440918,
+    "name": "GardenGrass_1",
+    "z": -21.69999885559082,
+    "ground": 5.999997138977051,
+    "y": 5.929996967315674,
+    "visibleGround": 6.0,
+    "correction": 0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -15.999998092651367,
+    "name": "GardenFoliage_2",
+    "z": 24.000001907348633,
+    "ground": 6.000004768371582,
+    "y": 5.930004596710205,
+    "visibleGround": 6.0,
+    "correction": -0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -14.299999237060547,
+    "name": "GardenGrass_2",
+    "z": 23.30000114440918,
+    "ground": 6.000003814697266,
+    "y": 5.930003643035889,
+    "visibleGround": 6.0,
+    "correction": -0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 25.000001907348633,
+    "name": "GardenFoliage_3",
+    "z": 23.999998092651367,
+    "ground": 5.998711585998535,
+    "y": 5.928711414337158,
+    "visibleGround": 5.99871,
+    "correction": -0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 26.700002670288086,
+    "name": "GardenGrass_3",
+    "z": 23.299997329711914,
+    "ground": 5.99623966217041,
+    "y": 5.926239490509033,
+    "visibleGround": 5.99624,
+    "correction": -0.0
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -52,
+    "name": "GardenFoliage_4",
+    "z": -5.999995231628418,
+    "ground": 5.915041923522949,
+    "y": 5.845041751861572,
+    "visibleGround": 5.91737,
+    "correction": 0.00233
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -50.29999542236328,
+    "name": "GardenGrass_4",
+    "z": -6.699995994567871,
+    "ground": 5.9249162673950195,
+    "y": 5.854916095733643,
+    "visibleGround": 5.92567,
+    "correction": 0.00075
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 55,
+    "name": "GardenFoliage_5",
+    "z": -8.000004768371582,
+    "ground": 5.918975830078125,
+    "y": 5.848975658416748,
+    "visibleGround": 5.92133,
+    "correction": 0.00235
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 56.70000076293945,
+    "name": "GardenGrass_5",
+    "z": -8.700004577636719,
+    "ground": 5.90972900390625,
+    "y": 5.839728832244873,
+    "visibleGround": 5.91098,
+    "correction": 0.00125
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -2.0000035762786865,
+    "name": "GardenFoliage_6",
+    "z": -42,
+    "ground": 5.963683128356934,
+    "y": 5.893682956695557,
+    "visibleGround": 5.96481,
+    "correction": 0.00112
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -0.3000037670135498,
+    "name": "GardenGrass_6",
+    "z": -42.70000076293945,
+    "ground": 5.959739685058594,
+    "y": 5.889739513397217,
+    "visibleGround": 5.95733,
+    "correction": -0.00241
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -55.999996185302734,
+    "name": "GardenFoliage_7",
+    "z": 41.000003814697266,
+    "ground": 3.69023060798645,
+    "y": 3.6202306747436523,
+    "visibleGround": 3.64744,
+    "correction": -0.04279
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -54.29999542236328,
+    "name": "GardenGrass_7",
+    "z": 40.30000305175781,
+    "ground": 3.9820687770843506,
+    "y": 3.9120688438415527,
+    "visibleGround": 3.84596,
+    "correction": -0.13611
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 45.000003814697266,
+    "name": "GardenFoliage_8",
+    "z": 48.999996185302734,
+    "ground": 4.145369529724121,
+    "y": 4.075369358062744,
+    "visibleGround": 4.0595,
+    "correction": -0.08587
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 46.70000457763672,
+    "name": "GardenGrass_8",
+    "z": 48.29999542236328,
+    "ground": 4.011836051940918,
+    "y": 3.94183611869812,
+    "visibleGround": 3.892,
+    "correction": -0.11984
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 59.999996185302734,
+    "name": "GardenFoliage_9",
+    "z": -33.000003814697266,
+    "ground": 4.569584369659424,
+    "y": 4.499584197998047,
+    "visibleGround": 4.55733,
+    "correction": -0.01225
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 61.69999694824219,
+    "name": "GardenGrass_9",
+    "z": -33.70000457763672,
+    "ground": 3.9007909297943115,
+    "y": 3.8307909965515137,
+    "visibleGround": 3.85991,
+    "correction": -0.04088
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -26.000003814697266,
+    "name": "GardenFoliage_10",
+    "z": -50.999996185302734,
+    "ground": 5.805328369140625,
+    "y": 5.735328197479248,
+    "visibleGround": 5.81029,
+    "correction": 0.00496
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -24.300003051757812,
+    "name": "GardenGrass_10",
+    "z": -51.69999694824219,
+    "ground": 5.823973655700684,
+    "y": 5.753973484039307,
+    "visibleGround": 5.83045,
+    "correction": 0.00648
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -32,
+    "name": "GardenFoliage_11",
+    "z": 31,
+    "ground": 5.95228385925293,
+    "y": 5.882283687591553,
+    "visibleGround": 5.94824,
+    "correction": -0.00405
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -30.29999542236328,
+    "name": "GardenGrass_11",
+    "z": 30.299999237060547,
+    "ground": 5.96126651763916,
+    "y": 5.891266345977783,
+    "visibleGround": 5.9595,
+    "correction": -0.00177
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 22.0000057220459,
+    "name": "GardenFoliage_12",
+    "z": 54.999996185302734,
+    "ground": 5.668431282043457,
+    "y": 5.59843111038208,
+    "visibleGround": 5.65799,
+    "correction": -0.01044
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 23.70000648498535,
+    "name": "GardenGrass_12",
+    "z": 54.29999542236328,
+    "ground": 5.6940717697143555,
+    "y": 5.6240715980529785,
+    "visibleGround": 5.6913,
+    "correction": -0.00277
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 62.590553283691406,
+    "name": "BeachDetail_1",
+    "z": 39.47686004638672,
+    "ground": 1.7111661434173584,
+    "y": 1.641166090965271,
+    "visibleGround": 1.52746,
+    "correction": -0.18371
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 43.87356185913086,
+    "name": "BeachDetail_2",
+    "z": 62.05731964111328,
+    "ground": 2.4682343006134033,
+    "y": 2.3982343673706055,
+    "visibleGround": 2.27713,
+    "correction": -0.1911
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -40.543800354003906,
+    "name": "BeachDetail_5",
+    "z": 64.28218841552734,
+    "ground": 2.5379478931427,
+    "y": 2.4679479598999023,
+    "visibleGround": 2.53794,
+    "correction": -1e-05
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -58.791141510009766,
+    "name": "BeachDetail_6",
+    "z": 41.56442642211914,
+    "ground": 2.9904563426971436,
+    "y": 2.9204564094543457,
+    "visibleGround": 2.99415,
+    "correction": 0.00369
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -72.17256164550781,
+    "name": "BeachDetail_7",
+    "z": 16.34385108947754,
+    "ground": 2.0531294345855713,
+    "y": 1.9831293821334839,
+    "visibleGround": 1.65354,
+    "correction": -0.39959
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -74.9044418334961,
+    "name": "BeachDetail_8",
+    "z": -12.857858657836914,
+    "ground": 2.5842397212982178,
+    "y": 2.51423978805542,
+    "visibleGround": 2.29205,
+    "correction": -0.29219
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -60.898921966552734,
+    "name": "BeachDetail_9",
+    "z": -38.409915924072266,
+    "ground": 4.143007278442383,
+    "y": 4.073007106781006,
+    "visibleGround": 4.06641,
+    "correction": -0.0766
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -42.718994140625,
+    "name": "BeachDetail_10",
+    "z": -60.424232482910156,
+    "ground": 3.199157476425171,
+    "y": 3.129157543182373,
+    "visibleGround": 2.96295,
+    "correction": -0.23621
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": -16.78557586669922,
+    "name": "BeachDetail_11",
+    "z": -74.1231689453125,
+    "ground": 2.706763982772827,
+    "y": 2.6367640495300293,
+    "visibleGround": 2.70678,
+    "correction": 1e-05
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 12.181129455566406,
+    "name": "BeachDetail_12",
+    "z": -70.96210479736328,
+    "ground": 2.1839964389801025,
+    "y": 2.1139965057373047,
+    "visibleGround": 1.9252,
+    "correction": -0.2588
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 39.47686004638672,
+    "name": "BeachDetail_13",
+    "z": -62.590553283691406,
+    "ground": 2.686995267868042,
+    "y": 2.616995334625244,
+    "visibleGround": 2.6918,
+    "correction": 0.00481
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 62.05731964111328,
+    "name": "BeachDetail_14",
+    "z": -43.87356185913086,
+    "ground": 3.0450737476348877,
+    "y": 2.97507381439209,
+    "visibleGround": 3.04508,
+    "correction": 1e-05
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 70.22195434570312,
+    "name": "BeachDetail_15",
+    "z": -15.902124404907227,
+    "ground": 4.119251251220703,
+    "y": 4.049251079559326,
+    "visibleGround": 3.96345,
+    "correction": -0.1558
+  },
+  {
+    "folder": "CoastalPlanting",
+    "x": 72.93327331542969,
+    "name": "BeachDetail_16",
+    "z": 12.51949405670166,
+    "ground": 3.037119150161743,
+    "y": 2.9671192169189453,
+    "visibleGround": 2.94349,
+    "correction": -0.09362
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-16",
+  "scope": "Skill discovery, source review, installation and availability checks only",
+  "installation_root": "C:/Users/Administrator/.codex/skills",
+  "installed_skills": 30,
+  "verified_upstream_files": 96,
+  "python_files_syntax_checked": 42,
+  "evidence": {
+    "sources_and_pinned_commits": "selected-skills.json",
+    "repository_reputation": "repository-metadata.json",
+    "static_scan_matches": "static-findings.json",
+    "imports": "python-imports.json",
+    "final_installation_verification": "installation-verification.json",
+    "historical_initial_verification": "installation-results.json (superseded: raw CRLF differences, resolved in final verification)"
+  },
+  "review": [
+    "Read the SKILL.md instructions for every selected skill and key UI, Blender execution and Roblox export references.",
+    "All four selected repositories have MIT licenses; preserved license and commit/file hash provenance in each installed skill.",
+    "All selected files were UTF-8 text; checked for symlinks, Python syntax, imports, common network/shell/credential access and instruction-override patterns.",
+    "Reviewed scan findings. No obvious credential exfiltration, hidden network client, bundled binary or instruction override found in the selected skill directories. This is a static review, not a comprehensive security certification.",
+    "The Blender runner invokes a local Blender process with argument arrays, without shell=True. Batch automation loads caller-selected files/modules; use trusted inputs and separate output paths.",
+    "Roblox tooling documentation contains curl-pipe-shell setup examples and publishing/CI recipes. None were executed. Review and pin any future downloaded installer before executing it; publishing needs task authorization.",
+    "Installed with the existing Codex skill-installer helper at pinned GitHub commits; did not execute third-party repository installers, hooks or game-building scripts.",
+    "26 files differ from the Windows Git checkout only by CRLF/LF conversion. Verified normalized content and recorded the installed raw SHA-256 hashes.",
+    "All explicit relative Markdown links in installed SKILL.md files resolve. Related-skill mentions include optional specialists that are not all installed."
+  ],
+  "compatibility": {
+    "os": "Windows, PowerShell",
+    "blender": "5.2.1 LTS",
+    "python": "3.13.13 bundled with Blender; WindowsApps python alias was unusable",
+    "blender_check": "Installed blender-core/run_in_blender.py successfully ran installed env_report.py; exit 0, ok true, background true, file null. No asset was saved or rendered.",
+    "blender_versions": "Pack declares 5.2 LTS+ support and also documents 5.3-only APIs. Check feature/version availability before use. Modeling/export/render workflows were not exercised because this task excludes creating content.",
+    "roblox_studio": "Existing local installation and mcp.bat found; no place edited or playtest started.",
+    "mcp": "No callable Roblox or Blender MCP tools present in this session; skill installation does not connect a server. MCP configuration unchanged.",
+    "codex_discovery": "Installed in the standard user skill directory, with unique matching directory/frontmatter names. Files are readable now; automatic skill catalog loading is expected on the next turn."
+  },
+  "selection_exclusions": [
+    {
+      "candidate": "tabooharmony/roblox-brain: roblox-ui-design",
+      "reason": "skills.sh still indexes it, but current repository changelog says the standalone skill was removed. Installed its maintained practical successor roblox-gui."
+    },
+    {
+      "candidate": "ohzw/roblox-dev-skills: roblox-ui-mastery",
+      "reason": "Marked internal:true, tied to project-specific DesignSystem/ResponsiveUI helpers, and contains outdated blanket UI limitations. Not installed."
+    },
+    {
+      "candidate": "scenario-labs/skills: scenario-roblox-*",
+      "reason": "Published skills explicitly target a macOS toolkit; selected Windows-compatible alternatives instead. Not installed."
+    },
+    {
+      "candidate": "afrxo/roblox-agent-skills",
+      "reason": "Reviewed as an alternative; selected the more recent specialized Roblox set to avoid duplicate roblox-ui and overlapping base instructions."
+    }
+  ],
+  "future_art_direction": "Bright, colorful, cartoon-like Roblox fishing game inspired by How to Fish. Apply user art direction over generic photorealism, weathering or default palette recommendations. Blender toon node shaders do not transfer directly to Roblox; use compatible textures/materials and verify the look in Studio.",
+  "game_content_created": false
+}

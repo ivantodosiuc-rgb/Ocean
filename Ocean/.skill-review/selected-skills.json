@@ -1,0 +1,368 @@
+[
+  {
+    "name": "roblox-get-started",
+    "repo": "Roblox/roblox-studio-agent-plugin",
+    "commit": "57d72048b1d36da3621628dc280baa86e0c6b125",
+    "path": "skills/roblox-get-started",
+    "checkout": "roblox-official",
+    "files": {
+      "references/connect.md": "e95a2b8f71934ad6447cfbdb27e5061672b078cd8782977696085b0192d20a72",
+      "references/install.md": "ba0e0fe5f88a43ed2e416157468adaea0165baa6159bd1e68cb51878b6b72261",
+      "references/troubleshoot.md": "e12ba1a821d26dff6a5ff8c95bbf1bd9e1717d55b05c8c57492f40475b2a8854",
+      "SECURITY.md": "aaab04c4038fd1f6916525e5432b87ed56257dfdaa55db6c671ccc4bd47c029c",
+      "SKILL.md": "0d721b0cad1d338712105dcc9c93c41cdcbd2b63abaee361adbeeaa69fce8e00"
+    }
+  },
+  {
+    "name": "roblox-luau",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-luau",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/stdlib-cheatsheet.md": "b84e0d7e5fad2f10fe4dea3260024a3014b1dfac505a60bf3e18ed7dfb63356a",
+      "references/type-system.md": "23cec8a62dbb25dc1af627312e61dc434a49d8486a28add35c16cf163476b431",
+      "SKILL.md": "d63a362a5fa6cf98bddfda6c5db804f181fc0904450c454a6edf13f6ec56c5e1"
+    }
+  },
+  {
+    "name": "roblox-ui",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-ui",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/styling-and-frameworks.md": "2ee93bc81f320b0ee6d58bb406b86706d7ab382bb08773d41f2746e9e1cad86c",
+      "SKILL.md": "469af6c2d15394147ddd74aba80e6664e8e8ca810e3513aa795cfeba22b012f3"
+    }
+  },
+  {
+    "name": "roblox-input",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-input",
+    "checkout": "roblox-skills",
+    "files": {
+      "SKILL.md": "ed106f1d3f13d102df9364c3c14585d8989f465bf1ae2d94ff469c78cd92c454"
+    }
+  },
+  {
+    "name": "roblox-world-building",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-world-building",
+    "checkout": "roblox-skills",
+    "files": {
+      "SKILL.md": "5cfb0710d9cd70b4c97e1162ddec33355760d983ad6cafdf291feab21f490828"
+    }
+  },
+  {
+    "name": "roblox-performance",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-performance",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/profiling.md": "df7efd7a2303a3963d267c6bd0581f137ef52b5c6b5a50cd88dfd1e24db61b1f",
+      "SKILL.md": "ccade6ae608b570823b175225b8f00dfb5f43f1c37b3ce48acffede59c175f9d"
+    }
+  },
+  {
+    "name": "roblox-testing",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-testing",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/cloud-test-runner.md": "9cdfe4688bebad7562a1a674357637018275cd48cf318974925a18cc8fc227b0",
+      "SKILL.md": "70f5d0ba3723641917cc1b9545cb8c449c67f93edb995fdccac818d5c09b6e1b"
+    }
+  },
+  {
+    "name": "roblox-tooling",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-tooling",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/ci-workflow.md": "8f9f0141c1505eaac990878969db0ff545500c1a4769420c39587f8c256eaf76",
+      "SKILL.md": "400dc4b8942f015a608579ed9a0d65ebee6920dfb693ddaf782e5bf16ff9ee32"
+    }
+  },
+  {
+    "name": "roblox-studio-mcp",
+    "repo": "EL4CTEO/roblox-skills",
+    "commit": "f94b0e499c124c11b30cd2cc0a57267090943049",
+    "path": "skills/roblox-studio-mcp",
+    "checkout": "roblox-skills",
+    "files": {
+      "references/client-setup.md": "8f8096d4f5a2a2b685f84cffe840acd5ce3441086b1ae2d62399e85519de6d21",
+      "SKILL.md": "5fb70f4b905cecce9a087787c716039a2610d55b50f4d58d801cf791b104641d"
+    }
+  },
+  {
+    "name": "roblox-gui",
+    "repo": "tabooharmony/roblox-brain",
+    "commit": "ceee4aaa5004502e2a51d78b3c33bba44d84742b",
+    "path": "skills/gameplay/roblox-gui",
+    "checkout": "roblox-brain",
+    "files": {
+      "references/full.md": "35b5b51189b212218e859675c64788d79cdd40ebeab6e142273eb2f1372976fc",
+      "SKILL.md": "93de28240d7b8f73b081985acda36f66d2ac86b938695c69822d25a9c0151999"
+    }
+  },
+  {
+    "name": "roblox-building",
+    "repo": "tabooharmony/roblox-brain",
+    "commit": "ceee4aaa5004502e2a51d78b3c33bba44d84742b",
+    "path": "skills/gameplay/roblox-building",
+    "checkout": "roblox-brain",
+    "files": {
+      "references/full.md": "8388863cd81bfc5513e520cb90f3427ff5a207abe3589eb8a4c10dbb3cd8828f",
+      "SKILL.md": "038f15b8ace91d18453788b885a8eb5b44475aeec2c81e12aca21ba0b3f869a3"
+    }
+  },
+  {
+    "name": "roblox-lighting",
+    "repo": "tabooharmony/roblox-brain",
+    "commit": "ceee4aaa5004502e2a51d78b3c33bba44d84742b",
+    "path": "skills/gameplay/roblox-lighting",
+    "checkout": "roblox-brain",
+    "files": {
+      "references/full.md": "9700905a599a4bcdcaae3dbe8a6ac4b2b31eec3ff9e3c771dd31167e07831cc0",
+      "SKILL.md": "cc344f8183207a335305e2ce67cd55611baf8405d041260a097631db123afea3"
+    }
+  },
+  {
+    "name": "blender-core",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-core",
+    "checkout": "blender-skills",
+    "files": {
+      "references/api-changes-5x.md": "e34f2e39a97833d75b6177c2e281ff9481405efd88bfd2d67003560f0c421fe1",
+      "references/bpy-patterns.md": "ba7bbc708bf198bdcdfa59d9d41d830a4ae119c24ae9457830b73d9e818e2af8",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/env_report.py": "e628feed806dd265e0c1ce803d92591aac208a9f463d8c47cbb939476d3b347a",
+      "scripts/run_in_blender.py": "e97e078c1b52475d386af2b8f9d27c7578a55c250ccd43ff50bed9c33d380355",
+      "SKILL.md": "85c6161bf7a8e648735bd04957caba76f5e9c7b8506b38afd8496cc795563789"
+    }
+  },
+  {
+    "name": "blender-scene-setup",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-scene-setup",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/scene_audit.py": "a7baf10fb5a25acaf87d1024e5ec5fb89aee43b7ebff0f8598c4667cef64ae5b",
+      "SKILL.md": "fbfc9b4fb42fd3434d4112700eeda86049908cd65e5f9d939f043e5358d69a25"
+    }
+  },
+  {
+    "name": "blender-hardsurface-modeling",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-hardsurface-modeling",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/apply_stack.py": "95127944b90646b75c73c55cb47d2a4a8e9616b4edd1c0489b94132bcd7f24e9",
+      "SKILL.md": "558d18dc0641975d45f80f48c9371c2c0bef1f3c087a2da38cd2738a9659498f"
+    }
+  },
+  {
+    "name": "blender-sculpting",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-sculpting",
+    "checkout": "blender-skills",
+    "files": {
+      "references/forms-and-bake-sources.md": "e55ecdd43201ec1bc530e0a8529c405ea53b94e79bf0dfde8b67d9995f52815e",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/sculpt_ops.py": "6adb0bcb4322900dad1b6f00c17c0f14507085e44017a3c162e26f29bcf8c7aa",
+      "SKILL.md": "cc5fe10def24140f78a0911b5338c87c489cf38fe6c735385c64330705e1c738"
+    }
+  },
+  {
+    "name": "blender-retopology-uv",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-retopology-uv",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/auto_retopo.py": "dfa69d072a1323a99fbd45fc0beda0ff1b30c40a2faeb2823998db9953b02f00",
+      "scripts/texel_density.py": "9fd15366aa20aa3005163745b12aae216c0b23a5fdafa0bbec98c1786f0c3cd6",
+      "scripts/uv_pack.py": "863fd392d1eecb79f4ca918deb12de5a3e58561de3795b07b5a4936794de855b",
+      "SKILL.md": "54c4ff16de9873c819ff4ab60dee3b10a2e0bf2c29301a1b2ff1575b5abd7e06"
+    }
+  },
+  {
+    "name": "blender-pbr-materials",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-pbr-materials",
+    "checkout": "blender-skills",
+    "files": {
+      "references/pbr-values.md": "d92f53568ea1525c84d68fc7077abfa9cc64a517ac9472fdc18b873784b84d40",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/build_pbr_material.py": "c8dfd0487b4cd73b42e24de3c14da5a26979bc5ea8bfea59c8f45fcc545a4400",
+      "SKILL.md": "6c02bc13dc33e71d816dc6b498bf38312ed7e17aa2bfcc57446a45efc7c1f318"
+    }
+  },
+  {
+    "name": "blender-texturing",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-texturing",
+    "checkout": "blender-skills",
+    "files": {
+      "references/trims-tiling-painting.md": "f5e17afe945dd3b489416ed9c1a7d2a0cd9e19b7f84920fcf0c9689275d0663f",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/decal.py": "46ce5673b4138087b74d04f8b254bdbd5f804698ed8885c055b2c25287fc1e2c",
+      "scripts/smart_material.py": "4ace4d3820c042c6ee60223eb2d4e0a7d4151f9af0334724e1c2cda0c57d3cdb",
+      "SKILL.md": "d1df25354626165849dbaa8905715192318f6044bcdb82381aa4355d602e655d"
+    }
+  },
+  {
+    "name": "blender-texture-baking",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-texture-baking",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/bake_maps.py": "16b27115c8bb19f9d4b2162a67467df9b3f9f720dcc365497a7443be9cab5e0a",
+      "SKILL.md": "bf94f8054b6a9483214d2ceb3e160e44d2593b51154c553defa190272431ccb4"
+    }
+  },
+  {
+    "name": "blender-geometry-nodes",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-geometry-nodes",
+    "checkout": "blender-skills",
+    "files": {
+      "references/recipes.md": "9c2438db79ca4bcab6a89b62ef0e65868ccf140b4ffc7a7fb42d3ee0265cf976",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/gn_builder.py": "6dcdd041451d99037b095f1de71356307a02959ab794d01e48a27fbf5aba139a",
+      "SKILL.md": "64cf885688c36a25ae00d8cf7bed2a0ae4c1641f46a16f5904856fbd67818b06"
+    }
+  },
+  {
+    "name": "blender-game-optimization",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-game-optimization",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/make_lods.py": "61076e02df93cfa8126a54466540db5a87d763a9910c9e650d441608678c15de",
+      "scripts/mesh_stats.py": "6f48790b87b90cd15d4c20e6884dcfedf9aa65292f4afcc7fad9fcf7eb8216bc",
+      "SKILL.md": "15c900a72556e1a638c95ff78e03021601affa315d710bbdb55429247ffd9b96"
+    }
+  },
+  {
+    "name": "blender-export-pipelines",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-export-pipelines",
+    "checkout": "blender-skills",
+    "files": {
+      "references/godot-web.md": "67d2f57f75c40466039346d770ff8e622844c1f2d171d98fdef2ed300d2c2dfd",
+      "references/roblox.md": "9079cd534349ce5ea0034abd983cf849a19c0a08676b88486393fe8caab7e263",
+      "references/unity.md": "6ed7fbaa57f6d8d0bdf87438bfc442bb536465b05459ffebf72b75dfa238d080",
+      "references/unreal.md": "377e784aa26bf0f634039f31d33b8d47800708f5d280cc518030db4e0d7005bc",
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/export_asset.py": "58534892042e5c954f0875b3b41b45c2609b7a4ec5dc44f6c06922b06cbd6c88",
+      "SKILL.md": "300f2f9d0632744ea73ce68eccd2fbdb485febef0d1743a773b34d2f13080c16"
+    }
+  },
+  {
+    "name": "blender-rendering",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-rendering",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/render_batch.py": "2ee9043b297148b9d76b54fc22390e1e6062e2e27c33ab0386dcfa2fdb59c432",
+      "SKILL.md": "0c1a3b2c9537868dda84d981f26060eeeb159d26769c6344f608641ac6fc1b6f"
+    }
+  },
+  {
+    "name": "blender-lighting-lookdev",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-lighting-lookdev",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/turntable.py": "ed3db9b538fda3bd6852ea1ce83aea32e0b3e99c258577b3dd000c50a847cd93",
+      "SKILL.md": "adce74e508559230cd078bf658374a66ed1faa8a975eccfa196ea6d5a59e1e54"
+    }
+  },
+  {
+    "name": "blender-stylized-npr",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-stylized-npr",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/toon_setup.py": "17b311952b856a4c252b592373b43459f6dedab3deed7f48ca70ca7a6f26e1d9",
+      "SKILL.md": "78042e1fbfc1e095767e6c84657668c6e051014ab544d595e12016451e8746dd"
+    }
+  },
+  {
+    "name": "blender-environment-kits",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-environment-kits",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/kit_check.py": "5130ad74e2c19dd1839e354a06abd204bafeead277cc447107db017f359e20e5",
+      "scripts/scatter.py": "bebb83449a88e1672ab4b41f007169de2f341a90b620106b55721262ac66b0e4",
+      "scripts/terrain.py": "f86d6e9132e924e7c1877845ab134317a7e77da32180bbede5fab62f2f79ba8f",
+      "SKILL.md": "11dbeb81d04722bee6413b796546da87761c7460299ab2fb8ae1027e35ec510a"
+    }
+  },
+  {
+    "name": "blender-asset-qa",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-asset-qa",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/qa_check.py": "37d01051f98fdafd3a9f13f7525804174c68a7bacb446d5bd5b2f43fc2785cca",
+      "scripts/review_shots.py": "63da4d7a3a42e81b51773071bdad3eba74fcacd3cf54df4364bd5676ef24a647",
+      "SKILL.md": "968e4435eeba040f0952cc335c8e9e7182e1d7008aa4295f202ddb836fa49ec9"
+    }
+  },
+  {
+    "name": "blender-pipeline-automation",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-pipeline-automation",
+    "checkout": "blender-skills",
+    "files": {
+      "scripts/_bpyx.py": "90f44d70198b199cd922e4e57f7e55c56a3041d3a498ef7d444b019f9795d2ff",
+      "scripts/batch_process.py": "baedf17711a939981f3796879e1f32be3203c197c41d9dc3fad8a104b82bfe8e",
+      "SKILL.md": "1b59d80395ebb270347c64f3e148f873a782c2ff68c64e2239720517c15e8abb"
+    }
+  },
+  {
+    "name": "blender-workflow-recipes",
+    "repo": "EL4CTEO/blender-skills",
+    "commit": "b1b21dfb73bc40b874ebf2aa12645931bfed3523",
+    "path": "skills/blender-workflow-recipes",
+    "checkout": "blender-skills",
+    "files": {
+      "SKILL.md": "94de00b0a0a7284cd9d997924478be5cc7a8c7e4d26cbdac56adc86634d15324"
+    }
+  }
+]

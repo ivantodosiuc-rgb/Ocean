@@ -1,0 +1,4 @@
+local p=game.Players.LocalPlayer;local ctl=require(game.ReplicatedStorage.SeaGame.Client.Controller).current;ctl:stop();ctl.ui:close();local char=p.Character;local controls=require(p.PlayerScripts.PlayerModule):GetControls();controls:Disable()
+char:PivotTo(CFrame.lookAt(Vector3.new(10,8,126),Vector3.new(22,4,126)));local camera=workspace.CurrentCamera;camera.CameraType=Enum.CameraType.Scriptable;camera.CFrame=CFrame.lookAt(Vector3.new(24,11,136),Vector3.new(10,7,126));task.wait(1)
+assert(ctl:begin());local deadline=os.clock()+6;while not ctl.fx.streams[p.UserId] and os.clock()<deadline do task.wait(.1) end;assert(ctl.fx.streams[p.UserId],'Server did not acknowledge suction');print('STEP3_RECORD_READY_FINAL',ctl.fx.streams[p.UserId].sound.IsLoaded);task.wait(18);ctl:stop();task.wait(1);camera.CameraType=Enum.CameraType.Custom;camera.CameraSubject=char.Humanoid;controls:Enable()
+print('STEP3_ANIMATION_DONE')

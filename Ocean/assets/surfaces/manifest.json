@@ -1,0 +1,1377 @@
+{
+  "objects": [
+    {
+      "name": "island__StarterIsland__Compass",
+      "source": "StarterIsland__Compass",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://98774298110296",
+      "triangles": 188
+    },
+    {
+      "name": "island__StarterIsland__CompassRay",
+      "source": "StarterIsland__CompassRay",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://132669303111352",
+      "triangles": 96
+    },
+    {
+      "name": "island__StarterIsland__PathStone",
+      "source": "StarterIsland__PathStone",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://103551900369628",
+      "triangles": 768
+    },
+    {
+      "name": "island__StarterIsland__Plaza",
+      "source": "StarterIsland__Plaza",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://75173929379300",
+      "triangles": 252
+    },
+    {
+      "name": "island__StarterIsland__PlazaTrim",
+      "source": "StarterIsland__PlazaTrim",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://127292602661811",
+      "triangles": 288
+    },
+    {
+      "name": "island__Buildings__DisplayStraw",
+      "source": "Buildings__DisplayStraw",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://83831032713682",
+      "triangles": 252
+    },
+    {
+      "name": "island__Buildings__StrawCup",
+      "source": "Buildings__StrawCup",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://90843208455776",
+      "triangles": 108
+    },
+    {
+      "name": "island__Buildings__StrawShop",
+      "source": "Buildings__StrawShop",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://71887379056893",
+      "triangles": 13700
+    },
+    {
+      "name": "island__Buildings__TreasureShop",
+      "source": "Buildings__TreasureShop",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://95605981199974",
+      "triangles": 15108
+    },
+    {
+      "name": "island__Buildings__UpgradeShop",
+      "source": "Buildings__UpgradeShop",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://115903789793003",
+      "triangles": 15068
+    },
+    {
+      "name": "island__Decorations__TreasureDisplay_0",
+      "source": "Decorations__TreasureDisplay_0",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://84535178676426",
+      "triangles": 476
+    },
+    {
+      "name": "island__Decorations__TreasureDisplay_1",
+      "source": "Decorations__TreasureDisplay_1",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://130939112145609",
+      "triangles": 476
+    },
+    {
+      "name": "island__Decorations__Shell_0",
+      "source": "Decorations__Shell_0",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://80690456647991",
+      "triangles": 448
+    },
+    {
+      "name": "island__Decorations__Shell_1",
+      "source": "Decorations__Shell_1",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://77968820425086",
+      "triangles": 448
+    },
+    {
+      "name": "island__Decorations__Bush_00",
+      "source": "Decorations__Bush_00",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://134341729668926",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_01",
+      "source": "Decorations__Bush_01",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://101882796317781",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_02",
+      "source": "Decorations__Bush_02",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://96640200830774",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_03",
+      "source": "Decorations__Bush_03",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://84616717144675",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_04",
+      "source": "Decorations__Bush_04",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://90427335275063",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_05",
+      "source": "Decorations__Bush_05",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://86773556220369",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_06",
+      "source": "Decorations__Bush_06",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://133921888768202",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_07",
+      "source": "Decorations__Bush_07",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://136343073627924",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_08",
+      "source": "Decorations__Bush_08",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://81906732029177",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_09",
+      "source": "Decorations__Bush_09",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://83944040011168",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_10",
+      "source": "Decorations__Bush_10",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://94654172744697",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__Bush_11",
+      "source": "Decorations__Bush_11",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://138958082266354",
+      "triangles": 240
+    },
+    {
+      "name": "island__Decorations__VillageBarrel_03",
+      "source": "Decorations__VillageBarrel_03",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://124900890665223",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Decorations__VillageBarrel_04",
+      "source": "Decorations__VillageBarrel_04",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://76398133479329",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Decorations__Shell_4",
+      "source": "Decorations__Shell_4",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://107761044222845",
+      "triangles": 448
+    },
+    {
+      "name": "island__Decorations__VillageBarrel_00",
+      "source": "Decorations__VillageBarrel_00",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://103123283994010",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Decorations__Palm_00",
+      "source": "Decorations__Palm_00",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://129008631410358",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_01",
+      "source": "Decorations__Palm_01",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://127390195035307",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_02",
+      "source": "Decorations__Palm_02",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://111727021206817",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_03",
+      "source": "Decorations__Palm_03",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://83169707641203",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_04",
+      "source": "Decorations__Palm_04",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://98626658414657",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_05",
+      "source": "Decorations__Palm_05",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://127960811613310",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_06",
+      "source": "Decorations__Palm_06",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://83542393659700",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_07",
+      "source": "Decorations__Palm_07",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://134717754793750",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_08",
+      "source": "Decorations__Palm_08",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://117858976043911",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_09",
+      "source": "Decorations__Palm_09",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://80240360598400",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_10",
+      "source": "Decorations__Palm_10",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://102310091072578",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_11",
+      "source": "Decorations__Palm_11",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://106000583118784",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_12",
+      "source": "Decorations__Palm_12",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://88040312561741",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__Palm_13",
+      "source": "Decorations__Palm_13",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://120196503893130",
+      "triangles": 4140
+    },
+    {
+      "name": "island__Decorations__VillageBarrel_02",
+      "source": "Decorations__VillageBarrel_02",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://117346240089767",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Decorations__VillageBarrel_01",
+      "source": "Decorations__VillageBarrel_01",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://94734811083404",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Decorations__Shell_2",
+      "source": "Decorations__Shell_2",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://95364294204120",
+      "triangles": 448
+    },
+    {
+      "name": "island__Decorations__Shell_3",
+      "source": "Decorations__Shell_3",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://72807527385816",
+      "triangles": 448
+    },
+    {
+      "name": "island__Ocean__DockBarrel",
+      "source": "Ocean__DockBarrel",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://118612750013143",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Ocean__DockBarrel.001",
+      "source": "Ocean__DockBarrel.001",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://71615238868116",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Ocean__DockBarrel.002",
+      "source": "Ocean__DockBarrel.002",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://113903045836856",
+      "triangles": 1916
+    },
+    {
+      "name": "island__Ocean__RopeCoil",
+      "source": "Ocean__RopeCoil",
+      "family": "island",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://114386061371251",
+      "triangles": 864
+    },
+    {
+      "name": "depth__Decor__ReefBoulder",
+      "source": "Decor__ReefBoulder",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://117082705815755",
+      "triangles": 1840
+    },
+    {
+      "name": "depth__Decor__Seagrass",
+      "source": "Decor__Seagrass",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://130123290913186",
+      "triangles": 624
+    },
+    {
+      "name": "depth__Landmark__TideArch",
+      "source": "Landmark__TideArch",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://102266697250228",
+      "triangles": 2300
+    },
+    {
+      "name": "depth__Loot__ObsidianFang",
+      "source": "Loot__ObsidianFang",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://94574719600672",
+      "triangles": 476
+    },
+    {
+      "name": "depth__Loot__OldBottle",
+      "source": "Loot__OldBottle",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://135557730789034",
+      "triangles": 960
+    },
+    {
+      "name": "depth__Loot__Spyglass",
+      "source": "Loot__Spyglass",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://97594314729790",
+      "triangles": 992
+    },
+    {
+      "name": "depth__Loot__SunriseScallop",
+      "source": "Loot__SunriseScallop",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://83089745242427",
+      "triangles": 1620
+    },
+    {
+      "name": "depth__Loot__AmberStone",
+      "source": "Loot__AmberStone",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://122873118543253",
+      "triangles": 1036
+    },
+    {
+      "name": "depth__Loot__AmethystCluster",
+      "source": "Loot__AmethystCluster",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://94094825238712",
+      "triangles": 704
+    },
+    {
+      "name": "depth__Loot__AnchorCharm",
+      "source": "Loot__AnchorCharm",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://100366591306219",
+      "triangles": 644
+    },
+    {
+      "name": "depth__Loot__AncientRelic",
+      "source": "Loot__AncientRelic",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://92156479907232",
+      "triangles": 1008
+    },
+    {
+      "name": "depth__Loot__AncientTrident",
+      "source": "Loot__AncientTrident",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://78590065227212",
+      "triangles": 244
+    },
+    {
+      "name": "depth__Loot__AquamarineCluster",
+      "source": "Loot__AquamarineCluster",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://102303026125681",
+      "triangles": 660
+    },
+    {
+      "name": "depth__Loot__AtlanteanTablet",
+      "source": "Loot__AtlanteanTablet",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://81386887081526",
+      "triangles": 444
+    },
+    {
+      "name": "depth__Loot__BlackPearl",
+      "source": "Loot__BlackPearl",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://123761273139910",
+      "triangles": 2304
+    },
+    {
+      "name": "depth__Loot__BlueStar",
+      "source": "Loot__BlueStar",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://107262876417312",
+      "triangles": 748
+    },
+    {
+      "name": "depth__Loot__BrittleStar",
+      "source": "Loot__BrittleStar",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://78491117390881",
+      "triangles": 636
+    },
+    {
+      "name": "depth__Loot__BronzeKey",
+      "source": "Loot__BronzeKey",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://98247897200914",
+      "triangles": 804
+    },
+    {
+      "name": "depth__Loot__CaptainsRing",
+      "source": "Loot__CaptainsRing",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://88765046433852",
+      "triangles": 540
+    },
+    {
+      "name": "depth__Loot__CeramicJug",
+      "source": "Loot__CeramicJug",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://113788065940789",
+      "triangles": 1916
+    },
+    {
+      "name": "depth__Loot__CommonShell",
+      "source": "Loot__CommonShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://138097638791081",
+      "triangles": 920
+    },
+    {
+      "name": "depth__Loot__Compass",
+      "source": "Loot__Compass",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://74160873899964",
+      "triangles": 1664
+    },
+    {
+      "name": "depth__Loot__ConeShell",
+      "source": "Loot__ConeShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://138534831022992",
+      "triangles": 2428
+    },
+    {
+      "name": "depth__Loot__CopperCoin",
+      "source": "Loot__CopperCoin",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://79370217824572",
+      "triangles": 820
+    },
+    {
+      "name": "depth__Loot__CopperLantern",
+      "source": "Loot__CopperLantern",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://107577973943705",
+      "triangles": 932
+    },
+    {
+      "name": "depth__Loot__CoralFragment",
+      "source": "Loot__CoralFragment",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://90499559417290",
+      "triangles": 2088
+    },
+    {
+      "name": "depth__Loot__CoralRing",
+      "source": "Loot__CoralRing",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://136235231552124",
+      "triangles": 556
+    },
+    {
+      "name": "depth__Loot__CowrieShell",
+      "source": "Loot__CowrieShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://113996110294981",
+      "triangles": 1988
+    },
+    {
+      "name": "depth__Loot__CrystalHeart",
+      "source": "Loot__CrystalHeart",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://120856254555098",
+      "triangles": 340
+    },
+    {
+      "name": "depth__Loot__GoldDoubloon",
+      "source": "Loot__GoldDoubloon",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://136318453311734",
+      "triangles": 904
+    },
+    {
+      "name": "depth__Loot__GoldenChalice",
+      "source": "Loot__GoldenChalice",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://74249153942582",
+      "triangles": 1060
+    },
+    {
+      "name": "depth__Loot__GoldenIdol",
+      "source": "Loot__GoldenIdol",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://136411557411470",
+      "triangles": 1528
+    },
+    {
+      "name": "depth__Loot__JadeBead",
+      "source": "Loot__JadeBead",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://93691965763881",
+      "triangles": 1024
+    },
+    {
+      "name": "depth__Loot__MessageBottle",
+      "source": "Loot__MessageBottle",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://77740905885038",
+      "triangles": 1200
+    },
+    {
+      "name": "depth__Loot__NautilusShell",
+      "source": "Loot__NautilusShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://78285649330068",
+      "triangles": 2164
+    },
+    {
+      "name": "depth__Loot__PearlShell",
+      "source": "Loot__PearlShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://124587363915628",
+      "triangles": 2560
+    },
+    {
+      "name": "depth__Loot__PinkPearl",
+      "source": "Loot__PinkPearl",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://77006401007291",
+      "triangles": 2304
+    },
+    {
+      "name": "depth__Loot__PocketWatch",
+      "source": "Loot__PocketWatch",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://105005259174442",
+      "triangles": 1920
+    },
+    {
+      "name": "depth__Loot__PorcelainPlate",
+      "source": "Loot__PorcelainPlate",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://79610401102668",
+      "triangles": 1584
+    },
+    {
+      "name": "depth__Loot__RoyalCrown",
+      "source": "Loot__RoyalCrown",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://139264411856068",
+      "triangles": 2316
+    },
+    {
+      "name": "depth__Loot__RubyBrooch",
+      "source": "Loot__RubyBrooch",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://94326989791417",
+      "triangles": 684
+    },
+    {
+      "name": "depth__Loot__RubyCluster",
+      "source": "Loot__RubyCluster",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://107008118685018",
+      "triangles": 524
+    },
+    {
+      "name": "depth__Loot__SandDollar",
+      "source": "Loot__SandDollar",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://85906239471457",
+      "triangles": 924
+    },
+    {
+      "name": "depth__Loot__SapphireCluster",
+      "source": "Loot__SapphireCluster",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://122827140144611",
+      "triangles": 616
+    },
+    {
+      "name": "depth__Loot__SapphirePendant",
+      "source": "Loot__SapphirePendant",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://81402590029397",
+      "triangles": 972
+    },
+    {
+      "name": "depth__Loot__SeaGlass",
+      "source": "Loot__SeaGlass",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://102659586065180",
+      "triangles": 108
+    },
+    {
+      "name": "depth__Loot__SeaUrchin",
+      "source": "Loot__SeaUrchin",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://107197628439895",
+      "triangles": 1352
+    },
+    {
+      "name": "depth__Loot__ShipBell",
+      "source": "Loot__ShipBell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://108048071924829",
+      "triangles": 1276
+    },
+    {
+      "name": "depth__Loot__SilverCoin",
+      "source": "Loot__SilverCoin",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://79474831459065",
+      "triangles": 988
+    },
+    {
+      "name": "depth__Loot__SpiralShell",
+      "source": "Loot__SpiralShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://119422515931042",
+      "triangles": 1724
+    },
+    {
+      "name": "depth__Loot__Starfish",
+      "source": "Loot__Starfish",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://72771959793621",
+      "triangles": 676
+    },
+    {
+      "name": "depth__Loot__TreasureChest",
+      "source": "Loot__TreasureChest",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://109488960355713",
+      "triangles": 1712
+    },
+    {
+      "name": "depth__Loot__TurbanShell",
+      "source": "Loot__TurbanShell",
+      "family": "depth",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://107159417968398",
+      "triangles": 1724
+    },
+    {
+      "name": "depth__Decor__CoralPurple",
+      "source": "Decor__CoralPurple",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://114320158243213",
+      "triangles": 2088
+    },
+    {
+      "name": "depth__Decor__CoralRed",
+      "source": "Decor__CoralRed",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://136966237489736",
+      "triangles": 2088
+    },
+    {
+      "name": "depth__Decor__HibiscusPatch",
+      "source": "Decor__HibiscusPatch",
+      "family": "depth",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://76581884708023",
+      "triangles": 10428
+    },
+    {
+      "name": "polish__Coast__BroadleafGrass",
+      "source": "Coast__BroadleafGrass",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://82161833459123",
+      "triangles": 312
+    },
+    {
+      "name": "polish__Coast__CoastalShrub",
+      "source": "Coast__CoastalShrub",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://74259864567830",
+      "triangles": 1152
+    },
+    {
+      "name": "polish__Coast__Driftwood",
+      "source": "Coast__Driftwood",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://137403585527514",
+      "triangles": 332
+    },
+    {
+      "name": "polish__Boat__LittleBoat",
+      "source": "Boat__LittleBoat",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://73619090872857",
+      "triangles": 9632
+    },
+    {
+      "name": "polish__Dock__PierBoard",
+      "source": "Dock__PierBoard",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://105258115601349",
+      "triangles": 2808
+    },
+    {
+      "name": "polish__Dock__PierCap",
+      "source": "Dock__PierCap",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://100331327988186",
+      "triangles": 360
+    },
+    {
+      "name": "polish__Dock__PierHead",
+      "source": "Dock__PierHead",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://101001788870596",
+      "triangles": 972
+    },
+    {
+      "name": "polish__Dock__PierPile",
+      "source": "Dock__PierPile",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://86442682801482",
+      "triangles": 360
+    },
+    {
+      "name": "polish__Dock__PileRope",
+      "source": "Dock__PileRope",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://92652100283858",
+      "triangles": 2880
+    },
+    {
+      "name": "polish__Dock__SafetyRope",
+      "source": "Dock__SafetyRope",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://103720047077987",
+      "triangles": 432
+    },
+    {
+      "name": "polish__Dock__Understructure",
+      "source": "Dock__Understructure",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://108580452866616",
+      "triangles": 1128
+    },
+    {
+      "name": "polish__Ship__Bow",
+      "source": "Ship__Bow",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://74869273225873",
+      "triangles": 748
+    },
+    {
+      "name": "polish__Ship__Bowsprit",
+      "source": "Ship__Bowsprit",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://128527048676680",
+      "triangles": 304
+    },
+    {
+      "name": "polish__Ship__Cargo",
+      "source": "Ship__Cargo",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://133387720407414",
+      "triangles": 2892
+    },
+    {
+      "name": "polish__Ship__Deck",
+      "source": "Ship__Deck",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://77007365145381",
+      "triangles": 8824
+    },
+    {
+      "name": "polish__Ship__HullPort",
+      "source": "Ship__HullPort",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://112571621794129",
+      "triangles": 2536
+    },
+    {
+      "name": "polish__Ship__HullStarboard",
+      "source": "Ship__HullStarboard",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://112016110636024",
+      "triangles": 2184
+    },
+    {
+      "name": "polish__Ship__MaritimeDetails",
+      "source": "Ship__MaritimeDetails",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://127365061210859",
+      "triangles": 7632
+    },
+    {
+      "name": "polish__Ship__Mast",
+      "source": "Ship__Mast",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://90865952273366",
+      "triangles": 232
+    },
+    {
+      "name": "polish__Ship__Railings",
+      "source": "Ship__Railings",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://75800268371981",
+      "triangles": 1280
+    },
+    {
+      "name": "polish__Ship__Sail",
+      "source": "Ship__Sail",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://101158225032561",
+      "triangles": 568
+    },
+    {
+      "name": "polish__Chest__Base",
+      "source": "Chest__Base",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://138627752377366",
+      "triangles": 2016
+    },
+    {
+      "name": "polish__Chest__Lid",
+      "source": "Chest__Lid",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://116741956883300",
+      "triangles": 564
+    },
+    {
+      "name": "polish__Reef__SunsetStaghorn",
+      "source": "Reef__SunsetStaghorn",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://102765324305771",
+      "triangles": 3800
+    },
+    {
+      "name": "polish__Reef__VioletSeaFan",
+      "source": "Reef__VioletSeaFan",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://131312204795391",
+      "triangles": 3800
+    },
+    {
+      "name": "polish__Reef__TurquoiseTable",
+      "source": "Reef__TurquoiseTable",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://114019591787429",
+      "triangles": 2572
+    },
+    {
+      "name": "polish__Reef__GoldenBrain",
+      "source": "Reef__GoldenBrain",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://114595991940529",
+      "triangles": 3592
+    },
+    {
+      "name": "polish__Reef__PeachCups",
+      "source": "Reef__PeachCups",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://99430921910262",
+      "triangles": 1336
+    },
+    {
+      "name": "polish__Reef__LavenderFingers",
+      "source": "Reef__LavenderFingers",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://107603621500039",
+      "triangles": 1288
+    },
+    {
+      "name": "polish__Reef__CrimsonLettuce",
+      "source": "Reef__CrimsonLettuce",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://80782466919711",
+      "triangles": 2876
+    },
+    {
+      "name": "polish__Reef__CobaltTubes",
+      "source": "Reef__CobaltTubes",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://86300232729479",
+      "triangles": 2636
+    },
+    {
+      "name": "polish__Reef__SunbeamAntlers",
+      "source": "Reef__SunbeamAntlers",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://139091983472316",
+      "triangles": 3800
+    },
+    {
+      "name": "polish__Reef__MintPagoda",
+      "source": "Reef__MintPagoda",
+      "family": "polish",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://137155981623045",
+      "triangles": 2240
+    },
+    {
+      "name": "comfort__Restroom__Cabin",
+      "source": "Restroom__Cabin",
+      "family": "comfort",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://134135060487275",
+      "triangles": 8428
+    },
+    {
+      "name": "comfort__Restroom__Door",
+      "source": "Restroom__Door",
+      "family": "comfort",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://74233442786799",
+      "triangles": 2408
+    },
+    {
+      "name": "comfort__Restroom__Roof",
+      "source": "Restroom__Roof",
+      "family": "comfort",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://90835427074199",
+      "triangles": 3804
+    },
+    {
+      "name": "comfort__Restroom__Toilet",
+      "source": "Restroom__Toilet",
+      "family": "comfort",
+      "bucket": "Environment",
+      "oldMesh": "rbxassetid://110822659918703",
+      "triangles": 1700
+    },
+    {
+      "name": "comfort__Tool__BambooStraw",
+      "source": "Tool__BambooStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://86414938393966",
+      "triangles": 1640
+    },
+    {
+      "name": "comfort__Tool__BasicStraw",
+      "source": "Tool__BasicStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://75811806781969",
+      "triangles": 1472
+    },
+    {
+      "name": "comfort__Tool__ColorfulStraw",
+      "source": "Tool__ColorfulStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://136342801458371",
+      "triangles": 704
+    },
+    {
+      "name": "comfort__Tool__CoralTwister",
+      "source": "Tool__CoralTwister",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://94354638053226",
+      "triangles": 2064
+    },
+    {
+      "name": "comfort__Tool__CrystalStraw",
+      "source": "Tool__CrystalStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://112240534479994",
+      "triangles": 752
+    },
+    {
+      "name": "comfort__Tool__GoldenStraw",
+      "source": "Tool__GoldenStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://74385910771595",
+      "triangles": 1896
+    },
+    {
+      "name": "comfort__Tool__Leviathan",
+      "source": "Tool__Leviathan",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://94031309233676",
+      "triangles": 2704
+    },
+    {
+      "name": "comfort__Tool__OceanVacuum",
+      "source": "Tool__OceanVacuum",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://134342133607446",
+      "triangles": 2816
+    },
+    {
+      "name": "comfort__Tool__PrismStraw",
+      "source": "Tool__PrismStraw",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://134470751422888",
+      "triangles": 3072
+    },
+    {
+      "name": "comfort__Tool__StarSiphon",
+      "source": "Tool__StarSiphon",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://122470191791161",
+      "triangles": 2780
+    },
+    {
+      "name": "comfort__Tool__TidalCoil",
+      "source": "Tool__TidalCoil",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://72429931291728",
+      "triangles": 3544
+    },
+    {
+      "name": "comfort__Loot__StarterMussel",
+      "source": "Loot__StarterMussel",
+      "family": "comfort",
+      "bucket": "Items",
+      "oldMesh": "rbxassetid://139675683023591",
+      "triangles": 1888
+    }
+  ],
+  "atlases": {
+    "Environment": {
+      "size": 2048,
+      "tiles": [
+        "paint_tealDark",
+        "metal_gold",
+        "paint_cream",
+        "stone_rockLight",
+        "paint_coral",
+        "paint_teal",
+        "wood_woodDark",
+        "wood_woodLight",
+        "wood_wood",
+        "paint_blue",
+        "paint_lavender",
+        "shell_cream",
+        "leaf_leafLight",
+        "leaf_leaf",
+        "bark_trunk",
+        "rope_rope",
+        "stone_sole",
+        "glass_ice",
+        "leaf_darkGreen",
+        "leaf_green",
+        "stone_ice",
+        "stone_teal",
+        "coral_cream",
+        "coral_purple",
+        "coral_coral",
+        "paint_pink",
+        "metal_goldLight",
+        "leaf_leafDark",
+        "paint_deepTeal",
+        "metal_bronze",
+        "paint_warmWood",
+        "metal_goldDark",
+        "paint_navy",
+        "cloth_deepTeal",
+        "coral_teal",
+        "coral_ochre",
+        "coral_butter",
+        "coral_peach",
+        "coral_lilac",
+        "coral_red",
+        "coral_cobalt",
+        "coral_ice",
+        "coral_mint",
+        "cloth_pink",
+        "cloth_coral",
+        "cloth_red",
+        "paint_white"
+      ],
+      "maps": [
+        "Environment_Color",
+        "Environment_Normal",
+        "Environment_Roughness",
+        "Environment_Metalness"
+      ]
+    },
+    "Items": {
+      "size": 1024,
+      "tiles": [
+        "gem_navy",
+        "metal_gold",
+        "glass_bottle",
+        "wood_wood",
+        "paint_aqua",
+        "paint_cream",
+        "paint_navy",
+        "paint_blue",
+        "metal_goldLight",
+        "paint_coral",
+        "metal_goldDark",
+        "stone_sole",
+        "gem_purple",
+        "glass_ice",
+        "stone_deepTeal",
+        "stone_teal",
+        "stone_cream",
+        "gem_aqua",
+        "paint_deepTeal",
+        "paint_white",
+        "paint_red",
+        "paint_teal",
+        "shell_pink",
+        "shell_lilac",
+        "shell_cream",
+        "wood_woodLight",
+        "coral_cream",
+        "coral_red",
+        "wood_woodDark",
+        "gem_blue",
+        "pearl_white",
+        "paint_pink",
+        "gem_red",
+        "shell_sand",
+        "coral_purple",
+        "shell_coral",
+        "coral_coral",
+        "shell_aqua",
+        "wood_green",
+        "wood_darkGreen",
+        "paint_lilac",
+        "paint_purple",
+        "shell_navy",
+        "shell_purple",
+        "shell_blue"
+      ],
+      "maps": [
+        "Items_Color",
+        "Items_Normal",
+        "Items_Roughness",
+        "Items_Metalness"
+      ]
+    }
+  },
+  "geometry": "unchanged; UVs and material maps only"
+}

@@ -1,0 +1,260 @@
+{
+  "place": "build/SuckTheSea.rbxlx",
+  "sha256": "df41d3ddacc66cf3947231b8fd909c3279586321d2b5decbe3745134372618cf",
+  "preserved": {
+    "Workspace.Buildings": true,
+    "Workspace.NPCs": true,
+    "Lighting": true,
+    "Workspace.Terrain": true,
+    "Workspace.Ocean": true,
+    "Workspace.StarterIsland": true,
+    "Workspace.UnderwaterTerrain.Seafloor": true,
+    "Workspace.UnderwaterTerrain.PolishedReefs": true,
+    "Workspace.Decorations.CoastalPlanting": true,
+    "ReplicatedStorage.SeaGame.Assets.Loot": true,
+    "MaterialService": true,
+    "ServerScriptService.SeaGame.GroundSites": true,
+    "ServerScriptService.SeaGame.OceanLedger": true,
+    "ServerScriptService.SeaGame.OceanProgress": true,
+    "ReplicatedStorage.SeaGame.Shared.OceanVolume": true,
+    "ReplicatedStorage.SeaGame.Shared.Needs": true,
+    "ReplicatedStorage.SeaGame.Client.ShoreContours": true
+  },
+  "sourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Shared\\LootCatalog.luau": true,
+    "src\\Shared\\Needs.luau": true,
+    "src\\Shared\\OceanVolume.luau": true,
+    "src\\Shared\\Offers.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\ChestPresentation.luau": true,
+    "src\\Client\\ComfortUI.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\RainbowTools.luau": true,
+    "src\\Client\\RestroomEffects.luau": true,
+    "src\\Client\\ShoreContours.luau": true,
+    "src\\Client\\StoreUI.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Client\\WorldPolish.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Commerce.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\GroundSites.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\OceanLedger.luau": true,
+    "src\\Server\\OceanProgress.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Server\\Restroom.luau": true,
+    "src\\Server\\Wrecks.luau": true,
+    "src\\Tests\\Comfort.luau": true,
+    "src\\Tests\\Commerce.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true,
+    "src\\Tests\\OceanProgress.luau": true
+  },
+  "placementAndPhysicsIssues": [],
+  "missingPBRMaps": [],
+  "temporaryObjects": [],
+  "counts": {
+    "tools": 12,
+    "icons": 8,
+    "replacedRocks": 41,
+    "checkedTexturedParts": 61,
+    "meshesAuthored": 23,
+    "triangles": 61492,
+    "maximumTriangles": 7156
+  },
+  "blenderQA": {
+    "allPassed": true,
+    "acceptedWarnings": "Intentional stacked UVs sharing the authored enamel/stone atlas; no unique per-face lighting bake."
+  },
+  "grounding": {
+    "maximumFootGap": -0.07999999999999996,
+    "maximumVerticalAdjustment": 1.618660857605919
+  },
+  "tests": {
+    "tests": {
+      "movement": {
+        "Putting straw away restores movement": true,
+        "jumpRise": 24.923524856567383,
+        "Switching to basic restores movement": true,
+        "Taking it out reapplies bonus": true,
+        "Super movement while held": true,
+        "Physical super jump": true
+      },
+      "units": {
+        "EconomyProfiles": {
+          "ok": true,
+          "result": "88"
+        },
+        "Comfort": {
+          "ok": true,
+          "result": "33"
+        },
+        "OceanProgress": {
+          "ok": true,
+          "result": "30"
+        },
+        "Commerce": {
+          "ok": true,
+          "result": "31"
+        }
+      }
+    },
+    "preload": {
+      "rbxassetid://120782880372812": "Success",
+      "rbxassetid://94124622170618": "Success",
+      "rbxassetid://137769646615660": "Success",
+      "rbxassetid://89704722460819": "Success",
+      "rbxassetid://112588641659983": "Success",
+      "rbxassetid://137643687405144": "Success",
+      "rbxassetid://85330111671835": "Success",
+      "rbxassetid://98257944409932": "Success",
+      "rbxassetid://129403079388999": "Success",
+      "rbxassetid://70837897641525": "Success",
+      "rbxassetid://98386866398511": "Success",
+      "rbxassetid://92221166768628": "Success",
+      "rbxassetid://89840177972355": "Success",
+      "rbxassetid://90557615044107": "Success",
+      "rbxassetid://126949601248558": "Success",
+      "rbxassetid://84011821768525": "Success",
+      "rbxassetid://108033737373902": "Success",
+      "rbxassetid://113964828845830": "Success",
+      "rbxassetid://122190852791752": "Success",
+      "rbxassetid://103801874080541": "Success",
+      "rbxassetid://132556945840632": "Success"
+    }
+  },
+  "runtime": {
+    "edit": {
+      "placeId": 0,
+      "gameId": 0,
+      "temporaryObjects": [],
+      "device": "default",
+      "assetsInstalled": true,
+      "rocks": 41
+    },
+    "unitAssertions": 182,
+    "liveObservedBeforeEditorRecovery": {
+      "evidence": "Studio Play assertions and capture in build/sparkle-animation-frames; numeric results retained from tool output before Cursor reconnect",
+      "visibleGroundSites": 5899,
+      "texturedResourcePrefabs": 51,
+      "spawnOnIsland": true,
+      "pierSupportedPlayer": true,
+      "removedVolume": 2514.1701326295733,
+      "personalNeedsVolume": 2514.1701326239854,
+      "starterMusselCollected": true,
+      "duplicatePickupRejected": true,
+      "musselSaleCoins": 1
+    },
+    "ui": {
+      "desktop": {
+        "viewport": [
+          1278,
+          699
+        ],
+        "coinGrid": [
+          2,
+          2
+        ],
+        "coinShopSize": [
+          800,
+          615
+        ],
+        "upgradesSize": [
+          800,
+          580
+        ],
+        "visibleTextOverflow": [],
+        "visualReviewed": true
+      },
+      "iphone13Portrait": {
+        "viewport": [
+          389,
+          761
+        ],
+        "buyVisible": true,
+        "scroll": [
+          0,
+          0
+        ],
+        "visibleTextOverflow": [],
+        "visualReviewed": true
+      },
+      "iphone13Landscape": {
+        "viewport": [
+          749,
+          389
+        ],
+        "buyVisible": true,
+        "visibleTextOverflow": [],
+        "visualReviewed": true
+      },
+      "ipad10Landscape": {
+        "viewport": [
+          1178,
+          819
+        ],
+        "shopSize": [
+          800,
+          615
+        ],
+        "visibleTextOverflow": [],
+        "visualReviewed": true
+      },
+      "gamepadButtonBCloses": true,
+      "adminBuyButtonActivated": true,
+      "unconfiguredPurchaseNotice": "Coming soon В· Robux purchases are not available yet.",
+      "coinsBeforePreview": 0,
+      "coinsAfterPreview": 0,
+      "screenshots": [
+        "sparkle-coin-shop.png",
+        "sparkle-admin-straw.png",
+        "sparkle-upgrades.png",
+        "sparkle-phone-portrait.png",
+        "sparkle-tablet-coins.png",
+        "sparkle-rocks-final.png"
+      ]
+    },
+    "effectsCleanup": {
+      "streams": 0,
+      "flights": 0,
+      "rings": 0,
+      "burstCount": 0
+    },
+    "performanceObserved": {
+      "source": "Foreground desktop Studio sample before Cursor reconnect; actual removal active, no video recording",
+      "frames": 482,
+      "averageFrameMs": 17.3173659922,
+      "p95FrameMs": 22.9074005038,
+      "stallsOver100ms": 0,
+      "physicalMobileTested": false
+    },
+    "console": {
+      "freshPlayGameErrors": 0,
+      "oneOffInspectionErrors": 2,
+      "inspectionErrors": "QA probes initially referenced nonexistent leaderstats and c.effects instead of c.fx; corrected; neither is production source"
+    },
+    "video": {
+      "file": "build/SuckTheSea-sparkle-animations.mp4",
+      "frames": 216,
+      "fps": 12,
+      "durationSeconds": 18,
+      "audio": false,
+      "mode": "actual Studio Play capture; temporary test profile and scripted test actions"
+    },
+    "limits": {
+      "published": false,
+      "realRobuxPaymentsTested": false,
+      "cloudPersistenceTested": false,
+      "multiplePhysicalClientsTested": false,
+      "allOfferAssetIds": 0,
+      "commerceTestsUseMockStorage": true
+    }
+  },
+  "passed": true
+}

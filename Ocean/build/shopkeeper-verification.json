@@ -1,0 +1,186 @@
+{
+  "studioLog": "0.747.0.7471481_20261116T092718Z_Studio_08039_last.log",
+  "date": "2026-11-16",
+  "staticChecks": {
+    "meadowTexture": "rbxassetid://115373682107179",
+    "errors": [],
+    "flowers": 12,
+    "lightingBrightness": 2.200000047683716,
+    "scripts": 0
+  },
+  "npcs": [
+    {
+      "counterIntersections": 0,
+      "rig": "R15",
+      "joints": 15,
+      "name": "Finn",
+      "facing": 1,
+      "feetGap": 0.01499021053314209,
+      "accessories": 1,
+      "counterZ": -3.0999999046325684,
+      "parts": 17
+    },
+    {
+      "counterIntersections": 0,
+      "rig": "R15",
+      "joints": 15,
+      "name": "Maya",
+      "facing": 1.0000001192092896,
+      "feetGap": 0.014989495277404785,
+      "accessories": 1,
+      "counterZ": -3.0999999046325684,
+      "parts": 17
+    },
+    {
+      "counterIntersections": 0,
+      "rig": "R15",
+      "joints": 15,
+      "name": "Captain Shell",
+      "facing": 1.0000001192092896,
+      "feetGap": 0.014990508556365967,
+      "accessories": 1,
+      "counterZ": -3.100001335144043,
+      "parts": 17
+    }
+  ],
+  "playtest": {
+    "waypoints": 20,
+    "failures": 0,
+    "health": 100,
+    "steps": [
+      {
+        "number": 1,
+        "label": "Square",
+        "result": "PASS",
+        "positionAndDistance": "1.78 -1.3246545791625977, 9.841938018798828, 1.1872087717056274"
+      },
+      {
+        "number": 2,
+        "label": "Straws path",
+        "result": "PASS",
+        "positionAndDistance": "1.9 -14.149319648742676, 9.841936111450195, -2.5688767433166504"
+      },
+      {
+        "number": 3,
+        "label": "Finn counter approach",
+        "result": "PASS",
+        "positionAndDistance": "1.86 -30.195707321166992, 9.441935539245605, -6.552078723907471"
+      },
+      {
+        "number": 4,
+        "label": "Return",
+        "result": "PASS",
+        "positionAndDistance": "1.74 -15.70138931274414, 9.712119102478027, -3.377136468887329"
+      },
+      {
+        "number": 5,
+        "label": "Square",
+        "result": "PASS",
+        "positionAndDistance": "1.93 -1.8840783834457397, 9.841936111450195, -0.4052194356918335"
+      },
+      {
+        "number": 6,
+        "label": "Upgrades path",
+        "result": "PASS",
+        "positionAndDistance": "1.96 6.947216510772705, 9.841935157775879, -13.346083641052246"
+      },
+      {
+        "number": 7,
+        "label": "Maya counter approach",
+        "result": "PASS",
+        "positionAndDistance": "1.83 16.846059799194336, 9.441933631896973, -25.574996948242188"
+      },
+      {
+        "number": 8,
+        "label": "Return",
+        "result": "PASS",
+        "positionAndDistance": "1.87 9.194905281066895, 9.441933631896973, -16.433603286743164"
+      },
+      {
+        "number": 9,
+        "label": "Square",
+        "result": "PASS",
+        "positionAndDistance": "1.77 0.8611860871315002, 9.841935157775879, -1.5409107208251953"
+      },
+      {
+        "number": 10,
+        "label": "Treasures path",
+        "result": "PASS",
+        "positionAndDistance": "1.83 14.292805671691895, 9.841937065124512, 4.35003137588501"
+      },
+      {
+        "number": 11,
+        "label": "Captain counter approach",
+        "result": "PASS",
+        "positionAndDistance": "1.84 32.48679733276367, 9.415663719177246, 16.950183868408203"
+      },
+      {
+        "number": 12,
+        "label": "Return",
+        "result": "PASS",
+        "positionAndDistance": "1.77 17.438434600830078, 9.441937446594238, 6.039461135864258"
+      },
+      {
+        "number": 13,
+        "label": "Square",
+        "result": "PASS",
+        "positionAndDistance": "1.93 1.8202763795852661, 9.841937065124512, 0.6273251175880432"
+      },
+      {
+        "number": 14,
+        "label": "Dock path",
+        "result": "PASS",
+        "positionAndDistance": "1.74 0.0961708277463913, 9.506765365600586, 18.260555267333984"
+      },
+      {
+        "number": 15,
+        "label": "Dock path",
+        "result": "PASS",
+        "positionAndDistance": "1.86 -1.781245231628418, 9.44194221496582, 34.14997100830078"
+      },
+      {
+        "number": 16,
+        "label": "Beach",
+        "result": "PASS",
+        "positionAndDistance": "1.8 -0.1618310958147049, 9.353696823120117, 52.209293365478516"
+      },
+      {
+        "number": 17,
+        "label": "Pier entrance",
+        "result": "PASS",
+        "positionAndDistance": "1.93 -0.01955408602952957, 9.152308464050293, 66.07056427001953"
+      },
+      {
+        "number": 18,
+        "label": "Pier",
+        "result": "PASS",
+        "positionAndDistance": "1.74 -0.0016923259245231748, 7.041936874389648, 84.25697326660156"
+      },
+      {
+        "number": 19,
+        "label": "Pier",
+        "result": "PASS",
+        "positionAndDistance": "1.88 -0.000132175802718848, 7.041936874389648, 106.12330627441406"
+      },
+      {
+        "number": 20,
+        "label": "Pier end",
+        "result": "PASS",
+        "positionAndDistance": "1.74 -0.000011467840522527695, 7.041936874389648, 124.25636291503906"
+      }
+    ]
+  },
+  "restoration": {
+    "comparison": "Saved original before flora refresh vs current saved place; excludes replacement NPCs and editor camera",
+    "unchanged": {
+      "StarterIsland": true,
+      "Buildings": true,
+      "Decorations": true,
+      "Ocean": true,
+      "UnderwaterTerrain": true,
+      "Lighting": true
+    },
+    "allRestored": true
+  },
+  "runtimeScriptsAdded": false
+}

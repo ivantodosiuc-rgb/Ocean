@@ -1,0 +1,202 @@
+﻿{
+    "keyword":  "pants",
+    "previousPageCursor":  null,
+    "nextPageCursor":  null,
+    "data":  [
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "1MvRtnnsy2FJWmkErSBxBa",
+                                          "taxonomyName":  "Pants"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-06-21T16:21:38.227Z",
+                     "id":  6984740059,
+                     "itemType":  "Asset",
+                     "assetType":  66,
+                     "name":  "Cargo Pants - Brown",
+                     "description":  "You can never have too many pockets. \t",
+                     "productId":  815999791690117,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  169087,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "baba2377-2ea3-4fb9-8f19-1df8d6e4deeb",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "1MvRtnnsy2FJWmkErSBxBa",
+                                          "taxonomyName":  "Pants"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-03-16T23:42:30.383Z",
+                     "id":  9120251003,
+                     "itemType":  "Asset",
+                     "assetType":  66,
+                     "name":  "Wetsuit Pants -  Black",
+                     "description":  "The edgiest pants to grace the seven seas.",
+                     "productId":  6628069806123782,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  229771,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "e4a479ae-08dc-4f7b-bffe-16920f5822f1",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "1MvRtnnsy2FJWmkErSBxBa",
+                                          "taxonomyName":  "Pants"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-08-02T18:46:41.1Z",
+                     "id":  7192681239,
+                     "itemType":  "Asset",
+                     "assetType":  66,
+                     "name":  "Textured Leather Pants - White",
+                     "description":  "Matches perfectly with a white and black spaceship.\t",
+                     "productId":  2936174983489907,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  85349,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "6bed0b1e-b637-4456-817d-90cfa0db31ef",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "1MvRtnnsy2FJWmkErSBxBa",
+                                          "taxonomyName":  "Pants"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-02-03T21:25:39.643Z",
+                     "id":  8721985925,
+                     "itemType":  "Asset",
+                     "assetType":  66,
+                     "name":  "Motorcycle Pants - Brown",
+                     "description":  "Let\u0027s ride!",
+                     "productId":  4884939973137482,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  56819,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "ea453448-2533-47f0-890d-1c701d6b00ee",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "49cFNAJWuwiJJVUSADG6DR",
+                                          "taxonomyName":  "Classic Pants"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-04-14T23:17:39.267Z",
+                     "id":  398635338,
+                     "itemType":  "Asset",
+                     "assetType":  12,
+                     "name":  "Ripped Skater Pants",
+                     "description":  "Designed and provided to the community by GPR3 the creator of so many top ROBLOX items. Be sure to check out other items made by GPR3 in the catalog.",
+                     "productId":  1450726503685678,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1085218,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "2b8bb23c-3fdf-40a3-87a3-b171adf70496",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 }
+             ]
+}

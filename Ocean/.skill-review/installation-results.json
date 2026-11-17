@@ -1,0 +1,220 @@
+[
+  {
+    "name": "roblox-get-started",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-get-started",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/connect.md",
+      "references/install.md",
+      "references/troubleshoot.md",
+      "SECURITY.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-luau",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-luau",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/stdlib-cheatsheet.md",
+      "references/type-system.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-ui",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-ui",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/styling-and-frameworks.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-input",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-input",
+    "verified": false,
+    "mismatches_or_missing": [
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-world-building",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-world-building",
+    "verified": false,
+    "mismatches_or_missing": [
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-performance",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-performance",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/profiling.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-testing",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-testing",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/cloud-test-runner.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-tooling",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-tooling",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/ci-workflow.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-studio-mcp",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-studio-mcp",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/client-setup.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-gui",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-gui",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/full.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-building",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-building",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/full.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "roblox-lighting",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-lighting",
+    "verified": false,
+    "mismatches_or_missing": [
+      "references/full.md",
+      "SKILL.md"
+    ]
+  },
+  {
+    "name": "blender-core",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-core",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-scene-setup",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-scene-setup",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-hardsurface-modeling",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-hardsurface-modeling",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-sculpting",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-sculpting",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-retopology-uv",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-retopology-uv",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-pbr-materials",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-pbr-materials",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-texturing",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-texturing",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-texture-baking",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-texture-baking",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-geometry-nodes",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-geometry-nodes",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-game-optimization",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-game-optimization",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-export-pipelines",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-export-pipelines",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-rendering",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-rendering",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-lighting-lookdev",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-lighting-lookdev",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-stylized-npr",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-stylized-npr",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-environment-kits",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-environment-kits",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-asset-qa",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-asset-qa",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-pipeline-automation",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-pipeline-automation",
+    "verified": true,
+    "mismatches_or_missing": []
+  },
+  {
+    "name": "blender-workflow-recipes",
+    "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-workflow-recipes",
+    "verified": true,
+    "mismatches_or_missing": []
+  }
+]

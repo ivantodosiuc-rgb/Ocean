@@ -1,0 +1,1 @@
+assert(not game:GetService('RunService'):IsRunning(),'Edit only');local imported=workspace:FindFirstChild('SuckTheSea_Gameplay');print('IMPORT_FOUND',imported);if imported then for _,p in imported:GetDescendants() do if p:IsA('BasePart') then print('GAME_ASSET',p.Name,p.ClassName,tostring(p.Size),tostring(p.Position)) end end end

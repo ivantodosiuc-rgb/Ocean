@@ -1,0 +1,308 @@
+{
+  "Buildings__StrawShop": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Buildings__StrawShop: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "asset lowest point z=5.7 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 5.7,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Buildings__StrawShop": {
+        "verts": 7062,
+        "faces": 13700,
+        "tris": 13700,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 108,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.2
+      }
+    }
+  },
+  "Buildings__UpgradeShop": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Buildings__UpgradeShop: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "asset lowest point z=5.6 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 5.6,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Buildings__UpgradeShop": {
+        "verts": 7746,
+        "faces": 15068,
+        "tris": 15068,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 110,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Buildings__TreasureShop": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Buildings__TreasureShop: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "asset lowest point z=5.6 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 5.6,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Buildings__TreasureShop": {
+        "verts": 7770,
+        "faces": 15108,
+        "tris": 15108,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 111,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.2
+      }
+    }
+  },
+  "Ocean__LittleBoat": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Ocean__LittleBoat: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0012,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "Ocean__LittleBoat": {
+        "verts": 374,
+        "faces": 724,
+        "tris": 724,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 7,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "Decorations__Palm_00": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "Decorations__Palm_00: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "hidden back-to-back faces: Decorations__Palm_00 (16 pairs) - delete to save tris",
+      "asset lowest point z=3.3861 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 3.3861,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [
+      {
+        "where": "Decorations__Palm_00",
+        "tri_pairs": 16
+      }
+    ],
+    "enclosed": [],
+    "objects": {
+      "Decorations__Palm_00": {
+        "verts": 2104,
+        "faces": 4140,
+        "tris": 4140,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 22,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "StarterIsland__GoldenShore": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "StarterIsland__GoldenShore: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "asset lowest point z=-12.0 (not resting on ground plane z=0)"
+    ],
+    "ground_z": -12.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "StarterIsland__GoldenShore": {
+        "verts": 672,
+        "faces": 1340,
+        "tris": 1340,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 1,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  },
+  "StarterIsland__Meadow": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "StarterIsland__Meadow: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "asset lowest point z=4.5 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 4.5,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "StarterIsland__Meadow": {
+        "verts": 480,
+        "faces": 956,
+        "tris": 956,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 1,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.0
+      }
+    }
+  }
+}

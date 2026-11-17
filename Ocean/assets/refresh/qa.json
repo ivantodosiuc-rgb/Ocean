@@ -1,0 +1,260 @@
+{
+  "RefreshNPC__Finn": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshNPC__Finn: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshNPC__Finn": {
+        "verts": 6158,
+        "faces": 12084,
+        "tris": 12084,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 60,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.6
+      }
+    }
+  },
+  "RefreshNPC__Maya": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshNPC__Maya: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshNPC__Maya": {
+        "verts": 6840,
+        "faces": 13412,
+        "tris": 13412,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 67,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.7
+      }
+    }
+  },
+  "RefreshNPC__CaptainShell": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshNPC__CaptainShell: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)"
+    ],
+    "ground_z": 0.0,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshNPC__CaptainShell": {
+        "verts": 6946,
+        "faces": 13636,
+        "tris": 13636,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 0,
+        "islands": 66,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.5
+      }
+    }
+  },
+  "RefreshFlora__Coral": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshFlora__Coral: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "RefreshFlora__Coral: duplicate verts=10 loose verts=0",
+      "asset lowest point z=0.006 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 0.006,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshFlora__Coral": {
+        "verts": 1176,
+        "faces": 2236,
+        "tris": 2236,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 10,
+        "islands": 29,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.2
+      }
+    }
+  },
+  "RefreshFlora__Cream": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshFlora__Cream: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "RefreshFlora__Cream: duplicate verts=15 loose verts=0",
+      "asset lowest point z=0.0076 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 0.0076,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshFlora__Cream": {
+        "verts": 1212,
+        "faces": 2312,
+        "tris": 2312,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 15,
+        "islands": 28,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  },
+  "RefreshFlora__Lilac": {
+    "ok": true,
+    "pass": true,
+    "errors": [],
+    "warnings": [
+      "RefreshFlora__Lilac: ~100.0% UV overlap (ok only if mirrored/stacked on purpose; bakes break)",
+      "RefreshFlora__Lilac: duplicate verts=15 loose verts=0",
+      "asset lowest point z=0.0076 (not resting on ground plane z=0)"
+    ],
+    "ground_z": 0.0076,
+    "zfighting": [],
+    "floating": [],
+    "back_to_back": [],
+    "enclosed": [],
+    "objects": {
+      "RefreshFlora__Lilac": {
+        "verts": 1212,
+        "faces": 2312,
+        "tris": 2312,
+        "ngons": 0,
+        "boundary_edges": 0,
+        "nonmanifold_edges": 0,
+        "wire_edges": 0,
+        "loose_verts": 0,
+        "degenerate_faces": 0,
+        "zero_length_edges": 0,
+        "inconsistent_normals_edges": 0,
+        "duplicate_verts": 15,
+        "islands": 28,
+        "inside_out_islands": 0,
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "materials": 1,
+        "uv_maps": 1,
+        "uv_oob_pct": 0.0,
+        "uv_zero_area_faces": 0,
+        "uv_overlap_pct": 100.0,
+        "uv_coverage_pct": 0.1
+      }
+    }
+  }
+}

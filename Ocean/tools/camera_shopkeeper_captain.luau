@@ -1,0 +1,1 @@
+local p=workspace.Buildings.TreasureShop_Collisions.Counter;local c=workspace.CurrentCamera;c.CameraType=Enum.CameraType.Scriptable;c.CFrame=CFrame.lookAt((p.CFrame*CFrame.new(3,3.5,19)).Position,(p.CFrame*CFrame.new(0,2.1,-1.5)).Position);c.FieldOfView=47;game:GetService('Selection'):Set({})

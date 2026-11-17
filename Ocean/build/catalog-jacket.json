@@ -1,0 +1,631 @@
+﻿{
+    "keyword":  "jacket",
+    "previousPageCursor":  null,
+    "nextPageCursor":  null,
+    "data":  [
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-08-02T18:17:06.597Z",
+                     "id":  7192549218,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Leather Jacket - Black",
+                     "description":  "While this may technically be a synthetic leather jacket, it’s not made of synthetic leather – just ones and zeroes really.",
+                     "productId":  6058202780339461,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  162186,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "87b9a484-a9b5-4d3f-aa42-27feb317d0f9",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-01-11T23:33:54.18Z",
+                     "id":  8516620262,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Hooded Jacket - Gray",
+                     "description":  "Great for keeping a low profile, or just keeping your head slightly warmer.",
+                     "productId":  3646412376541123,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  78465,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "8ba3dcb6-a11b-4c1e-bac9-afd1eef07c4a",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-01-11T23:31:56.31Z",
+                     "id":  8516609675,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Denim Jacket - Light Wash",
+                     "description":  "Because why should legs get to have all the denim?",
+                     "productId":  8935605901220041,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  146021,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "69986a87-0336-430e-ab7d-5cdce10d3dfb",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-01-11T23:32:30.153Z",
+                     "id":  8516612751,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Denim Jacket - White",
+                     "description":  "Because why should legs get to have all the denim?",
+                     "productId":  3596876072563537,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  101256,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "2249a958-a2f2-4143-bbc7-116267590e8c",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-08-02T18:16:33.217Z",
+                     "id":  7192546798,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Collared Leather Jacket - White",
+                     "description":  "You’re a street-prowling rebel who goes wherever the open road takes you (motorcycle not included).",
+                     "productId":  941824667479093,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  106772,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "62b6bfbb-764b-4fc4-8ef1-01b424bad429",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-08-02T18:16:44.723Z",
+                     "id":  7192547628,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Collared Leather Jacket - Brown",
+                     "description":  "You’re a street-prowling rebel who goes wherever the open road takes you (motorcycle not included).",
+                     "productId":  726759714208563,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  22109,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "8a690679-2e58-40df-b830-f5548f6564cf",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-06-21T16:28:19.66Z",
+                     "id":  6984767443,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Leather Jacket - Brown",
+                     "description":  "While this may technically be a synthetic leather jacket, it’s not made of synthetic leather – just ones and zeroes really.",
+                     "productId":  5978887474966883,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  29757,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "82f6f439-7a15-4b0f-b840-544d928f63ed",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-08-09T19:27:37.977Z",
+                     "id":  10537487639,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "NARS Light Reflecting Leather Moto Jacket",
+                     "description":  "Limited edition holographic leather moto jacket inspired by the iconic NARS Light Reflecting collection. Item created by Lovespun.",
+                     "productId":  6566732450938763,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  400,
+                     "lowestPrice":  385,
+                     "lowestResalePrice":  385,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  6469,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "7a3b059b-9e46-4f0e-8788-681c16f369dc",
+                     "totalQuantity":  13991,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2023-01-26T16:54:03.853Z",
+                     "id":  12279891437,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "2 Baddies Gem Stone Jacket - NCT 127",
+                     "description":  "Guess who wore this in the \u00272 Baddies\u0027 music video! On sale for a limited time:\r\n\r\n • 1/26 - 11pm-12am PT\r\n • 1/27 - 9am-10am PT\r\n • 1/27 - 3pm-4pm PT \r\n\r\nGo to https://www.roblox.com/nct127 to join the event.",
+                     "productId":  2247986067122382,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  687,
+                     "lowestResalePrice":  687,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1648,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "828c57d8-8052-427f-b184-0044c63f5c5e",
+                     "totalQuantity":  3819,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "kPZpEVNdProGcqMbj1jDKJ",
+                                          "taxonomyName":  "Jacket"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-10-28T16:43:28.357Z",
+                     "id":  11401152997,
+                     "itemType":  "Asset",
+                     "assetType":  67,
+                     "name":  "Vans x Stranger Things Hellfire Club Jean Jacket",
+                     "description":  "Explore in the upside down in the limited edition Vans X Stranger Things Hellfire Club Jean Jacket",
+                     "productId":  7031864707115517,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  3799,
+                     "lowestResalePrice":  3799,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3130,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "1c81d778-cf25-41d3-8d09-64d7eaa108b1",
+                     "totalQuantity":  2332,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2017-01-10T18:22:59.57Z",
+                     "id":  607785314,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "ROBLOX Jacket",
+                     "description":  "Stay stylish in the latest ROBLOX jacket.",
+                     "productId":  7280961476653142,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2581329,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "1ebc6e1a-2c4f-4d4d-954f-9038efa4cd82",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-04-14T23:13:55.85Z",
+                     "id":  398633584,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Denim Jacket with White Hoodie",
+                     "description":  "Designed and provided to the community by TheBestKing the creator of Fresh Era Clothing. Stay fresh and be sure to check out other items made by TheBestKing in the catalog.",
+                     "productId":  2471114133812323,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2051975,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "49a49a84-6a38-461c-9b80-9bfd6f131868",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2019-10-04T18:31:23.147Z",
+                     "id":  4047884046,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Guitar Tee with Black Jacket",
+                     "description":  "Rock on!",
+                     "productId":  6354676316684958,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  97211,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "6f99e8cf-6cc2-464f-a132-ad905c272d03",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-04-14T23:15:26.733Z",
+                     "id":  398634295,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Pastel Starburst Top with Gray Jacket",
+                     "description":  "Designed and provided to the community by missmudman the creator of MMM Designs. Enjoy her original clothing with unique style and be sure to check out other items made by missmudman in the catalog.",
+                     "productId":  5234593567630560,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  664388,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "6ac97fa4-5c0c-49df-b3a3-9e9193e22f1f",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-01-27T23:20:10.04Z",
+                     "id":  144076436,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Grey Striped Shirt with Denim Jacket",
+                     "description":  "Shirt",
+                     "productId":  3651386083251551,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1567307,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "7e6e0f7c-dc0a-4fb8-a73a-b619cb9cf123",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-03-15T02:46:04.23Z",
+                     "id":  382538295,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Guitar Tee with Black Jacket",
+                     "description":  "",
+                     "productId":  4895994257462644,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  481640,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "895b6e2f-0158-4794-9a67-01ae7774130b",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 }
+             ]
+}

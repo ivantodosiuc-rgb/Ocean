@@ -1,0 +1,134 @@
+{
+  "studioLog": "0.747.0.7471481_20261116T080246Z_Studio_BB3DD_last.log",
+  "date": "2026-11-16",
+  "staticChecks": {
+    "IslandSurface": {
+      "missing": [],
+      "samples": 709
+    },
+    "PierSurface": {
+      "missing": [],
+      "samples": 99
+    },
+    "Scene": {
+      "meshes": 132,
+      "screenGui": 0,
+      "scripts": 0,
+      "npcs": [
+        {
+          "name": "Finn",
+          "position": "-37, 8.837373733520508, -7"
+        },
+        {
+          "name": "Maya",
+          "position": "21, 8.849853515625, -28"
+        },
+        {
+          "name": "Captain Shell",
+          "position": "36.5, 8.795565605163574, 20"
+        }
+      ],
+      "unanchored": 0,
+      "parts": 238
+    },
+    "StrawShop": {
+      "texture": "rbxassetid://115373682107179",
+      "exists": true,
+      "position": "-40.82305145263672, 13.300000190734863, -19.707435607910156"
+    },
+    "UpgradeShop": {
+      "texture": "rbxassetid://115373682107179",
+      "exists": true,
+      "position": "26.478900909423828, 13.200000762939453, -42.07673263549805"
+    },
+    "TreasureShop": {
+      "texture": "rbxassetid://115373682107179",
+      "exists": true,
+      "position": "48.080711364746094, 13.200000762939453, 13.583562850952148"
+    },
+    "Ocean": {
+      "treasureSites": 4,
+      "waterLevel": 0,
+      "minLevel": -36
+    }
+  },
+  "walk": [
+    "PLAYTEST_WALK 1 Square PASS 0 0, 9.841937065124512, 0",
+    "PLAYTEST_WALK 2 Straws path PASS 1.27 -14.754643440246582, 9.841935157775879, -2.7663915157318115",
+    "PLAYTEST_WALK 3 Finn PASS 0.59 -31.42424964904785, 9.441935539245605, -6.858615875244141",
+    "PLAYTEST_WALK 4 Return square PASS 1.35 -15.321212768554688, 9.760584831237793, -3.294132709503174",
+    "PLAYTEST_WALK 5 Square PASS 1.8 -1.7643462419509888, 9.841936111450195, -0.37932416796684265",
+    "PLAYTEST_WALK 6 Upgrades path PASS 0.85 7.546546936035156, 9.841935157775879, -14.276881217956543",
+    "PLAYTEST_WALK 7 Maya PASS 0.55 17.647850036621094, 9.441933631896973, -26.571582794189453",
+    "PLAYTEST_WALK 8 Return square PASS 1.89 9.207090377807617, 9.441933631896973, -16.45011329650879",
+    "PLAYTEST_WALK 9 Square PASS 1.26 0.6129137873649597, 9.841935157775879, -1.0963101387023926",
+    "PLAYTEST_WALK 10 Treasures path PASS 1.65 14.43741226196289, 9.841937065124512, 4.459719181060791",
+    "PLAYTEST_WALK 11 Captain Shell PASS 0.86 33.29214096069336, 9.40610122680664, 17.508996963500977",
+    "PLAYTEST_WALK 12 Return square PASS 0.67 16.544981002807617, 9.469339370727539, 5.393133640289307",
+    "PLAYTEST_WALK 13 Square PASS 1.71 1.6246892213821411, 9.841937065124512, 0.5263417959213257",
+    "PLAYTEST_WALK 14 Dock path PASS 1.02 0.045704394578933716, 9.46207046508789, 18.985034942626953",
+    "PLAYTEST_WALK 15 Dock path PASS 1.14 -1.8640950918197632, 9.46207046508789, 34.87054443359375",
+    "PLAYTEST_WALK 16 Beach path PASS 1.62 -0.15847523510456085, 9.353128433227539, 52.38603973388672",
+    "PLAYTEST_WALK 17 Pier entrance PASS 0.51 -0.00514195766299963, 9.033320426940918, 67.48696899414062",
+    "PLAYTEST_WALK 18 Pier PASS 1.37 -0.00032295240089297295, 7.041936874389648, 84.63118743896484",
+    "PLAYTEST_WALK 19 Pier PASS 0.6 -0.000008226255886256695, 7.041936874389648, 107.39546203613281",
+    "PLAYTEST_WALK 20 Pier end PASS 0.84 -3.112363629043102e-07, 7.041936874389648, 125.1569595336914"
+  ],
+  "returnWalk": [
+    "PLAYTEST_RETURN 108 PASS 0.0010204198770225048, 7.04193639755249, 109.77082061767578",
+    "PLAYTEST_RETURN 86 PASS 0.0000468953512609005, 7.04193639755249, 87.10449981689453",
+    "PLAYTEST_RETURN 77 PASS 0.000004729139618575573, 7.047194957733154, 78.0382080078125",
+    "PLAYTEST_RETURN 73 PASS 6.752088665962219e-08, 7.709352016448975, 73.07432556152344",
+    "PLAYTEST_RETURN 68 PASS 2.6775524020195007e-09, 8.546906471252441, 69.48140716552734",
+    "PLAYTEST_RETURN 60 PASS 1.0477378964424133e-09, 9.308304786682129, 60.92296600341797",
+    "PLAYTEST_RETURN 48 PASS 2.3283064365386963e-10, 9.376154899597168, 48.80669021606445",
+    "PLAYTEST_RETURN 30 PASS 4.0745362639427185e-10, 9.44194221496582, 31.07715606689453",
+    "PLAYTEST_RETURN 15 PASS 4.656612873077393e-10, 9.55600357055664, 16.677169799804688",
+    "PLAYTEST_RETURN 0 PASS -2.9103830456733704e-10, 9.841938972473145, 1.0771801471710205"
+  ],
+  "drainPreview": [
+    "DRAIN_PREVIEW_BANK -123 19 -7.30000114440918",
+    "DRAIN_PREVIEW_BANK 115 -48 -12.300000190734863",
+    "DRAIN_PREVIEW_BANK 80 135 -19.299999237060547",
+    "DRAIN_PREVIEW_BANK -65 -126 -24.299999237060547"
+  ],
+  "spawn": "PLAYTEST_SPAWN 0, 9.841937065124512, 0 100 Running",
+  "walkSummary": "PLAYTEST_DONE 20 waypoints 0 failures 100",
+  "returnSummary": "PLAYTEST_RETURN_DONE 0",
+  "finalStudioState": {
+    "folders": {
+      "NPCs": true,
+      "Decorations": true,
+      "StarterIsland": true,
+      "Ocean": true,
+      "UnderwaterTerrain": true,
+      "Buildings": true
+    },
+    "meshes": 132,
+    "editMode": true,
+    "npcs": [
+      "Finn",
+      "Maya",
+      "Captain Shell"
+    ],
+    "waterRestored": true,
+    "scripts": 0,
+    "waterLevel": 0,
+    "parts": 242
+  },
+  "savedFile": {
+    "path": "build/SuckTheSea.rbxlx",
+    "bytes": 3008460,
+    "meshParts": 132,
+    "scripts": 0,
+    "spawnLocations": 1
+  },
+  "blenderQA": {
+    "pass": true,
+    "reviewedAssetRepresentatives": 21
+  },
+  "limits": [
+    "Verified in local Studio Play with one player. Mobile device FPS and multiplayer were not tested.",
+    "Drain preview tested level -16. The production draining controller and smooth transition are intentionally not implemented."
+  ]
+}

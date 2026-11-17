@@ -1,0 +1,7 @@
+local ctl=require(game.ReplicatedStorage.SeaGame.Client.Controller).current;assert(ctl);ctl:stop();ctl.ui:close();local char=game.Players.LocalPlayer.Character;char:PivotTo(CFrame.lookAt(Vector3.new(10,8,126),Vector3.new(22,4,126)));workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(28,15,142),Vector3.new(10,6,126));task.wait(1)
+print('STEP3_TOUCH_READY',ctl.ui.touchButton.AbsolutePosition,ctl.ui.touchButton.AbsoluteSize)
+local deadline=os.clock()+45;while not ctl.holding and os.clock()<deadline do task.wait(.1) end;assert(ctl.holding,'Touch hold never began')
+local before=workspace.Ocean:GetAttribute('WaterLevel');print('STEP3_TOUCH_BEGAN',before)
+while ctl.holding and os.clock()<deadline do task.wait(.1) end;task.wait(.7)
+local after=workspace.Ocean:GetAttribute('WaterLevel');assert(after<before-.1,'Touch did not drain water');assert(next(ctl.fx.streams)==nil,'Suction effects leaked after release')
+print('STEP3_TOUCH_PASS',before,after,'Effects cleaned up after release')

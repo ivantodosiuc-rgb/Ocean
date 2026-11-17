@@ -1,0 +1,1 @@
+workspace.CurrentCamera.CameraType=Enum.CameraType.Scriptable;workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(-103,-3,39),Vector3.new(-123,-6.8,19));workspace.CurrentCamera.FieldOfView=65;print('UNDERWATER_VIEW_READY')

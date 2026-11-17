@@ -1,0 +1,1 @@
+workspace.CurrentCamera.CameraType=Enum.CameraType.Scriptable;workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(-4,13,26),Vector3.new(-7,10,-20));workspace.CurrentCamera.FieldOfView=66;print('VILLAGE_VIEW_READY')

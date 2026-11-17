@@ -1,0 +1,18 @@
+[submodule ".skill-review/blender-skills"]
+	path = .skill-review/blender-skills
+	url = https://github.com/EL4CTEO/blender-skills.git
+[submodule ".skill-review/roblox-agent-skills"]
+	path = .skill-review/roblox-agent-skills
+	url = https://github.com/afrxo/roblox-agent-skills.git
+[submodule ".skill-review/roblox-brain"]
+	path = .skill-review/roblox-brain
+	url = https://github.com/tabooharmony/roblox-brain.git
+[submodule ".skill-review/roblox-dev-skills"]
+	path = .skill-review/roblox-dev-skills
+	url = https://github.com/ohzw/roblox-dev-skills.git
+[submodule ".skill-review/roblox-official"]
+	path = .skill-review/roblox-official
+	url = https://github.com/Roblox/roblox-studio-agent-plugin.git
+[submodule ".skill-review/roblox-skills"]
+	path = .skill-review/roblox-skills
+	url = https://github.com/EL4CTEO/roblox-skills.git

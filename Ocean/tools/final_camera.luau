@@ -1,0 +1,1 @@
+workspace.CurrentCamera.CameraType=Enum.CameraType.Scriptable;workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(145,145,215),Vector3.new(0,1,36));workspace.CurrentCamera.FieldOfView=50;game:GetService('Selection'):Set({});print('FINAL_OVERVIEW_READY')

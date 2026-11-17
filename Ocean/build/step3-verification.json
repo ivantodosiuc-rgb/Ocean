@@ -1,0 +1,744 @@
+{
+  "place": "build\\SuckTheSea.rbxlx",
+  "sha256": "8fca31e1cb2bf8bada617f6ff17868d3d9c7dd549e45a2d961ccfaf835aeca6a",
+  "preservedMapAndLighting": {
+    "StarterIsland": true,
+    "Buildings": true,
+    "Decorations": true,
+    "NPCs": true,
+    "UnderwaterTerrain": true,
+    "Lighting": true
+  },
+  "installedSourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true
+  },
+  "temporaryTestsSaved": [],
+  "blenderQA": {
+    "meshes": 18,
+    "allPassed": true,
+    "triangles": 21472,
+    "intentionalUVOverlap": "Single palette atlas"
+  },
+  "runtimeErrorsInFinalGameModules": [],
+  "latestUnitCompletion": {
+    "time": "2026-11-16T11:05:14.211Z",
+    "message": "STEP3_UNIT_COMPLETE 40"
+  },
+  "latestLoopCompletion": {
+    "time": "2026-11-16T11:07:31.310Z",
+    "message": "STEP3_LOOP_COMPLETE 18 380 -1.8362398794537866 0.5372549019607843 1.648916316124608"
+  },
+  "waterPerformance": {
+    "time": "2026-11-16T11:08:40.705Z",
+    "message": "STEP3_FINAL_WATER_PERF 208 5.5951999966055155 8.85270000435412 10.604600072838366"
+  },
+  "verifiedEvents": [
+    {
+      "time": "2026-11-16T09:52:27.665Z",
+      "message": "STEP3_CONTEXT 0 0 true 2026-11-16-v1 0"
+    },
+    {
+      "time": "2026-11-16T09:52:27.665Z",
+      "message": "STEP3_NPC Finn -40.64655303955078, 9.950724601745605, -19.337148666381836"
+    },
+    {
+      "time": "2026-11-16T09:52:27.665Z",
+      "message": "STEP3_NPC Maya 26.335756301879883, 10.078704833984375, -41.435142517089844"
+    },
+    {
+      "time": "2026-11-16T09:52:27.665Z",
+      "message": "STEP3_NPC Captain Shell 48.93844223022461, 9.87122631072998, 16.890527725219727"
+    },
+    {
+      "time": "2026-11-16T09:52:27.665Z",
+      "message": "STEP3_SCRIPT_COUNT 0 0"
+    },
+    {
+      "time": "2026-11-16T10:25:13.137Z",
+      "message": "STEP3_CLIENT Empl1x 0.219628036, 9.84193611, -0.304418713, 0.98607713, -3.39923218e-08, 0.166288689, 3.48372353e-08, 1, -2.16417728e-09, -0.166288689, 7.92708388e-09, 0.98607713 100 6"
+    },
+    {
+      "time": "2026-11-16T10:25:13.186Z",
+      "message": "STEP3_STATE {\"ok\":true,\"state\":{\"bag\":[],\"upgrades\":{\"Speed\":0,\"Power\":0,\"Backpack\":0,\"Walk\":0},\"owned\":{\"BasicStraw\":true},\"coins\":0,\"capacity\":5,\"count\":0,\"revision\":0,\"value\":0,\"saveStatus\":\"Session\",\"equipped\":\"BasicStraw\",\"stats\":{\"speed\":1,\"power\":1,\"capacity\":5,\"walk\":16}}}"
+    },
+    {
+      "time": "2026-11-16T10:25:13.187Z",
+      "message": "STEP3_PIER_READY"
+    },
+    {
+      "time": "2026-11-16T10:27:03.450Z",
+      "message": "STEP3_FINN_READY"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS New player defaults"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Insufficient funds never subtract"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Unknown and unowned equipment rejected"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Full backpack rejects extra loot"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Sale has exact authoritative value"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Duplicate sale awards zero"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Buy equips and charges once"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Duplicate purchase rejected"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Backpack tier 1"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Backpack tier 2"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Backpack tier 3"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Backpack tier 4"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Backpack maximum enforced"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Walk tier 1"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Walk tier 2"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Walk tier 3"
+    },
+    {
+      "time": "2026-11-16T10:32:18.690Z",
+      "message": "STEP3_TEST_PASS Walk tier 4"
+    },
+    {
+      "time": "2026-11-16T10:32:18.691Z",
+      "message": "STEP3_TEST_PASS Walk tier 5"
+    },
+    {
+      "time": "2026-11-16T10:32:18.691Z",
+      "message": "STEP3_TEST_PASS Power and speed modifiers"
+    },
+    {
+      "time": "2026-11-16T10:32:18.691Z",
+      "message": "STEP3_TEST_PASS Corrupt profile normalized safely"
+    },
+    {
+      "time": "2026-11-16T10:32:18.691Z",
+      "message": "STEP3_TEST_PASS NaN and infinity rejected"
+    },
+    {
+      "time": "2026-11-16T10:32:18.691Z",
+      "message": "STEP3_TEST_PASS Save snapshot is independent"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting CommonShell"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting Starfish"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting PearlShell"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting OldBottle"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting TreasureChest"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Loot weighting AncientRelic"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS DataStore save through UpdateAsync"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Session lock retained during save"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Leave releases session lock"
+    },
+    {
+      "time": "2026-11-16T10:32:18.693Z",
+      "message": "STEP3_TEST_PASS Rejoin restores every requested field"
+    },
+    {
+      "time": "2026-11-16T10:32:19.703Z",
+      "message": "STEP3_TEST_PASS Transient save failure retries successfully"
+    },
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_TEST_PASS Lost session ownership never overwrites another server"
+    },
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_UNIT_COMPLETE 39"
+    },
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_TEST_PASS Distance and payload checks reject five invalid requests"
+    },
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_TEST_PASS Request flood throttled 19"
+    },
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_TEST_PASS Dry land and NaN suction rejected"
+    },
+    {
+      "time": "2026-11-16T10:32:23.704Z",
+      "message": "STEP3_TEST_PASS Ocean stays still without suction"
+    },
+    {
+      "time": "2026-11-16T10:32:23.704Z",
+      "message": "STEP3_SERVER_COMPLETE true 3798 0"
+    },
+    {
+      "time": "2026-11-16T10:33:07.922Z",
+      "message": "STEP3_LOOP_PASS Basic Straw lowers actual ocean"
+    },
+    {
+      "time": "2026-11-16T10:33:07.922Z",
+      "message": "STEP3_LOOP_PASS Terrain water occupancy really decreased"
+    },
+    {
+      "time": "2026-11-16T10:33:09.437Z",
+      "message": "STEP3_LOOP_PASS Release stops draining"
+    },
+    {
+      "time": "2026-11-16T10:33:10.437Z",
+      "message": "STEP3_LOOP_PASS Physical treasure appears on exposed shore"
+    },
+    {
+      "time": "2026-11-16T10:33:14.807Z",
+      "message": "STEP3_LOOP_PASS Five real pickups fill starting backpack"
+    },
+    {
+      "time": "2026-11-16T10:33:16.038Z",
+      "message": "STEP3_LOOP_PASS Full bag leaves world treasure untouched"
+    },
+    {
+      "time": "2026-11-16T10:33:17.271Z",
+      "message": "STEP3_LOOP_PASS Sale pays exact bag value trip 1"
+    },
+    {
+      "time": "2026-11-16T10:33:17.737Z",
+      "message": "STEP3_LOOP_PASS Repeated sale gives no duplicate coins"
+    },
+    {
+      "time": "2026-11-16T10:33:23.353Z",
+      "message": "STEP3_LOOP_PASS Sale pays exact bag value trip 2"
+    },
+    {
+      "time": "2026-11-16T10:33:23.803Z",
+      "message": "STEP3_LOOP_PASS Repeated sale gives no duplicate coins"
+    },
+    {
+      "time": "2026-11-16T10:33:24.254Z",
+      "message": "STEP3_LOOP_PASS Earned enough coins through actual treasure sales"
+    },
+    {
+      "time": "2026-11-16T10:33:25.022Z",
+      "message": "STEP3_LOOP_PASS Buy Colorful Straw with earned coins"
+    },
+    {
+      "time": "2026-11-16T10:33:25.486Z",
+      "message": "STEP3_LOOP_PASS Duplicate purchase does not charge twice"
+    },
+    {
+      "time": "2026-11-16T10:33:26.237Z",
+      "message": "STEP3_LOOP_PASS Power upgrade changes server suction rate"
+    },
+    {
+      "time": "2026-11-16T10:33:35.171Z",
+      "message": "STEP3_LOOP_PASS Upgraded straw drains faster"
+    },
+    {
+      "time": "2026-11-16T10:33:35.172Z",
+      "message": "STEP3_LOOP_PASS Player survives every collection and shop visit"
+    },
+    {
+      "time": "2026-11-16T10:33:35.172Z",
+      "message": "STEP3_LOOP_COMPLETE 16 1300 -1.8583751685963934 0.5411764705882353 1.64142873694934"
+    },
+    {
+      "time": "2026-11-16T10:36:58.662Z",
+      "message": "STEP3_LOOP_PASS Live walk speed and backpack upgrades apply"
+    },
+    {
+      "time": "2026-11-16T10:36:58.761Z",
+      "message": "STEP3_VISUAL_UPGRADES_READY"
+    },
+    {
+      "time": "2026-11-16T10:37:30.427Z",
+      "message": "STEP3_VISUAL_REVIEW"
+    },
+    {
+      "time": "2026-11-16T10:38:13.209Z",
+      "message": "STEP3_VISUAL_SELL_READY 4"
+    },
+    {
+      "time": "2026-11-16T10:42:42.500Z",
+      "message": "STEP3_MOBILE 801, 413 801, 355 true true"
+    },
+    {
+      "time": "2026-11-16T10:42:43.631Z",
+      "message": "STEP3_MOBILE_SHOP 773, 327 {0, 235}, {0, 238}"
+    },
+    {
+      "time": "2026-11-16T10:45:09.559Z",
+      "message": "STEP3_MOBILE 801, 413 801, 355 true true"
+    },
+    {
+      "time": "2026-11-16T10:45:10.693Z",
+      "message": "STEP3_MOBILE_SHOP 773, 327 {0, 235}, {0, 170}"
+    },
+    {
+      "time": "2026-11-16T10:47:02.038Z",
+      "message": "STEP3_TOUCH_READY 301, 526 92, 92"
+    },
+    {
+      "time": "2026-11-16T10:47:25.120Z",
+      "message": "STEP3_TOUCH_BEGAN 0"
+    },
+    {
+      "time": "2026-11-16T10:47:31.071Z",
+      "message": "STEP3_TOUCH_PASS 0 -0.4300169479008766 Effects cleaned up after release"
+    },
+    {
+      "time": "2026-11-16T10:49:48.397Z",
+      "message": "STEP3_EDIT_WATER 1"
+    },
+    {
+      "time": "2026-11-16T10:49:48.397Z",
+      "message": "STEP3_EDIT_AUDIT_PASS 0 0"
+    },
+    {
+      "time": "2026-11-16T10:55:09.443Z",
+      "message": "STEP3_DEEP_PASS Exact minimum and 48-loot cap"
+    },
+    {
+      "time": "2026-11-16T10:55:09.443Z",
+      "message": "STEP3_DEEP_READY"
+    },
+    {
+      "time": "2026-11-16T10:55:18.554Z",
+      "message": "STEP3_LADDER_RESULT true -19.55806541442871 7.358067989349365 Freefall 100"
+    },
+    {
+      "time": "2026-11-16T10:55:18.554Z",
+      "message": "STEP3_LADDER_PASS"
+    },
+    {
+      "time": "2026-11-16T10:57:54.296Z",
+      "message": "STEP3_DEEP_PASS New tide restores real water and clean loot state"
+    },
+    {
+      "time": "2026-11-16T10:57:54.296Z",
+      "message": "STEP3_WATER_PERF 608 10.941299959085882 14.480900019407272 18.662699963897467"
+    },
+    {
+      "time": "2026-11-16T10:57:54.296Z",
+      "message": "STEP3_DEEP_COMPLETE"
+    },
+    {
+      "time": "2026-11-16T11:00:52.750Z",
+      "message": "STEP3_VOXEL_BENCH 0.9375 28.257900034077466 0.9372549019607843"
+    },
+    {
+      "time": "2026-11-16T11:00:52.958Z",
+      "message": "STEP3_VOXEL_BENCH 0.875 3.9764000102877617 0.8745098039215686"
+    },
+    {
+      "time": "2026-11-16T11:00:53.176Z",
+      "message": "STEP3_VOXEL_BENCH 0.8125 4.792200052179396 0.8117647058823529"
+    },
+    {
+      "time": "2026-11-16T11:00:53.391Z",
+      "message": "STEP3_VOXEL_BENCH 1 4.109400091692805 1"
+    },
+    {
+      "time": "2026-11-16T11:00:53.606Z",
+      "message": "STEP3_VOXEL_BENCH_COMPLETE"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS New player defaults"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Insufficient funds never subtract"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Unknown and unowned equipment rejected"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.165Z",
+      "message": "STEP3_TEST_PASS Collect into free slot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Full backpack rejects extra loot"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Sale has exact authoritative value"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Duplicate sale awards zero"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Buy equips and charges once"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Duplicate purchase rejected"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Backpack tier 1"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Backpack tier 2"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Backpack tier 3"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Backpack tier 4"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Backpack maximum enforced"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Walk tier 1"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Walk tier 2"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Walk tier 3"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Walk tier 4"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Walk tier 5"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Power and speed modifiers"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Strongest straw and all single-player upgrades retain their full effect"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Corrupt profile normalized safely"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS NaN and infinity rejected"
+    },
+    {
+      "time": "2026-11-16T11:05:10.166Z",
+      "message": "STEP3_TEST_PASS Save snapshot is independent"
+    },
+    {
+      "time": "2026-11-16T11:05:10.168Z",
+      "message": "STEP3_TEST_PASS Loot weighting CommonShell"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Loot weighting Starfish"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Loot weighting PearlShell"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Loot weighting OldBottle"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Loot weighting TreasureChest"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Loot weighting AncientRelic"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS DataStore save through UpdateAsync"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Session lock retained during save"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Leave releases session lock"
+    },
+    {
+      "time": "2026-11-16T11:05:10.169Z",
+      "message": "STEP3_TEST_PASS Rejoin restores every requested field"
+    },
+    {
+      "time": "2026-11-16T11:05:11.179Z",
+      "message": "STEP3_TEST_PASS Transient save failure retries successfully"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_TEST_PASS Lost session ownership never overwrites another server"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_UNIT_COMPLETE 40"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_TEST_PASS Distance and payload checks reject five invalid requests"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_TEST_PASS Request flood throttled 19"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_TEST_PASS Dry land and NaN suction rejected"
+    },
+    {
+      "time": "2026-11-16T11:05:15.195Z",
+      "message": "STEP3_TEST_PASS Ocean stays still without suction"
+    },
+    {
+      "time": "2026-11-16T11:05:15.195Z",
+      "message": "STEP3_SERVER_COMPLETE true 3802 0"
+    },
+    {
+      "time": "2026-11-16T11:06:58.142Z",
+      "message": "STEP3_LOOP_PASS Basic Straw lowers actual ocean"
+    },
+    {
+      "time": "2026-11-16T11:06:58.142Z",
+      "message": "STEP3_LOOP_PASS Terrain water occupancy really decreased"
+    },
+    {
+      "time": "2026-11-16T11:06:59.657Z",
+      "message": "STEP3_LOOP_PASS Release stops draining"
+    },
+    {
+      "time": "2026-11-16T11:07:00.659Z",
+      "message": "STEP3_LOOP_PASS Physical treasure appears on exposed shore"
+    },
+    {
+      "time": "2026-11-16T11:07:04.941Z",
+      "message": "STEP3_LOOP_PASS Five real pickups fill starting backpack"
+    },
+    {
+      "time": "2026-11-16T11:07:06.157Z",
+      "message": "STEP3_LOOP_PASS Full bag leaves world treasure untouched"
+    },
+    {
+      "time": "2026-11-16T11:07:07.391Z",
+      "message": "STEP3_LOOP_PASS Sale pays exact bag value trip 1"
+    },
+    {
+      "time": "2026-11-16T11:07:07.842Z",
+      "message": "STEP3_LOOP_PASS Repeated sale gives no duplicate coins"
+    },
+    {
+      "time": "2026-11-16T11:07:13.408Z",
+      "message": "STEP3_LOOP_PASS Sale pays exact bag value trip 2"
+    },
+    {
+      "time": "2026-11-16T11:07:13.857Z",
+      "message": "STEP3_LOOP_PASS Repeated sale gives no duplicate coins"
+    },
+    {
+      "time": "2026-11-16T11:07:19.408Z",
+      "message": "STEP3_LOOP_PASS Sale pays exact bag value trip 3"
+    },
+    {
+      "time": "2026-11-16T11:07:19.857Z",
+      "message": "STEP3_LOOP_PASS Repeated sale gives no duplicate coins"
+    },
+    {
+      "time": "2026-11-16T11:07:20.308Z",
+      "message": "STEP3_LOOP_PASS Earned enough coins through actual treasure sales"
+    },
+    {
+      "time": "2026-11-16T11:07:21.090Z",
+      "message": "STEP3_LOOP_PASS Buy Colorful Straw with earned coins"
+    },
+    {
+      "time": "2026-11-16T11:07:21.541Z",
+      "message": "STEP3_LOOP_PASS Duplicate purchase does not charge twice"
+    },
+    {
+      "time": "2026-11-16T11:07:22.325Z",
+      "message": "STEP3_LOOP_PASS Power upgrade changes server suction rate"
+    },
+    {
+      "time": "2026-11-16T11:07:31.310Z",
+      "message": "STEP3_LOOP_PASS Upgraded straw drains faster"
+    },
+    {
+      "time": "2026-11-16T11:07:31.310Z",
+      "message": "STEP3_LOOP_PASS Player survives every collection and shop visit"
+    },
+    {
+      "time": "2026-11-16T11:07:31.310Z",
+      "message": "STEP3_LOOP_COMPLETE 18 380 -1.8362398794537866 0.5372549019607843 1.648916316124608"
+    },
+    {
+      "time": "2026-11-16T11:08:27.239Z",
+      "message": "STEP3_FINAL_WATER_PASS Exact minimum, dry upper layer and 48-loot cap"
+    },
+    {
+      "time": "2026-11-16T11:08:40.705Z",
+      "message": "STEP3_FINAL_WATER_PERF 208 5.5951999966055155 8.85270000435412 10.604600072838366"
+    },
+    {
+      "time": "2026-11-16T11:08:40.706Z",
+      "message": "STEP3_FINAL_WATER_COMPLETE"
+    },
+    {
+      "time": "2026-11-16T11:10:07.355Z",
+      "message": "STEP3_ANIMATION_READY"
+    },
+    {
+      "time": "2026-11-16T11:10:26.386Z",
+      "message": "STEP3_ANIMATION_DONE"
+    },
+    {
+      "time": "2026-11-16T11:12:57.131Z",
+      "message": "STEP3_ANIMATION_READY"
+    },
+    {
+      "time": "2026-11-16T11:13:16.164Z",
+      "message": "STEP3_ANIMATION_DONE"
+    },
+    {
+      "time": "2026-11-16T11:24:24.271Z",
+      "message": "STEP3_RARE_EFFECTS 0"
+    },
+    {
+      "time": "2026-11-16T11:24:25.501Z",
+      "message": "STEP3_FINAL_UI Straws 784, 615 6"
+    },
+    {
+      "time": "2026-11-16T11:25:21.966Z",
+      "message": "STEP3_EDIT_WATER 1"
+    },
+    {
+      "time": "2026-11-16T11:25:21.966Z",
+      "message": "STEP3_EDIT_AUDIT_PASS 0 0"
+    }
+  ],
+  "limitations": [
+    "Unpublished PlaceId=0/GameId=0: cloud DataStore rejoin not tested; dependency-injected storage tests passed.",
+    "No two-client session or physical phone test. iPhone XR Simulator portrait/landscape and actual touch hold tested.",
+    "Capture frame rate is separate from game performance; preview video has no recorded audio."
+  ],
+  "savedMapAuditPassed": true
+}

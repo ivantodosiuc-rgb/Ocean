@@ -1,0 +1,1 @@
+local camera=workspace.CurrentCamera;camera.CameraType=Enum.CameraType.Scriptable;camera.CFrame=CFrame.lookAt(Vector3.new(115,88,165),Vector3.new(0,5,17));camera.FieldOfView=55;print('POLISH_ISLAND_CAMERA')

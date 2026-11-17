@@ -1,0 +1,1 @@
+assert(not game:GetService('RunService'):IsRunning());local c=workspace.CurrentCamera;c.CameraType=Enum.CameraType.Scriptable;c.CFrame=CFrame.lookAt(Vector3.new(100,80,142),Vector3.new(0,5,17));c.FieldOfView=52;game:GetService('Selection'):Set({})

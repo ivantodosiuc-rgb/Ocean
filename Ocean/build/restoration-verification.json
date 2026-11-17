@@ -1,0 +1,12 @@
+{
+  "comparison": "Saved original before flora refresh vs current saved place; excludes replacement NPCs and editor camera",
+  "unchanged": {
+    "StarterIsland": true,
+    "Buildings": true,
+    "Decorations": true,
+    "Ocean": true,
+    "UnderwaterTerrain": true,
+    "Lighting": true
+  },
+  "allRestored": true
+}

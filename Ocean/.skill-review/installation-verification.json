@@ -1,0 +1,315 @@
+{
+  "review_date": "2026-11-16",
+  "skills_verified": 30,
+  "files_verified": 96,
+  "results": [
+    {
+      "name": "roblox-get-started",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-get-started",
+      "verified": true,
+      "files": 5,
+      "crlf_only_differences": [
+        "references/connect.md",
+        "references/install.md",
+        "references/troubleshoot.md",
+        "SECURITY.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-luau",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-luau",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [
+        "references/stdlib-cheatsheet.md",
+        "references/type-system.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-ui",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-ui",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/styling-and-frameworks.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-input",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-input",
+      "verified": true,
+      "files": 1,
+      "crlf_only_differences": [
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-world-building",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-world-building",
+      "verified": true,
+      "files": 1,
+      "crlf_only_differences": [
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-performance",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-performance",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/profiling.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-testing",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-testing",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/cloud-test-runner.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-tooling",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-tooling",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/ci-workflow.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-studio-mcp",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-studio-mcp",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/client-setup.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-gui",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-gui",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/full.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-building",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-building",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/full.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "roblox-lighting",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\roblox-lighting",
+      "verified": true,
+      "files": 2,
+      "crlf_only_differences": [
+        "references/full.md",
+        "SKILL.md"
+      ],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-core",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-core",
+      "verified": true,
+      "files": 6,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-scene-setup",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-scene-setup",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-hardsurface-modeling",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-hardsurface-modeling",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-sculpting",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-sculpting",
+      "verified": true,
+      "files": 4,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-retopology-uv",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-retopology-uv",
+      "verified": true,
+      "files": 5,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-pbr-materials",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-pbr-materials",
+      "verified": true,
+      "files": 4,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-texturing",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-texturing",
+      "verified": true,
+      "files": 5,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-texture-baking",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-texture-baking",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-geometry-nodes",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-geometry-nodes",
+      "verified": true,
+      "files": 4,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-game-optimization",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-game-optimization",
+      "verified": true,
+      "files": 4,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-export-pipelines",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-export-pipelines",
+      "verified": true,
+      "files": 7,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-rendering",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-rendering",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-lighting-lookdev",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-lighting-lookdev",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-stylized-npr",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-stylized-npr",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-environment-kits",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-environment-kits",
+      "verified": true,
+      "files": 5,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-asset-qa",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-asset-qa",
+      "verified": true,
+      "files": 4,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-pipeline-automation",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-pipeline-automation",
+      "verified": true,
+      "files": 3,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    },
+    {
+      "name": "blender-workflow-recipes",
+      "destination": "C:\\Users\\Administrator\\.codex\\skills\\blender-workflow-recipes",
+      "verified": true,
+      "files": 1,
+      "crlf_only_differences": [],
+      "mismatches_or_missing": [],
+      "missing_markdown_links": []
+    }
+  ]
+}

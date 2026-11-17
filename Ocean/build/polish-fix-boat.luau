@@ -1,0 +1,1 @@
+assert(not game:GetService('RunService'):IsRunning());local p=workspace.Ocean.LittleBoat;p.CFrame=CFrame.new(22,-.45,123)*CFrame.Angles(0,math.rad(188),0)*CFrame.new(-p.PivotOffset.Position);assert(p.CFrame.UpVector.Y>.99);print('BOAT_ORIENTATION_FIXED',p.Position,p.CFrame.UpVector);workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(38,13,141),Vector3.new(22,1,123))

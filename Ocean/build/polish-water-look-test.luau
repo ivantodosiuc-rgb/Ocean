@@ -1,0 +1,1 @@
+local wet=workspace.Ocean.WetShoreRig:FindFirstChild('WetShore',true);print('WET_MATERIAL',wet.SurfaceAppearance.AlphaMode,wet.SurfaceAppearance.ColorMap,wet.Transparency);wet.Transparency=1;workspace.Terrain.WaterReflectance=0;workspace.Terrain.WaterWaveSize=.025;game:GetService('Lighting').EnvironmentSpecularScale=.15;game:GetService('Lighting').ClockTime=11.3

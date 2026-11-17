@@ -1,0 +1,452 @@
+[
+  {
+    "id": "CommonShell",
+    "name": "Common Shell",
+    "kind": "shell",
+    "palette": "pink",
+    "value": 10,
+    "weight": 28,
+    "minDepth": 0
+  },
+  {
+    "id": "Starfish",
+    "name": "Starfish",
+    "kind": "star",
+    "palette": "coral",
+    "value": 20,
+    "weight": 19,
+    "minDepth": 0
+  },
+  {
+    "id": "PearlShell",
+    "name": "Pearl Shell",
+    "kind": "pearl",
+    "palette": "aqua",
+    "value": 50,
+    "weight": 8,
+    "minDepth": 3
+  },
+  {
+    "id": "OldBottle",
+    "name": "Old Bottle",
+    "kind": "bottle",
+    "palette": "bottle",
+    "value": 100,
+    "weight": 5,
+    "minDepth": 6
+  },
+  {
+    "id": "TreasureChest",
+    "name": "Treasure Chest",
+    "kind": "chest",
+    "palette": "gold",
+    "value": 250,
+    "weight": 3,
+    "minDepth": 18
+  },
+  {
+    "id": "AncientRelic",
+    "name": "Ancient Relic",
+    "kind": "relic",
+    "palette": "purple",
+    "value": 600,
+    "weight": 1,
+    "minDepth": 35
+  },
+  {
+    "id": "SunriseScallop",
+    "name": "Sunrise Scallop",
+    "kind": "scallop",
+    "palette": "goldLight",
+    "value": 18,
+    "weight": 18,
+    "minDepth": 0
+  },
+  {
+    "id": "SpiralShell",
+    "name": "Spiral Shell",
+    "kind": "spiral",
+    "palette": "coral",
+    "value": 32,
+    "weight": 14,
+    "minDepth": 2
+  },
+  {
+    "id": "CowrieShell",
+    "name": "Tiger Cowrie",
+    "kind": "cowrie",
+    "palette": "cream",
+    "value": 38,
+    "weight": 12,
+    "minDepth": 3
+  },
+  {
+    "id": "NautilusShell",
+    "name": "Nautilus Shell",
+    "kind": "nautilus",
+    "palette": "pink",
+    "value": 75,
+    "weight": 8,
+    "minDepth": 8
+  },
+  {
+    "id": "ConeShell",
+    "name": "Violet Cone Shell",
+    "kind": "cone",
+    "palette": "lilac",
+    "value": 48,
+    "weight": 11,
+    "minDepth": 5
+  },
+  {
+    "id": "TurbanShell",
+    "name": "Turban Shell",
+    "kind": "turban",
+    "palette": "aqua",
+    "value": 65,
+    "weight": 9,
+    "minDepth": 7
+  },
+  {
+    "id": "BlueStar",
+    "name": "Blue Sea Star",
+    "kind": "blueStar",
+    "palette": "blue",
+    "value": 30,
+    "weight": 15,
+    "minDepth": 2
+  },
+  {
+    "id": "BrittleStar",
+    "name": "Brittle Star",
+    "kind": "brittle",
+    "palette": "red",
+    "value": 42,
+    "weight": 11,
+    "minDepth": 5
+  },
+  {
+    "id": "SandDollar",
+    "name": "Sand Dollar",
+    "kind": "dollar",
+    "palette": "cream",
+    "value": 24,
+    "weight": 16,
+    "minDepth": 0
+  },
+  {
+    "id": "SeaUrchin",
+    "name": "Sea Urchin",
+    "kind": "urchin",
+    "palette": "purple",
+    "value": 55,
+    "weight": 10,
+    "minDepth": 6
+  },
+  {
+    "id": "CoralFragment",
+    "name": "Branching Coral",
+    "kind": "coral",
+    "palette": "red",
+    "value": 62,
+    "weight": 12,
+    "minDepth": 8
+  },
+  {
+    "id": "SeaGlass",
+    "name": "Sea Glass",
+    "kind": "glass",
+    "palette": "aqua",
+    "value": 35,
+    "weight": 14,
+    "minDepth": 3
+  },
+  {
+    "id": "PinkPearl",
+    "name": "Rose Pearl",
+    "kind": "pinkPearl",
+    "palette": "pink",
+    "value": 130,
+    "weight": 5,
+    "minDepth": 12
+  },
+  {
+    "id": "BlackPearl",
+    "name": "Midnight Pearl",
+    "kind": "blackPearl",
+    "palette": "navy",
+    "value": 420,
+    "weight": 2,
+    "minDepth": 28
+  },
+  {
+    "id": "AmberStone",
+    "name": "Ocean Amber",
+    "kind": "amber",
+    "palette": "goldDark",
+    "value": 95,
+    "weight": 8,
+    "minDepth": 10
+  },
+  {
+    "id": "JadeBead",
+    "name": "Carved Jade Bead",
+    "kind": "bead",
+    "palette": "teal",
+    "value": 120,
+    "weight": 6,
+    "minDepth": 13
+  },
+  {
+    "id": "MessageBottle",
+    "name": "Message in a Bottle",
+    "kind": "message",
+    "palette": "blue",
+    "value": 165,
+    "weight": 5,
+    "minDepth": 16
+  },
+  {
+    "id": "CeramicJug",
+    "name": "Painted Amphora",
+    "kind": "jug",
+    "palette": "coral",
+    "value": 190,
+    "weight": 5,
+    "minDepth": 19
+  },
+  {
+    "id": "PorcelainPlate",
+    "name": "Sailor Porcelain",
+    "kind": "plate",
+    "palette": "cream",
+    "value": 145,
+    "weight": 6,
+    "minDepth": 15
+  },
+  {
+    "id": "CopperCoin",
+    "name": "Copper Sea Coin",
+    "kind": "coin",
+    "palette": "woodLight",
+    "value": 65,
+    "weight": 12,
+    "minDepth": 10
+  },
+  {
+    "id": "SilverCoin",
+    "name": "Silver Crown Coin",
+    "kind": "silverCoin",
+    "palette": "ice",
+    "value": 150,
+    "weight": 8,
+    "minDepth": 18
+  },
+  {
+    "id": "GoldDoubloon",
+    "name": "Gold Doubloon",
+    "kind": "goldCoin",
+    "palette": "gold",
+    "value": 340,
+    "weight": 5,
+    "minDepth": 25
+  },
+  {
+    "id": "CoralRing",
+    "name": "Coral Ring",
+    "kind": "ring",
+    "palette": "coral",
+    "value": 240,
+    "weight": 4,
+    "minDepth": 22
+  },
+  {
+    "id": "CaptainsRing",
+    "name": "Captain's Signet",
+    "kind": "signet",
+    "palette": "teal",
+    "value": 650,
+    "weight": 2,
+    "minDepth": 30
+  },
+  {
+    "id": "RubyBrooch",
+    "name": "Ruby Sun Brooch",
+    "kind": "brooch",
+    "palette": "red",
+    "value": 840,
+    "weight": 2,
+    "minDepth": 34
+  },
+  {
+    "id": "SapphirePendant",
+    "name": "Sapphire Pendant",
+    "kind": "pendant",
+    "palette": "blue",
+    "value": 920,
+    "weight": 2,
+    "minDepth": 37
+  },
+  {
+    "id": "BronzeKey",
+    "name": "Bronze Cabin Key",
+    "kind": "key",
+    "palette": "goldDark",
+    "value": 210,
+    "weight": 5,
+    "minDepth": 20
+  },
+  {
+    "id": "AnchorCharm",
+    "name": "Anchor Charm",
+    "kind": "anchor",
+    "palette": "ice",
+    "value": 280,
+    "weight": 4,
+    "minDepth": 24
+  },
+  {
+    "id": "Compass",
+    "name": "Mariner Compass",
+    "kind": "compass",
+    "palette": "gold",
+    "value": 390,
+    "weight": 3,
+    "minDepth": 26
+  },
+  {
+    "id": "PocketWatch",
+    "name": "Captain's Watch",
+    "kind": "watch",
+    "palette": "goldLight",
+    "value": 520,
+    "weight": 3,
+    "minDepth": 28
+  },
+  {
+    "id": "Spyglass",
+    "name": "Brass Spyglass",
+    "kind": "spyglass",
+    "palette": "gold",
+    "value": 480,
+    "weight": 3,
+    "minDepth": 27
+  },
+  {
+    "id": "ShipBell",
+    "name": "Ship Bell",
+    "kind": "bell",
+    "palette": "goldDark",
+    "value": 720,
+    "weight": 2,
+    "minDepth": 32
+  },
+  {
+    "id": "CopperLantern",
+    "name": "Pearl Lantern",
+    "kind": "lantern",
+    "palette": "woodLight",
+    "value": 790,
+    "weight": 2,
+    "minDepth": 34
+  },
+  {
+    "id": "RoyalCrown",
+    "name": "Sunken Crown",
+    "kind": "crown",
+    "palette": "gold",
+    "value": 1800,
+    "weight": 1,
+    "minDepth": 43
+  },
+  {
+    "id": "GoldenChalice",
+    "name": "Golden Chalice",
+    "kind": "chalice",
+    "palette": "gold",
+    "value": 1250,
+    "weight": 2,
+    "minDepth": 40
+  },
+  {
+    "id": "RubyCluster",
+    "name": "Ruby Cluster",
+    "kind": "ruby",
+    "palette": "red",
+    "value": 980,
+    "weight": 3,
+    "minDepth": 36
+  },
+  {
+    "id": "SapphireCluster",
+    "name": "Sapphire Cluster",
+    "kind": "sapphire",
+    "palette": "blue",
+    "value": 1100,
+    "weight": 3,
+    "minDepth": 40
+  },
+  {
+    "id": "AmethystCluster",
+    "name": "Amethyst Geode",
+    "kind": "amethyst",
+    "palette": "purple",
+    "value": 1350,
+    "weight": 2,
+    "minDepth": 44
+  },
+  {
+    "id": "AquamarineCluster",
+    "name": "Aquamarine Bloom",
+    "kind": "aquamarine",
+    "palette": "aqua",
+    "value": 1550,
+    "weight": 2,
+    "minDepth": 48
+  },
+  {
+    "id": "GoldenIdol",
+    "name": "Golden Tide Idol",
+    "kind": "idol",
+    "palette": "gold",
+    "value": 2400,
+    "weight": 1,
+    "minDepth": 51
+  },
+  {
+    "id": "AncientTrident",
+    "name": "Ancient Trident",
+    "kind": "trident",
+    "palette": "deepTeal",
+    "value": 3200,
+    "weight": 1,
+    "minDepth": 56
+  },
+  {
+    "id": "AtlanteanTablet",
+    "name": "Atlantean Tablet",
+    "kind": "tablet",
+    "palette": "teal",
+    "value": 2800,
+    "weight": 1,
+    "minDepth": 53
+  },
+  {
+    "id": "CrystalHeart",
+    "name": "Heart of the Ocean",
+    "kind": "heart",
+    "palette": "blue",
+    "value": 4500,
+    "weight": 0.6,
+    "minDepth": 60
+  },
+  {
+    "id": "ObsidianFang",
+    "name": "Obsidian Fang",
+    "kind": "fang",
+    "palette": "navy",
+    "value": 2100,
+    "weight": 1.5,
+    "minDepth": 50
+  }
+]

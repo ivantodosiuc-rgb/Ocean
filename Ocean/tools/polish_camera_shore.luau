@@ -1,0 +1,1 @@
+local camera=workspace.CurrentCamera;camera.CameraType=Enum.CameraType.Scriptable;camera.CFrame=CFrame.lookAt(Vector3.new(108,28,110),Vector3.new(68,-2,75));camera.FieldOfView=55;print('POLISH_SHORE_CAMERA',workspace.Ocean:GetAttribute('WaterLevel'))

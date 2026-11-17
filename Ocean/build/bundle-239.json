@@ -1,0 +1,110 @@
+﻿{
+    "id":  239,
+    "name":  "Woman",
+    "description":  "The next generation of ROBLOX.",
+    "bundleType":  "BodyParts",
+    "isRecolorable":  true,
+    "items":  [
+                  {
+                      "id":  86499666,
+                      "name":  "Woman Torso",
+                      "type":  "Asset",
+                      "assetType":  27
+                  },
+                  {
+                      "id":  86499698,
+                      "name":  "Woman Right Arm",
+                      "type":  "Asset",
+                      "assetType":  28
+                  },
+                  {
+                      "id":  86499716,
+                      "name":  "Woman Left Arm",
+                      "type":  "Asset",
+                      "assetType":  29
+                  },
+                  {
+                      "id":  86499753,
+                      "name":  "Woman Left Leg",
+                      "type":  "Asset",
+                      "assetType":  30
+                  },
+                  {
+                      "id":  86499793,
+                      "name":  "Woman Right Leg",
+                      "type":  "Asset",
+                      "assetType":  31
+                  },
+                  {
+                      "id":  62724852,
+                      "name":  "Chestnut Bun",
+                      "type":  "Asset",
+                      "assetType":  41
+                  },
+                  {
+                      "id":  131929497,
+                      "name":  "Woman",
+                      "type":  "UserOutfit"
+                  },
+                  {
+                      "id":  11166516435,
+                      "name":  "Woman Face",
+                      "type":  "UserOutfit"
+                  },
+                  {
+                      "id":  10725638029,
+                      "name":  "Woman Face - Mood",
+                      "type":  "Asset",
+                      "assetType":  78
+                  },
+                  {
+                      "id":  10725626210,
+                      "name":  "Woman Face - Head",
+                      "type":  "Asset",
+                      "supportsHeadShapes":  true,
+                      "assetType":  79
+                  }
+              ],
+    "creator":  {
+                    "id":  1,
+                    "name":  "Roblox",
+                    "type":  "User",
+                    "hasVerifiedBadge":  true
+                },
+    "product":  {
+                    "id":  8306895235339644,
+                    "type":  "productType",
+                    "isPublicDomain":  true,
+                    "isForSale":  true,
+                    "priceInRobux":  0,
+                    "isFree":  true,
+                    "noPriceText":  "Free"
+                },
+    "collectibleItemDetail":  {
+                                  "collectibleItemId":  "3126a07f-ccb1-4bc1-b156-3c367feda255",
+                                  "collectibleProductId":  "2bb85f87-5ba0-47c3-8a6a-e7de175f3e7d",
+                                  "price":  0,
+                                  "lowestPrice":  0,
+                                  "lowestResalePrice":  0,
+                                  "totalQuantity":  0,
+                                  "unitsAvailable":  0,
+                                  "saleLocation":  {
+                                                       "saleLocationType":  "ShopAndAllExperiences",
+                                                       "saleLocationTypeId":  5,
+                                                       "universeIds":  [
+
+                                                                       ],
+                                                       "enabledUniverseIds":  [
+
+                                                                              ]
+                                                   },
+                                  "hasResellers":  false,
+                                  "saleStatus":  "OnSale",
+                                  "quantityLimitPerUser":  null,
+                                  "offSaleDeadline":  null,
+                                  "collectibleItemType":  "NonLimited",
+                                  "lowestAvailableResaleProductId":  null,
+                                  "lowestAvailableResaleItemInstanceId":  null,
+                                  "resaleRestriction":  "Disabled"
+                              }
+}

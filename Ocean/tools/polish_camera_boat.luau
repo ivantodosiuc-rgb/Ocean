@@ -1,0 +1,1 @@
+local camera=workspace.CurrentCamera;camera.CameraType=Enum.CameraType.Scriptable;camera.CFrame=CFrame.lookAt(Vector3.new(38,12,139),Vector3.new(22,1,123));camera.FieldOfView=50;print('POLISH_BOAT_CAMERA',workspace.Ocean.LittleBoat.CFrame.UpVector)

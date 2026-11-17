@@ -1,0 +1,1 @@
+local m=workspace.NPCs.Finn;local p=m:GetPivot();local c=workspace.Buildings.StrawShop_Collisions.Counter;local position=(c.CFrame*CFrame.new(0,0,-3.1)).Position;m:PivotTo(CFrame.new(position.X,p.Position.Y,position.Z)*p.Rotation);game:GetService('Selection'):Set({});game:GetService('ChangeHistoryService'):SetWaypoint('Finn visible between counter displays')

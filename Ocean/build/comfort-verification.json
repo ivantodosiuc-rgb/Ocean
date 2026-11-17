@@ -1,0 +1,190 @@
+{
+  "place": "build\\SuckTheSea.rbxlx",
+  "sha256": "3165ac92a719421761199e06766e8fabbd52dfbc410fa42732180b0090a906e2",
+  "sourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Shared\\LootCatalog.luau": true,
+    "src\\Shared\\Needs.luau": true,
+    "src\\Shared\\OceanVolume.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\ChestPresentation.luau": true,
+    "src\\Client\\ComfortUI.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\RestroomEffects.luau": true,
+    "src\\Client\\ShoreContours.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Client\\WorldPolish.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\OceanLedger.luau": true,
+    "src\\Server\\OceanProgress.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Server\\Restroom.luau": true,
+    "src\\Server\\Wrecks.luau": true,
+    "src\\Tests\\Comfort.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true,
+    "src\\Tests\\OceanProgress.luau": true
+  },
+  "preserved": {
+    "NPCs": true,
+    "UnderwaterTerrain": true,
+    "Ocean": true,
+    "Lighting": true,
+    "Buildings/DisplayStraw": true,
+    "Buildings/StrawCup": true,
+    "Buildings/StrawShop": true,
+    "Buildings/TreasureShop": true,
+    "Buildings/UpgradeShop": true,
+    "Buildings/StrawShop_Collisions": true,
+    "Buildings/UpgradeShop_Collisions": true,
+    "Buildings/TreasureShop_Collisions": true,
+    "Buildings/TreasureCounterDisplay": true,
+    "StarterIsland/Compass": true,
+    "StarterIsland/CompassRay": true,
+    "StarterIsland/PathStone": true,
+    "StarterIsland/Plaza": true,
+    "StarterIsland/PlazaTrim": true,
+    "StarterIsland/WalkableCollisions": true,
+    "StarterIsland/VillageSpawn": true,
+    "StarterIsland/GoldenShore": true,
+    "StarterIsland/Meadow": true
+  },
+  "counts": {
+    "tools": 11,
+    "loot": 51,
+    "starterSites": 16,
+    "coastalDecorations": 27
+  },
+  "temporaryObjectsSaved": [],
+  "blenderQA": {
+    "allPassed": true,
+    "meshes": 16,
+    "triangles": 41672,
+    "notes": "Intentional procedural atlas UV reuse; hidden board contact faces remain, no QA errors."
+  },
+  "runtime": {
+    "unitTests": {
+      "comfort": 33,
+      "economyProfiles": 88,
+      "oceanLedger": 30
+    },
+    "liveTests": {
+      "ok": true,
+      "count": 28,
+      "checks": [
+        "Buy and equip ColorfulStraw",
+        "Physical model ColorfulStraw",
+        "Buy and equip BambooStraw",
+        "Physical model BambooStraw",
+        "Buy and equip GoldenStraw",
+        "Physical model GoldenStraw",
+        "Buy and equip CrystalStraw",
+        "Physical model CrystalStraw",
+        "Buy and equip OceanVacuum",
+        "Physical model OceanVacuum",
+        "Buy and equip CoralTwister",
+        "Physical model CoralTwister",
+        "Buy and equip TidalCoil",
+        "Physical model TidalCoil",
+        "Buy and equip StarSiphon",
+        "Physical model StarSiphon",
+        "Buy and equip Leviathan",
+        "Physical model Leviathan",
+        "Premium preview remote cannot grant ownership",
+        "Shop requires actual proximity",
+        "Full need blocks real suction",
+        "Remote restroom use from ocean rejected",
+        "Toilet begins with movement locked",
+        "Tool switch cannot interrupt restroom state",
+        "Interrupted use retains need and releases occupant",
+        "Restroom can be used after interruption",
+        "Completed use resets need and restores movement",
+        "Equipped tool restored after restroom"
+      ]
+    },
+    "layouts": {
+      "desktop": {
+        "ok": true,
+        "safeArea": "1276, 454.799988",
+        "premiumCard": "752, 296",
+        "viewport": "1276, 512.799988",
+        "issues": [],
+        "touch": false
+      },
+      "tablet": {
+        "ok": true,
+        "safeArea": "819, 1119",
+        "premiumCard": "743, 485",
+        "viewport": "819, 1177",
+        "issues": [],
+        "touch": true
+      },
+      "portrait": {
+        "ok": true,
+        "safeArea": "388, 703",
+        "premiumCard": "312, 485",
+        "viewport": "388, 761",
+        "issues": [],
+        "touch": true
+      },
+      "landscape": {
+        "ok": true,
+        "safeArea": "749, 331",
+        "premiumCard": "673, 173",
+        "viewport": "749, 389",
+        "issues": [],
+        "touch": true
+      }
+    },
+    "deathCleanup": {
+      "gateReleased": true,
+      "needRetained": true,
+      "unoccupied": true
+    },
+    "actualSuction": {
+      "removed": 950.6513914093375,
+      "personalNeed": 950.6513914093375,
+      "starterRate": 250
+    },
+    "audio": {
+      "assetId": 9126175899,
+      "loaded": true,
+      "played": true,
+      "duration": 4.576
+    },
+    "keyboardOne": {
+      "putAway": true,
+      "takeOut": true
+    },
+    "mussel": {
+      "startingCount": 16,
+      "saleCoins": 1,
+      "duplicateRejected": true
+    },
+    "grass": {
+      "removedFromSand": 11,
+      "relocated": 8,
+      "remainingCoastalObjects": 27,
+      "offMeadow": []
+    },
+    "screenshots": {
+      "prism": "build/screenshots/comfort-prism-final.jpg",
+      "booth": "build/screenshots/comfort-booth-final.jpg",
+      "portrait": "build/screenshots/comfort-portrait.jpg",
+      "landscape": "build/screenshots/comfort-landscape.jpg"
+    },
+    "limitations": [
+      "Unpublished experience: actual cloud DataStore rejoin has not been verified.",
+      "79 Robux offer is a preview; no purchase or entitlement enabled.",
+      "Device Simulator checks do not replace physical mobile performance measurements.",
+      "Studio animation recording has no audio track."
+    ]
+  },
+  "passed": true
+}

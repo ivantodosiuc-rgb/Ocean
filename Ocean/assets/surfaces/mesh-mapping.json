@@ -1,0 +1,1378 @@
+{
+  "rbxassetid://98774298110296": {
+    "family": "island",
+    "source": "StarterIsland__Compass",
+    "mesh": "rbxassetid://98774298110296",
+    "sample": "Workspace.StarterIsland.Compass",
+    "error": 1.5894444631127046e-05,
+    "export": "island__StarterIsland__Compass"
+  },
+  "rbxassetid://132669303111352": {
+    "family": "island",
+    "source": "StarterIsland__CompassRay",
+    "mesh": "rbxassetid://132669303111352",
+    "sample": "Workspace.StarterIsland.CompassRay",
+    "error": 2.384216282782215e-05,
+    "export": "island__StarterIsland__CompassRay"
+  },
+  "rbxassetid://103551900369628": {
+    "family": "island",
+    "source": "StarterIsland__PathStone",
+    "mesh": "rbxassetid://103551900369628",
+    "sample": "Workspace.StarterIsland.PathStone",
+    "error": 3.018668330293521e-06,
+    "export": "island__StarterIsland__PathStone"
+  },
+  "rbxassetid://75173929379300": {
+    "family": "island",
+    "source": "StarterIsland__Plaza",
+    "mesh": "rbxassetid://75173929379300",
+    "sample": "Workspace.StarterIsland.Plaza",
+    "error": 8.173875768411125e-06,
+    "export": "island__StarterIsland__Plaza"
+  },
+  "rbxassetid://127292602661811": {
+    "family": "island",
+    "source": "StarterIsland__PlazaTrim",
+    "mesh": "rbxassetid://127292602661811",
+    "sample": "Workspace.StarterIsland.PlazaTrim",
+    "error": 1.5295251888780963e-05,
+    "export": "island__StarterIsland__PlazaTrim"
+  },
+  "rbxassetid://89391696463971": {
+    "family": "depth",
+    "source": "Ground__GoldenShore",
+    "mesh": "rbxassetid://89391696463971",
+    "sample": "Workspace.StarterIsland.GoldenShore",
+    "error": 4.191177188540136e-07,
+    "export": "depth__Ground__GoldenShore"
+  },
+  "rbxassetid://89150966872259": {
+    "family": "depth",
+    "source": "Ground__Meadow",
+    "mesh": "rbxassetid://89150966872259",
+    "sample": "Workspace.StarterIsland.Meadow",
+    "error": 3.702783003915394e-07,
+    "export": "depth__Ground__Meadow"
+  },
+  "rbxassetid://83831032713682": {
+    "family": "island",
+    "source": "Buildings__DisplayStraw",
+    "mesh": "rbxassetid://83831032713682",
+    "sample": "Workspace.Buildings.DisplayStraw",
+    "error": 7.335087751338444e-06,
+    "export": "island__Buildings__DisplayStraw"
+  },
+  "rbxassetid://90843208455776": {
+    "family": "island",
+    "source": "Buildings__StrawCup",
+    "mesh": "rbxassetid://90843208455776",
+    "sample": "Workspace.Buildings.StrawCup",
+    "error": 2.4500517145237695e-09,
+    "export": "island__Buildings__StrawCup"
+  },
+  "rbxassetid://71887379056893": {
+    "family": "island",
+    "source": "Buildings__StrawShop",
+    "mesh": "rbxassetid://71887379056893",
+    "sample": "Workspace.Buildings.StrawShop",
+    "error": 1.728999401533247e-07,
+    "export": "island__Buildings__StrawShop"
+  },
+  "rbxassetid://95605981199974": {
+    "family": "island",
+    "source": "Buildings__TreasureShop",
+    "mesh": "rbxassetid://95605981199974",
+    "sample": "Workspace.Buildings.TreasureShop",
+    "error": 1.4088444065687969e-08,
+    "export": "island__Buildings__TreasureShop"
+  },
+  "rbxassetid://115903789793003": {
+    "family": "island",
+    "source": "Buildings__UpgradeShop",
+    "mesh": "rbxassetid://115903789793003",
+    "sample": "Workspace.Buildings.UpgradeShop",
+    "error": 3.227454896324701e-08,
+    "export": "island__Buildings__UpgradeShop"
+  },
+  "rbxassetid://84535178676426": {
+    "family": "island",
+    "source": "Decorations__TreasureDisplay_0",
+    "mesh": "rbxassetid://84535178676426",
+    "sample": "Workspace.Buildings.TreasureCounterDisplay.TreasureDisplay_0",
+    "error": 9.019528940390487e-08,
+    "export": "island__Decorations__TreasureDisplay_0"
+  },
+  "rbxassetid://130939112145609": {
+    "family": "island",
+    "source": "Decorations__TreasureDisplay_1",
+    "mesh": "rbxassetid://130939112145609",
+    "sample": "Workspace.Buildings.TreasureCounterDisplay.TreasureDisplay_1",
+    "error": 5.841262701311578e-07,
+    "export": "island__Decorations__TreasureDisplay_1"
+  },
+  "rbxassetid://80690456647991": {
+    "family": "island",
+    "source": "Decorations__Shell_0",
+    "mesh": "rbxassetid://80690456647991",
+    "sample": "Workspace.Buildings.TreasureCounterDisplay.Shell_0",
+    "error": 5.743596707382959e-10,
+    "export": "island__Decorations__Shell_0"
+  },
+  "rbxassetid://77968820425086": {
+    "family": "island",
+    "source": "Decorations__Shell_1",
+    "mesh": "rbxassetid://77968820425086",
+    "sample": "Workspace.Buildings.TreasureCounterDisplay.Shell_1",
+    "error": 1.3864094306648805e-09,
+    "export": "island__Decorations__Shell_1"
+  },
+  "rbxassetid://134135060487275": {
+    "family": "comfort",
+    "source": "Restroom__Cabin",
+    "mesh": "rbxassetid://134135060487275",
+    "sample": "Workspace.Buildings.BeachRestroom.Cabin",
+    "error": 2.360216560328417e-07,
+    "export": "comfort__Restroom__Cabin"
+  },
+  "rbxassetid://74233442786799": {
+    "family": "comfort",
+    "source": "Restroom__Door",
+    "mesh": "rbxassetid://74233442786799",
+    "sample": "Workspace.Buildings.BeachRestroom.Door",
+    "error": 1.356825163494859e-06,
+    "export": "comfort__Restroom__Door"
+  },
+  "rbxassetid://90835427074199": {
+    "family": "comfort",
+    "source": "Restroom__Roof",
+    "mesh": "rbxassetid://90835427074199",
+    "sample": "Workspace.Buildings.BeachRestroom.Roof",
+    "error": 1.0308296866592939e-06,
+    "export": "comfort__Restroom__Roof"
+  },
+  "rbxassetid://110822659918703": {
+    "family": "comfort",
+    "source": "Restroom__Toilet",
+    "mesh": "rbxassetid://110822659918703",
+    "sample": "Workspace.Buildings.BeachRestroom.Toilet",
+    "error": 7.211841977931386e-08,
+    "export": "comfort__Restroom__Toilet"
+  },
+  "rbxassetid://134341729668926": {
+    "family": "island",
+    "source": "Decorations__Bush_00",
+    "mesh": "rbxassetid://134341729668926",
+    "sample": "Workspace.Decorations.Bush_00",
+    "error": 1.1974196277944592e-06,
+    "export": "island__Decorations__Bush_00"
+  },
+  "rbxassetid://101882796317781": {
+    "family": "island",
+    "source": "Decorations__Bush_01",
+    "mesh": "rbxassetid://101882796317781",
+    "sample": "Workspace.Decorations.Bush_01",
+    "error": 5.602681652560353e-10,
+    "export": "island__Decorations__Bush_01"
+  },
+  "rbxassetid://96640200830774": {
+    "family": "island",
+    "source": "Decorations__Bush_02",
+    "mesh": "rbxassetid://96640200830774",
+    "sample": "Workspace.Decorations.Bush_02",
+    "error": 1.6095029751476548e-09,
+    "export": "island__Decorations__Bush_02"
+  },
+  "rbxassetid://84616717144675": {
+    "family": "island",
+    "source": "Decorations__Bush_03",
+    "mesh": "rbxassetid://84616717144675",
+    "sample": "Workspace.Decorations.Bush_03",
+    "error": 1.084424492988892e-06,
+    "export": "island__Decorations__Bush_03"
+  },
+  "rbxassetid://90427335275063": {
+    "family": "island",
+    "source": "Decorations__Bush_04",
+    "mesh": "rbxassetid://90427335275063",
+    "sample": "Workspace.Decorations.Bush_04",
+    "error": 1.4362625529065162e-09,
+    "export": "island__Decorations__Bush_04"
+  },
+  "rbxassetid://86773556220369": {
+    "family": "island",
+    "source": "Decorations__Bush_05",
+    "mesh": "rbxassetid://86773556220369",
+    "sample": "Workspace.Decorations.Bush_05",
+    "error": 4.622515704883354e-10,
+    "export": "island__Decorations__Bush_05"
+  },
+  "rbxassetid://133921888768202": {
+    "family": "island",
+    "source": "Decorations__Bush_06",
+    "mesh": "rbxassetid://133921888768202",
+    "sample": "Workspace.Decorations.Bush_06",
+    "error": 1.560053641655833e-09,
+    "export": "island__Decorations__Bush_06"
+  },
+  "rbxassetid://136343073627924": {
+    "family": "island",
+    "source": "Decorations__Bush_07",
+    "mesh": "rbxassetid://136343073627924",
+    "sample": "Workspace.Decorations.Bush_07",
+    "error": 5.325922816419869e-07,
+    "export": "island__Decorations__Bush_07"
+  },
+  "rbxassetid://81906732029177": {
+    "family": "island",
+    "source": "Decorations__Bush_08",
+    "mesh": "rbxassetid://81906732029177",
+    "sample": "Workspace.Decorations.Bush_08",
+    "error": 7.885220560645675e-07,
+    "export": "island__Decorations__Bush_08"
+  },
+  "rbxassetid://83944040011168": {
+    "family": "island",
+    "source": "Decorations__Bush_09",
+    "mesh": "rbxassetid://83944040011168",
+    "sample": "Workspace.Decorations.Bush_09",
+    "error": 8.209794807021276e-07,
+    "export": "island__Decorations__Bush_09"
+  },
+  "rbxassetid://94654172744697": {
+    "family": "island",
+    "source": "Decorations__Bush_10",
+    "mesh": "rbxassetid://94654172744697",
+    "sample": "Workspace.Decorations.Bush_10",
+    "error": 5.465278673261361e-07,
+    "export": "island__Decorations__Bush_10"
+  },
+  "rbxassetid://138958082266354": {
+    "family": "island",
+    "source": "Decorations__Bush_11",
+    "mesh": "rbxassetid://138958082266354",
+    "sample": "Workspace.Decorations.Bush_11",
+    "error": 5.275411221477287e-10,
+    "export": "island__Decorations__Bush_11"
+  },
+  "rbxassetid://110334224461035": {
+    "family": "polish",
+    "source": "Coast__BroadleafGrass",
+    "mesh": "rbxassetid://110334224461035",
+    "sample": "Workspace.Decorations.CoastalPlanting.GardenFoliage_1.Visual",
+    "error": 1.3650487523664268e-07,
+    "export": "polish__Coast__BroadleafGrass"
+  },
+  "rbxassetid://82161833459123": {
+    "family": "polish",
+    "source": "Coast__BroadleafGrass",
+    "mesh": "rbxassetid://82161833459123",
+    "sample": "Workspace.Decorations.CoastalPlanting.GardenGrass_1.Visual",
+    "error": 1.4594125388733836e-07,
+    "export": "polish__Coast__BroadleafGrass"
+  },
+  "rbxassetid://74259864567830": {
+    "family": "polish",
+    "source": "Coast__CoastalShrub",
+    "mesh": "rbxassetid://74259864567830",
+    "sample": "Workspace.Decorations.CoastalPlanting.GardenFoliage_3.Visual",
+    "error": 5.8575427556994963e-08,
+    "export": "polish__Coast__CoastalShrub"
+  },
+  "rbxassetid://137403585527514": {
+    "family": "polish",
+    "source": "Coast__Driftwood",
+    "mesh": "rbxassetid://137403585527514",
+    "sample": "Workspace.Decorations.CoastalPlanting.BeachDetail_16.Visual",
+    "error": 1.9402787392042153e-07,
+    "export": "polish__Coast__Driftwood"
+  },
+  "rbxassetid://124900890665223": {
+    "family": "island",
+    "source": "Decorations__VillageBarrel_03",
+    "mesh": "rbxassetid://124900890665223",
+    "sample": "Workspace.Decorations.VillageBarrel_03",
+    "error": 3.1079683275464344e-09,
+    "export": "island__Decorations__VillageBarrel_03"
+  },
+  "rbxassetid://76398133479329": {
+    "family": "island",
+    "source": "Decorations__VillageBarrel_04",
+    "mesh": "rbxassetid://76398133479329",
+    "sample": "Workspace.Decorations.VillageBarrel_04",
+    "error": 1.2758286662716569e-09,
+    "export": "island__Decorations__VillageBarrel_04"
+  },
+  "rbxassetid://117082705815755": {
+    "family": "depth",
+    "source": "Decor__ReefBoulder",
+    "mesh": "rbxassetid://117082705815755",
+    "sample": "Workspace.Decorations.ShoreRock_07.Visual",
+    "error": 4.8261300622520764e-08,
+    "export": "depth__Decor__ReefBoulder"
+  },
+  "rbxassetid://107761044222845": {
+    "family": "island",
+    "source": "Decorations__Shell_4",
+    "mesh": "rbxassetid://107761044222845",
+    "sample": "Workspace.Decorations.Shell_4",
+    "error": 3.202822266626372e-07,
+    "export": "island__Decorations__Shell_4"
+  },
+  "rbxassetid://103123283994010": {
+    "family": "island",
+    "source": "Decorations__VillageBarrel_00",
+    "mesh": "rbxassetid://103123283994010",
+    "sample": "Workspace.Decorations.VillageBarrel_00",
+    "error": 2.424333623884878e-09,
+    "export": "island__Decorations__VillageBarrel_00"
+  },
+  "rbxassetid://129008631410358": {
+    "family": "island",
+    "source": "Decorations__Palm_00",
+    "mesh": "rbxassetid://129008631410358",
+    "sample": "Workspace.Decorations.Palm_00",
+    "error": 4.169157138648581e-07,
+    "export": "island__Decorations__Palm_00"
+  },
+  "rbxassetid://127390195035307": {
+    "family": "island",
+    "source": "Decorations__Palm_01",
+    "mesh": "rbxassetid://127390195035307",
+    "sample": "Workspace.Decorations.Palm_01",
+    "error": 6.005165987857932e-08,
+    "export": "island__Decorations__Palm_01"
+  },
+  "rbxassetid://111727021206817": {
+    "family": "island",
+    "source": "Decorations__Palm_02",
+    "mesh": "rbxassetid://111727021206817",
+    "sample": "Workspace.Decorations.Palm_02",
+    "error": 1.6666673882091643e-07,
+    "export": "island__Decorations__Palm_02"
+  },
+  "rbxassetid://83169707641203": {
+    "family": "island",
+    "source": "Decorations__Palm_03",
+    "mesh": "rbxassetid://83169707641203",
+    "sample": "Workspace.Decorations.Palm_03",
+    "error": 2.589068274727414e-07,
+    "export": "island__Decorations__Palm_03"
+  },
+  "rbxassetid://98626658414657": {
+    "family": "island",
+    "source": "Decorations__Palm_04",
+    "mesh": "rbxassetid://98626658414657",
+    "sample": "Workspace.Decorations.Palm_04",
+    "error": 1.650933980297642e-07,
+    "export": "island__Decorations__Palm_04"
+  },
+  "rbxassetid://127960811613310": {
+    "family": "island",
+    "source": "Decorations__Palm_05",
+    "mesh": "rbxassetid://127960811613310",
+    "sample": "Workspace.Decorations.Palm_05",
+    "error": 8.460319398105866e-08,
+    "export": "island__Decorations__Palm_05"
+  },
+  "rbxassetid://83542393659700": {
+    "family": "island",
+    "source": "Decorations__Palm_06",
+    "mesh": "rbxassetid://83542393659700",
+    "sample": "Workspace.Decorations.Palm_06",
+    "error": 1.6288541271863798e-07,
+    "export": "island__Decorations__Palm_06"
+  },
+  "rbxassetid://134717754793750": {
+    "family": "island",
+    "source": "Decorations__Palm_07",
+    "mesh": "rbxassetid://134717754793750",
+    "sample": "Workspace.Decorations.Palm_07",
+    "error": 2.4827501686810513e-08,
+    "export": "island__Decorations__Palm_07"
+  },
+  "rbxassetid://117858976043911": {
+    "family": "island",
+    "source": "Decorations__Palm_08",
+    "mesh": "rbxassetid://117858976043911",
+    "sample": "Workspace.Decorations.Palm_08",
+    "error": 9.072800695423695e-09,
+    "export": "island__Decorations__Palm_08"
+  },
+  "rbxassetid://80240360598400": {
+    "family": "island",
+    "source": "Decorations__Palm_09",
+    "mesh": "rbxassetid://80240360598400",
+    "sample": "Workspace.Decorations.Palm_09",
+    "error": 2.6710316992013735e-07,
+    "export": "island__Decorations__Palm_09"
+  },
+  "rbxassetid://102310091072578": {
+    "family": "island",
+    "source": "Decorations__Palm_10",
+    "mesh": "rbxassetid://102310091072578",
+    "sample": "Workspace.Decorations.Palm_10",
+    "error": 4.813334453462573e-08,
+    "export": "island__Decorations__Palm_10"
+  },
+  "rbxassetid://106000583118784": {
+    "family": "island",
+    "source": "Decorations__Palm_11",
+    "mesh": "rbxassetid://106000583118784",
+    "sample": "Workspace.Decorations.Palm_11",
+    "error": 7.016113809298806e-08,
+    "export": "island__Decorations__Palm_11"
+  },
+  "rbxassetid://88040312561741": {
+    "family": "island",
+    "source": "Decorations__Palm_12",
+    "mesh": "rbxassetid://88040312561741",
+    "sample": "Workspace.Decorations.Palm_12",
+    "error": 7.654004021171055e-08,
+    "export": "island__Decorations__Palm_12"
+  },
+  "rbxassetid://120196503893130": {
+    "family": "island",
+    "source": "Decorations__Palm_13",
+    "mesh": "rbxassetid://120196503893130",
+    "sample": "Workspace.Decorations.Palm_13",
+    "error": 1.0296323988620638e-07,
+    "export": "island__Decorations__Palm_13"
+  },
+  "rbxassetid://117346240089767": {
+    "family": "island",
+    "source": "Decorations__VillageBarrel_02",
+    "mesh": "rbxassetid://117346240089767",
+    "sample": "Workspace.Decorations.VillageBarrel_02",
+    "error": 1.590541527403848e-07,
+    "export": "island__Decorations__VillageBarrel_02"
+  },
+  "rbxassetid://94734811083404": {
+    "family": "island",
+    "source": "Decorations__VillageBarrel_01",
+    "mesh": "rbxassetid://94734811083404",
+    "sample": "Workspace.Decorations.VillageBarrel_01",
+    "error": 1.2758286662716569e-09,
+    "export": "island__Decorations__VillageBarrel_01"
+  },
+  "rbxassetid://95364294204120": {
+    "family": "island",
+    "source": "Decorations__Shell_2",
+    "mesh": "rbxassetid://95364294204120",
+    "sample": "Workspace.Decorations.Shell_2",
+    "error": 3.179870447284637e-07,
+    "export": "island__Decorations__Shell_2"
+  },
+  "rbxassetid://72807527385816": {
+    "family": "island",
+    "source": "Decorations__Shell_3",
+    "mesh": "rbxassetid://72807527385816",
+    "sample": "Workspace.Decorations.Shell_3",
+    "error": 3.1880005771839974e-07,
+    "export": "island__Decorations__Shell_3"
+  },
+  "rbxassetid://118612750013143": {
+    "family": "island",
+    "source": "Ocean__DockBarrel",
+    "mesh": "rbxassetid://118612750013143",
+    "sample": "Workspace.Ocean.DockBarrel",
+    "error": 6.576270632878848e-10,
+    "export": "island__Ocean__DockBarrel"
+  },
+  "rbxassetid://71615238868116": {
+    "family": "island",
+    "source": "Ocean__DockBarrel.001",
+    "mesh": "rbxassetid://71615238868116",
+    "sample": "Workspace.Ocean.DockBarrel.001",
+    "error": 1.5604035942301023e-07,
+    "export": "island__Ocean__DockBarrel.001"
+  },
+  "rbxassetid://113903045836856": {
+    "family": "island",
+    "source": "Ocean__DockBarrel.002",
+    "mesh": "rbxassetid://113903045836856",
+    "sample": "Workspace.Ocean.DockBarrel.002",
+    "error": 2.4089885470104477e-07,
+    "export": "island__Ocean__DockBarrel.002"
+  },
+  "rbxassetid://114386061371251": {
+    "family": "island",
+    "source": "Ocean__RopeCoil",
+    "mesh": "rbxassetid://114386061371251",
+    "sample": "Workspace.Ocean.RopeCoil",
+    "error": 4.518992325901399e-07,
+    "export": "island__Ocean__RopeCoil"
+  },
+  "rbxassetid://73619090872857": {
+    "family": "polish",
+    "source": "Boat__LittleBoat",
+    "mesh": "rbxassetid://73619090872857",
+    "sample": "Workspace.Ocean.LittleBoat",
+    "error": 1.1222887136904465e-07,
+    "export": "polish__Boat__LittleBoat"
+  },
+  "rbxassetid://105258115601349": {
+    "family": "polish",
+    "source": "Dock__PierBoard",
+    "mesh": "rbxassetid://105258115601349",
+    "sample": "Workspace.Ocean.PierBoard",
+    "error": 1.6689860723541074e-05,
+    "export": "polish__Dock__PierBoard"
+  },
+  "rbxassetid://100331327988186": {
+    "family": "polish",
+    "source": "Dock__PierCap",
+    "mesh": "rbxassetid://100331327988186",
+    "sample": "Workspace.Ocean.PierCap",
+    "error": 2.002753827831181e-05,
+    "export": "polish__Dock__PierCap"
+  },
+  "rbxassetid://101001788870596": {
+    "family": "polish",
+    "source": "Dock__PierHead",
+    "mesh": "rbxassetid://101001788870596",
+    "sample": "Workspace.Ocean.PierHead",
+    "error": 5.2459862397489076e-06,
+    "export": "polish__Dock__PierHead"
+  },
+  "rbxassetid://86442682801482": {
+    "family": "polish",
+    "source": "Dock__PierPile",
+    "mesh": "rbxassetid://86442682801482",
+    "sample": "Workspace.Ocean.PierPile",
+    "error": 8.640131119355986e-07,
+    "export": "polish__Dock__PierPile"
+  },
+  "rbxassetid://92652100283858": {
+    "family": "polish",
+    "source": "Dock__PileRope",
+    "mesh": "rbxassetid://92652100283858",
+    "sample": "Workspace.Ocean.PileRope",
+    "error": 4.446953459538925e-05,
+    "export": "polish__Dock__PileRope"
+  },
+  "rbxassetid://103720047077987": {
+    "family": "polish",
+    "source": "Dock__SafetyRope",
+    "mesh": "rbxassetid://103720047077987",
+    "sample": "Workspace.Ocean.SafetyRope",
+    "error": 6.249386243419327e-06,
+    "export": "polish__Dock__SafetyRope"
+  },
+  "rbxassetid://108580452866616": {
+    "family": "polish",
+    "source": "Dock__Understructure",
+    "mesh": "rbxassetid://108580452866616",
+    "sample": "Workspace.Ocean.Understructure",
+    "error": 2.619996567870232e-06,
+    "export": "polish__Dock__Understructure"
+  },
+  "rbxassetid://126233377985936": {
+    "family": "depth",
+    "source": "Seabed__Slope_00",
+    "mesh": "rbxassetid://126233377985936",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_00",
+    "error": 1.6688872984046895e-07,
+    "export": "depth__Seabed__Slope_00"
+  },
+  "rbxassetid://130678044961280": {
+    "family": "depth",
+    "source": "Seabed__Slope_01",
+    "mesh": "rbxassetid://130678044961280",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_01",
+    "error": 4.3754876409922876e-07,
+    "export": "depth__Seabed__Slope_01"
+  },
+  "rbxassetid://139241553276688": {
+    "family": "depth",
+    "source": "Seabed__Slope_02",
+    "mesh": "rbxassetid://139241553276688",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_02",
+    "error": 4.994188595213185e-07,
+    "export": "depth__Seabed__Slope_02"
+  },
+  "rbxassetid://120951427229209": {
+    "family": "depth",
+    "source": "Seabed__Slope_03",
+    "mesh": "rbxassetid://120951427229209",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_03",
+    "error": 4.80396784390866e-07,
+    "export": "depth__Seabed__Slope_03"
+  },
+  "rbxassetid://70591956136287": {
+    "family": "depth",
+    "source": "Seabed__Slope_04",
+    "mesh": "rbxassetid://70591956136287",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_04",
+    "error": 5.154682189381667e-07,
+    "export": "depth__Seabed__Slope_04"
+  },
+  "rbxassetid://96639112136716": {
+    "family": "depth",
+    "source": "Seabed__Slope_05",
+    "mesh": "rbxassetid://96639112136716",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_05",
+    "error": 1.6688872984046895e-07,
+    "export": "depth__Seabed__Slope_05"
+  },
+  "rbxassetid://127349300327044": {
+    "family": "depth",
+    "source": "Seabed__Slope_06",
+    "mesh": "rbxassetid://127349300327044",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_06",
+    "error": 4.5732385383723253e-07,
+    "export": "depth__Seabed__Slope_06"
+  },
+  "rbxassetid://120011862526133": {
+    "family": "depth",
+    "source": "Seabed__Slope_07",
+    "mesh": "rbxassetid://120011862526133",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_07",
+    "error": 3.838905775386441e-07,
+    "export": "depth__Seabed__Slope_07"
+  },
+  "rbxassetid://126215181138392": {
+    "family": "depth",
+    "source": "Seabed__Slope_08",
+    "mesh": "rbxassetid://126215181138392",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_08",
+    "error": 5.645053677305075e-07,
+    "export": "depth__Seabed__Slope_08"
+  },
+  "rbxassetid://128137342541735": {
+    "family": "depth",
+    "source": "Seabed__Slope_09",
+    "mesh": "rbxassetid://128137342541735",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_09",
+    "error": 6.243658811415377e-07,
+    "export": "depth__Seabed__Slope_09"
+  },
+  "rbxassetid://80545668962851": {
+    "family": "depth",
+    "source": "Seabed__Slope_10",
+    "mesh": "rbxassetid://80545668962851",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_10",
+    "error": 1.9930357835500728e-07,
+    "export": "depth__Seabed__Slope_10"
+  },
+  "rbxassetid://114273723326036": {
+    "family": "depth",
+    "source": "Seabed__Slope_11",
+    "mesh": "rbxassetid://114273723326036",
+    "sample": "Workspace.UnderwaterTerrain.Seafloor.Slope_11",
+    "error": 3.759554472860962e-07,
+    "export": "depth__Seabed__Slope_11"
+  },
+  "rbxassetid://130123290913186": {
+    "family": "depth",
+    "source": "Decor__Seagrass",
+    "mesh": "rbxassetid://130123290913186",
+    "sample": "Workspace.UnderwaterTerrain.ReefLife.Seagrass_87.Visual",
+    "error": 1.671584444196128e-07,
+    "export": "depth__Decor__Seagrass"
+  },
+  "rbxassetid://74869273225873": {
+    "family": "polish",
+    "source": "Ship__Bow",
+    "mesh": "rbxassetid://74869273225873",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Bow",
+    "error": 2.8079461728830273e-07,
+    "export": "polish__Ship__Bow"
+  },
+  "rbxassetid://128527048676680": {
+    "family": "polish",
+    "source": "Ship__Bowsprit",
+    "mesh": "rbxassetid://128527048676680",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Bowsprit",
+    "error": 7.058337850005811e-07,
+    "export": "polish__Ship__Bowsprit"
+  },
+  "rbxassetid://133387720407414": {
+    "family": "polish",
+    "source": "Ship__Cargo",
+    "mesh": "rbxassetid://133387720407414",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Cargo",
+    "error": 1.8179888898904271e-06,
+    "export": "polish__Ship__Cargo"
+  },
+  "rbxassetid://77007365145381": {
+    "family": "polish",
+    "source": "Ship__Deck",
+    "mesh": "rbxassetid://77007365145381",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Deck",
+    "error": 9.867353859642263e-07,
+    "export": "polish__Ship__Deck"
+  },
+  "rbxassetid://112571621794129": {
+    "family": "polish",
+    "source": "Ship__HullPort",
+    "mesh": "rbxassetid://112571621794129",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.HullPort",
+    "error": 6.220290700925734e-07,
+    "export": "polish__Ship__HullPort"
+  },
+  "rbxassetid://112016110636024": {
+    "family": "polish",
+    "source": "Ship__HullStarboard",
+    "mesh": "rbxassetid://112016110636024",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.HullStarboard",
+    "error": 6.220290700925734e-07,
+    "export": "polish__Ship__HullStarboard"
+  },
+  "rbxassetid://127365061210859": {
+    "family": "polish",
+    "source": "Ship__MaritimeDetails",
+    "mesh": "rbxassetid://127365061210859",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.MaritimeDetails",
+    "error": 3.114546712577567e-07,
+    "export": "polish__Ship__MaritimeDetails"
+  },
+  "rbxassetid://90865952273366": {
+    "family": "polish",
+    "source": "Ship__Mast",
+    "mesh": "rbxassetid://90865952273366",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Mast",
+    "error": 5.640060867903784e-07,
+    "export": "polish__Ship__Mast"
+  },
+  "rbxassetid://75800268371981": {
+    "family": "polish",
+    "source": "Ship__Railings",
+    "mesh": "rbxassetid://75800268371981",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Railings",
+    "error": 8.813422463923976e-07,
+    "export": "polish__Ship__Railings"
+  },
+  "rbxassetid://101158225032561": {
+    "family": "polish",
+    "source": "Ship__Sail",
+    "mesh": "rbxassetid://101158225032561",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck.Sail",
+    "error": 9.785491373906437e-08,
+    "export": "polish__Ship__Sail"
+  },
+  "rbxassetid://102266697250228": {
+    "family": "depth",
+    "source": "Landmark__TideArch",
+    "mesh": "rbxassetid://102266697250228",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.TidekeeperRuins.Visual",
+    "error": 1.436455400104813e-09,
+    "export": "depth__Landmark__TideArch"
+  },
+  "rbxassetid://138627752377366": {
+    "family": "polish",
+    "source": "Chest__Base",
+    "mesh": "rbxassetid://138627752377366",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.CaptainsCache.Base",
+    "error": 2.494341849389208e-07,
+    "export": "polish__Chest__Base"
+  },
+  "rbxassetid://116741956883300": {
+    "family": "polish",
+    "source": "Chest__Lid",
+    "mesh": "rbxassetid://116741956883300",
+    "sample": "Workspace.UnderwaterTerrain.PointsOfInterest.CaptainsCache.Lid",
+    "error": 5.047477327139443e-07,
+    "export": "polish__Chest__Lid"
+  },
+  "rbxassetid://102765324305771": {
+    "family": "polish",
+    "source": "Reef__SunsetStaghorn",
+    "mesh": "rbxassetid://102765324305771",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_001_SunsetStaghorn.Visual",
+    "error": 1.852693504167391e-08,
+    "export": "polish__Reef__SunsetStaghorn"
+  },
+  "rbxassetid://131312204795391": {
+    "family": "polish",
+    "source": "Reef__VioletSeaFan",
+    "mesh": "rbxassetid://131312204795391",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_002_VioletSeaFan.Visual",
+    "error": 9.731351303943203e-08,
+    "export": "polish__Reef__VioletSeaFan"
+  },
+  "rbxassetid://114019591787429": {
+    "family": "polish",
+    "source": "Reef__TurquoiseTable",
+    "mesh": "rbxassetid://114019591787429",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_003_TurquoiseTable.Visual",
+    "error": 9.079170572301454e-08,
+    "export": "polish__Reef__TurquoiseTable"
+  },
+  "rbxassetid://114595991940529": {
+    "family": "polish",
+    "source": "Reef__GoldenBrain",
+    "mesh": "rbxassetid://114595991940529",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_004_GoldenBrain.Visual",
+    "error": 3.9042465760363854e-08,
+    "export": "polish__Reef__GoldenBrain"
+  },
+  "rbxassetid://99430921910262": {
+    "family": "polish",
+    "source": "Reef__PeachCups",
+    "mesh": "rbxassetid://99430921910262",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_005_PeachCups.Visual",
+    "error": 6.93242398347449e-08,
+    "export": "polish__Reef__PeachCups"
+  },
+  "rbxassetid://107603621500039": {
+    "family": "polish",
+    "source": "Reef__LavenderFingers",
+    "mesh": "rbxassetid://107603621500039",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_006_LavenderFingers.Visual",
+    "error": 8.354033659285776e-08,
+    "export": "polish__Reef__LavenderFingers"
+  },
+  "rbxassetid://80782466919711": {
+    "family": "polish",
+    "source": "Reef__CrimsonLettuce",
+    "mesh": "rbxassetid://80782466919711",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_007_CrimsonLettuce.Visual",
+    "error": 5.1376941256897624e-08,
+    "export": "polish__Reef__CrimsonLettuce"
+  },
+  "rbxassetid://86300232729479": {
+    "family": "polish",
+    "source": "Reef__CobaltTubes",
+    "mesh": "rbxassetid://86300232729479",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_008_CobaltTubes.Visual",
+    "error": 2.3924583025802804e-07,
+    "export": "polish__Reef__CobaltTubes"
+  },
+  "rbxassetid://139091983472316": {
+    "family": "polish",
+    "source": "Reef__SunbeamAntlers",
+    "mesh": "rbxassetid://139091983472316",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_009_SunbeamAntlers.Visual",
+    "error": 6.911546290844228e-08,
+    "export": "polish__Reef__SunbeamAntlers"
+  },
+  "rbxassetid://137155981623045": {
+    "family": "polish",
+    "source": "Reef__MintPagoda",
+    "mesh": "rbxassetid://137155981623045",
+    "sample": "Workspace.UnderwaterTerrain.PolishedReefs.Reef_010_MintPagoda.Visual",
+    "error": 7.719484068635651e-08,
+    "export": "polish__Reef__MintPagoda"
+  },
+  "rbxassetid://86414938393966": {
+    "family": "comfort",
+    "source": "Tool__BambooStraw",
+    "mesh": "rbxassetid://86414938393966",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.BambooStraw.Visual",
+    "error": 7.204720198471592e-07,
+    "export": "comfort__Tool__BambooStraw"
+  },
+  "rbxassetid://75811806781969": {
+    "family": "comfort",
+    "source": "Tool__BasicStraw",
+    "mesh": "rbxassetid://75811806781969",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.BasicStraw.Visual",
+    "error": 7.438199618489736e-08,
+    "export": "comfort__Tool__BasicStraw"
+  },
+  "rbxassetid://136342801458371": {
+    "family": "comfort",
+    "source": "Tool__ColorfulStraw",
+    "mesh": "rbxassetid://136342801458371",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.ColorfulStraw.Visual",
+    "error": 1.8944469129897285e-06,
+    "export": "comfort__Tool__ColorfulStraw"
+  },
+  "rbxassetid://94354638053226": {
+    "family": "comfort",
+    "source": "Tool__CoralTwister",
+    "mesh": "rbxassetid://94354638053226",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.CoralTwister.Visual",
+    "error": 1.9394970550458041e-07,
+    "export": "comfort__Tool__CoralTwister"
+  },
+  "rbxassetid://112240534479994": {
+    "family": "comfort",
+    "source": "Tool__CrystalStraw",
+    "mesh": "rbxassetid://112240534479994",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.CrystalStraw.Visual",
+    "error": 2.7927486733510186e-07,
+    "export": "comfort__Tool__CrystalStraw"
+  },
+  "rbxassetid://74385910771595": {
+    "family": "comfort",
+    "source": "Tool__GoldenStraw",
+    "mesh": "rbxassetid://74385910771595",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.GoldenStraw.Visual",
+    "error": 1.7042931279440225e-07,
+    "export": "comfort__Tool__GoldenStraw"
+  },
+  "rbxassetid://94031309233676": {
+    "family": "comfort",
+    "source": "Tool__Leviathan",
+    "mesh": "rbxassetid://94031309233676",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.Leviathan.Visual",
+    "error": 3.5109890557047956e-09,
+    "export": "comfort__Tool__Leviathan"
+  },
+  "rbxassetid://134342133607446": {
+    "family": "comfort",
+    "source": "Tool__OceanVacuum",
+    "mesh": "rbxassetid://134342133607446",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.OceanVacuum.Visual",
+    "error": 1.655637848113143e-09,
+    "export": "comfort__Tool__OceanVacuum"
+  },
+  "rbxassetid://134470751422888": {
+    "family": "comfort",
+    "source": "Tool__PrismStraw",
+    "mesh": "rbxassetid://134470751422888",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.PrismStraw.Visual",
+    "error": 1.4080024554381824e-07,
+    "export": "comfort__Tool__PrismStraw"
+  },
+  "rbxassetid://122470191791161": {
+    "family": "comfort",
+    "source": "Tool__StarSiphon",
+    "mesh": "rbxassetid://122470191791161",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.StarSiphon.Visual",
+    "error": 1.868040509617556e-07,
+    "export": "comfort__Tool__StarSiphon"
+  },
+  "rbxassetid://72429931291728": {
+    "family": "comfort",
+    "source": "Tool__TidalCoil",
+    "mesh": "rbxassetid://72429931291728",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Tools.TidalCoil.Visual",
+    "error": 1.232070075260048e-07,
+    "export": "comfort__Tool__TidalCoil"
+  },
+  "rbxassetid://94574719600672": {
+    "family": "depth",
+    "source": "Loot__ObsidianFang",
+    "mesh": "rbxassetid://94574719600672",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.ObsidianFang.Visual",
+    "error": 3.487970816159331e-08,
+    "export": "depth__Loot__ObsidianFang"
+  },
+  "rbxassetid://135557730789034": {
+    "family": "depth",
+    "source": "Loot__OldBottle",
+    "mesh": "rbxassetid://135557730789034",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.OldBottle.Visual",
+    "error": 8.268874172622082e-08,
+    "export": "depth__Loot__OldBottle"
+  },
+  "rbxassetid://97594314729790": {
+    "family": "depth",
+    "source": "Loot__Spyglass",
+    "mesh": "rbxassetid://97594314729790",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.Spyglass.Visual",
+    "error": 7.59672977648931e-09,
+    "export": "depth__Loot__Spyglass"
+  },
+  "rbxassetid://83089745242427": {
+    "family": "depth",
+    "source": "Loot__SunriseScallop",
+    "mesh": "rbxassetid://83089745242427",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SunriseScallop.Visual",
+    "error": 3.0300670548641653e-07,
+    "export": "depth__Loot__SunriseScallop"
+  },
+  "rbxassetid://122873118543253": {
+    "family": "depth",
+    "source": "Loot__AmberStone",
+    "mesh": "rbxassetid://122873118543253",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AmberStone.Visual",
+    "error": 3.2937629767519845e-08,
+    "export": "depth__Loot__AmberStone"
+  },
+  "rbxassetid://94094825238712": {
+    "family": "depth",
+    "source": "Loot__AmethystCluster",
+    "mesh": "rbxassetid://94094825238712",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AmethystCluster.Visual",
+    "error": 4.1974745872850555e-09,
+    "export": "depth__Loot__AmethystCluster"
+  },
+  "rbxassetid://100366591306219": {
+    "family": "depth",
+    "source": "Loot__AnchorCharm",
+    "mesh": "rbxassetid://100366591306219",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AnchorCharm.Visual",
+    "error": 1.1066156875944945e-09,
+    "export": "depth__Loot__AnchorCharm"
+  },
+  "rbxassetid://92156479907232": {
+    "family": "depth",
+    "source": "Loot__AncientRelic",
+    "mesh": "rbxassetid://92156479907232",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AncientRelic.Visual",
+    "error": 7.45143218939759e-08,
+    "export": "depth__Loot__AncientRelic"
+  },
+  "rbxassetid://78590065227212": {
+    "family": "depth",
+    "source": "Loot__AncientTrident",
+    "mesh": "rbxassetid://78590065227212",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AncientTrident.Visual",
+    "error": 6.878229792153097e-08,
+    "export": "depth__Loot__AncientTrident"
+  },
+  "rbxassetid://102303026125681": {
+    "family": "depth",
+    "source": "Loot__AquamarineCluster",
+    "mesh": "rbxassetid://102303026125681",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AquamarineCluster.Visual",
+    "error": 4.1974745872850555e-09,
+    "export": "depth__Loot__AquamarineCluster"
+  },
+  "rbxassetid://81386887081526": {
+    "family": "depth",
+    "source": "Loot__AtlanteanTablet",
+    "mesh": "rbxassetid://81386887081526",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.AtlanteanTablet.Visual",
+    "error": 5.977875610504327e-08,
+    "export": "depth__Loot__AtlanteanTablet"
+  },
+  "rbxassetid://123761273139910": {
+    "family": "depth",
+    "source": "Loot__BlackPearl",
+    "mesh": "rbxassetid://123761273139910",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.BlackPearl.Visual",
+    "error": 7.731008720880518e-08,
+    "export": "depth__Loot__BlackPearl"
+  },
+  "rbxassetid://107262876417312": {
+    "family": "depth",
+    "source": "Loot__BlueStar",
+    "mesh": "rbxassetid://107262876417312",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.BlueStar.Visual",
+    "error": 2.650919283082551e-07,
+    "export": "depth__Loot__BlueStar"
+  },
+  "rbxassetid://78491117390881": {
+    "family": "depth",
+    "source": "Loot__BrittleStar",
+    "mesh": "rbxassetid://78491117390881",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.BrittleStar.Visual",
+    "error": 3.483223092172811e-07,
+    "export": "depth__Loot__BrittleStar"
+  },
+  "rbxassetid://98247897200914": {
+    "family": "depth",
+    "source": "Loot__BronzeKey",
+    "mesh": "rbxassetid://98247897200914",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.BronzeKey.Visual",
+    "error": 1.3158825259506257e-06,
+    "export": "depth__Loot__BronzeKey"
+  },
+  "rbxassetid://88765046433852": {
+    "family": "depth",
+    "source": "Loot__CaptainsRing",
+    "mesh": "rbxassetid://88765046433852",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CaptainsRing.Visual",
+    "error": 2.470466503184483e-09,
+    "export": "depth__Loot__CaptainsRing"
+  },
+  "rbxassetid://113788065940789": {
+    "family": "depth",
+    "source": "Loot__CeramicJug",
+    "mesh": "rbxassetid://113788065940789",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CeramicJug.Visual",
+    "error": 1.6964608594074281e-09,
+    "export": "depth__Loot__CeramicJug"
+  },
+  "rbxassetid://138097638791081": {
+    "family": "depth",
+    "source": "Loot__CommonShell",
+    "mesh": "rbxassetid://138097638791081",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CommonShell.Visual",
+    "error": 3.412069023991384e-07,
+    "export": "depth__Loot__CommonShell"
+  },
+  "rbxassetid://74160873899964": {
+    "family": "depth",
+    "source": "Loot__Compass",
+    "mesh": "rbxassetid://74160873899964",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.Compass.Visual",
+    "error": 4.3353132378560546e-07,
+    "export": "depth__Loot__Compass"
+  },
+  "rbxassetid://138534831022992": {
+    "family": "depth",
+    "source": "Loot__ConeShell",
+    "mesh": "rbxassetid://138534831022992",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.ConeShell.Visual",
+    "error": 3.3254155019703518e-09,
+    "export": "depth__Loot__ConeShell"
+  },
+  "rbxassetid://79370217824572": {
+    "family": "depth",
+    "source": "Loot__CopperCoin",
+    "mesh": "rbxassetid://79370217824572",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CopperCoin.Visual",
+    "error": 6.122740155045763e-07,
+    "export": "depth__Loot__CopperCoin"
+  },
+  "rbxassetid://107577973943705": {
+    "family": "depth",
+    "source": "Loot__CopperLantern",
+    "mesh": "rbxassetid://107577973943705",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CopperLantern.Visual",
+    "error": 4.117505779635767e-09,
+    "export": "depth__Loot__CopperLantern"
+  },
+  "rbxassetid://90499559417290": {
+    "family": "depth",
+    "source": "Loot__CoralFragment",
+    "mesh": "rbxassetid://90499559417290",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CoralFragment.Visual",
+    "error": 5.955535912787498e-08,
+    "export": "depth__Loot__CoralFragment"
+  },
+  "rbxassetid://136235231552124": {
+    "family": "depth",
+    "source": "Loot__CoralRing",
+    "mesh": "rbxassetid://136235231552124",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CoralRing.Visual",
+    "error": 3.0050181243486253e-09,
+    "export": "depth__Loot__CoralRing"
+  },
+  "rbxassetid://113996110294981": {
+    "family": "depth",
+    "source": "Loot__CowrieShell",
+    "mesh": "rbxassetid://113996110294981",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CowrieShell.Visual",
+    "error": 3.794897398648192e-09,
+    "export": "depth__Loot__CowrieShell"
+  },
+  "rbxassetid://120856254555098": {
+    "family": "depth",
+    "source": "Loot__CrystalHeart",
+    "mesh": "rbxassetid://120856254555098",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.CrystalHeart.Visual",
+    "error": 3.8130578064002636e-07,
+    "export": "depth__Loot__CrystalHeart"
+  },
+  "rbxassetid://136318453311734": {
+    "family": "depth",
+    "source": "Loot__GoldDoubloon",
+    "mesh": "rbxassetid://136318453311734",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.GoldDoubloon.Visual",
+    "error": 5.865707448862423e-07,
+    "export": "depth__Loot__GoldDoubloon"
+  },
+  "rbxassetid://74249153942582": {
+    "family": "depth",
+    "source": "Loot__GoldenChalice",
+    "mesh": "rbxassetid://74249153942582",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.GoldenChalice.Visual",
+    "error": 1.6627981395000268e-07,
+    "export": "depth__Loot__GoldenChalice"
+  },
+  "rbxassetid://136411557411470": {
+    "family": "depth",
+    "source": "Loot__GoldenIdol",
+    "mesh": "rbxassetid://136411557411470",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.GoldenIdol.Visual",
+    "error": 7.509768064026742e-08,
+    "export": "depth__Loot__GoldenIdol"
+  },
+  "rbxassetid://93691965763881": {
+    "family": "depth",
+    "source": "Loot__JadeBead",
+    "mesh": "rbxassetid://93691965763881",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.JadeBead.Visual",
+    "error": 2.1852616291750806e-07,
+    "export": "depth__Loot__JadeBead"
+  },
+  "rbxassetid://77740905885038": {
+    "family": "depth",
+    "source": "Loot__MessageBottle",
+    "mesh": "rbxassetid://77740905885038",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.MessageBottle.Visual",
+    "error": 1.5739813670059046e-07,
+    "export": "depth__Loot__MessageBottle"
+  },
+  "rbxassetid://78285649330068": {
+    "family": "depth",
+    "source": "Loot__NautilusShell",
+    "mesh": "rbxassetid://78285649330068",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.NautilusShell.Visual",
+    "error": 6.740031284894793e-08,
+    "export": "depth__Loot__NautilusShell"
+  },
+  "rbxassetid://124587363915628": {
+    "family": "depth",
+    "source": "Loot__PearlShell",
+    "mesh": "rbxassetid://124587363915628",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.PearlShell.Visual",
+    "error": 1.2135981743684117e-07,
+    "export": "depth__Loot__PearlShell"
+  },
+  "rbxassetid://77006401007291": {
+    "family": "depth",
+    "source": "Loot__PinkPearl",
+    "mesh": "rbxassetid://77006401007291",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.PinkPearl.Visual",
+    "error": 7.731008720880518e-08,
+    "export": "depth__Loot__PinkPearl"
+  },
+  "rbxassetid://105005259174442": {
+    "family": "depth",
+    "source": "Loot__PocketWatch",
+    "mesh": "rbxassetid://105005259174442",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.PocketWatch.Visual",
+    "error": 1.9106751631155822e-07,
+    "export": "depth__Loot__PocketWatch"
+  },
+  "rbxassetid://79610401102668": {
+    "family": "depth",
+    "source": "Loot__PorcelainPlate",
+    "mesh": "rbxassetid://79610401102668",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.PorcelainPlate.Visual",
+    "error": 1.5402230585319265e-09,
+    "export": "depth__Loot__PorcelainPlate"
+  },
+  "rbxassetid://139264411856068": {
+    "family": "depth",
+    "source": "Loot__RoyalCrown",
+    "mesh": "rbxassetid://139264411856068",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.RoyalCrown.Visual",
+    "error": 2.7958409261543655e-07,
+    "export": "depth__Loot__RoyalCrown"
+  },
+  "rbxassetid://94326989791417": {
+    "family": "depth",
+    "source": "Loot__RubyBrooch",
+    "mesh": "rbxassetid://94326989791417",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.RubyBrooch.Visual",
+    "error": 1.3888890020896926e-09,
+    "export": "depth__Loot__RubyBrooch"
+  },
+  "rbxassetid://107008118685018": {
+    "family": "depth",
+    "source": "Loot__RubyCluster",
+    "mesh": "rbxassetid://107008118685018",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.RubyCluster.Visual",
+    "error": 4.1974745872850555e-09,
+    "export": "depth__Loot__RubyCluster"
+  },
+  "rbxassetid://85906239471457": {
+    "family": "depth",
+    "source": "Loot__SandDollar",
+    "mesh": "rbxassetid://85906239471457",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SandDollar.Visual",
+    "error": 1.3979139643882044e-07,
+    "export": "depth__Loot__SandDollar"
+  },
+  "rbxassetid://122827140144611": {
+    "family": "depth",
+    "source": "Loot__SapphireCluster",
+    "mesh": "rbxassetid://122827140144611",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SapphireCluster.Visual",
+    "error": 1.0019690547047334e-07,
+    "export": "depth__Loot__SapphireCluster"
+  },
+  "rbxassetid://81402590029397": {
+    "family": "depth",
+    "source": "Loot__SapphirePendant",
+    "mesh": "rbxassetid://81402590029397",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SapphirePendant.Visual",
+    "error": 4.750711932582161e-09,
+    "export": "depth__Loot__SapphirePendant"
+  },
+  "rbxassetid://102659586065180": {
+    "family": "depth",
+    "source": "Loot__SeaGlass",
+    "mesh": "rbxassetid://102659586065180",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SeaGlass.Visual",
+    "error": 4.801496373985854e-08,
+    "export": "depth__Loot__SeaGlass"
+  },
+  "rbxassetid://107197628439895": {
+    "family": "depth",
+    "source": "Loot__SeaUrchin",
+    "mesh": "rbxassetid://107197628439895",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SeaUrchin.Visual",
+    "error": 1.4994156645123806e-07,
+    "export": "depth__Loot__SeaUrchin"
+  },
+  "rbxassetid://108048071924829": {
+    "family": "depth",
+    "source": "Loot__ShipBell",
+    "mesh": "rbxassetid://108048071924829",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.ShipBell.Visual",
+    "error": 8.759123684069689e-08,
+    "export": "depth__Loot__ShipBell"
+  },
+  "rbxassetid://79474831459065": {
+    "family": "depth",
+    "source": "Loot__SilverCoin",
+    "mesh": "rbxassetid://79474831459065",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SilverCoin.Visual",
+    "error": 3.0009570650400253e-07,
+    "export": "depth__Loot__SilverCoin"
+  },
+  "rbxassetid://119422515931042": {
+    "family": "depth",
+    "source": "Loot__SpiralShell",
+    "mesh": "rbxassetid://119422515931042",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.SpiralShell.Visual",
+    "error": 3.168090405887182e-08,
+    "export": "depth__Loot__SpiralShell"
+  },
+  "rbxassetid://72771959793621": {
+    "family": "depth",
+    "source": "Loot__Starfish",
+    "mesh": "rbxassetid://72771959793621",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.Starfish.Visual",
+    "error": 4.1895064504601516e-07,
+    "export": "depth__Loot__Starfish"
+  },
+  "rbxassetid://109488960355713": {
+    "family": "depth",
+    "source": "Loot__TreasureChest",
+    "mesh": "rbxassetid://109488960355713",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.TreasureChest.Visual",
+    "error": 8.485585019469747e-08,
+    "export": "depth__Loot__TreasureChest"
+  },
+  "rbxassetid://107159417968398": {
+    "family": "depth",
+    "source": "Loot__TurbanShell",
+    "mesh": "rbxassetid://107159417968398",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.TurbanShell.Visual",
+    "error": 3.375724033791848e-09,
+    "export": "depth__Loot__TurbanShell"
+  },
+  "rbxassetid://139675683023591": {
+    "family": "comfort",
+    "source": "Loot__StarterMussel",
+    "mesh": "rbxassetid://139675683023591",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Loot.StarterMussel.Visual",
+    "error": 8.051523420788812e-08,
+    "export": "comfort__Loot__StarterMussel"
+  },
+  "rbxassetid://114320158243213": {
+    "family": "depth",
+    "source": "Decor__CoralPurple",
+    "mesh": "rbxassetid://114320158243213",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Environment.Decor.CoralPurple.Visual",
+    "error": 5.78612894660736e-08,
+    "export": "depth__Decor__CoralPurple"
+  },
+  "rbxassetid://136966237489736": {
+    "family": "depth",
+    "source": "Decor__CoralRed",
+    "mesh": "rbxassetid://136966237489736",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Environment.Decor.CoralRed.Visual",
+    "error": 6.338939323522592e-08,
+    "export": "depth__Decor__CoralRed"
+  },
+  "rbxassetid://76581884708023": {
+    "family": "depth",
+    "source": "Decor__HibiscusPatch",
+    "mesh": "rbxassetid://76581884708023",
+    "sample": "ReplicatedStorage.SeaGame.Assets.Environment.Decor.HibiscusPatch.Visual",
+    "error": 5.1242594172323805e-08,
+    "export": "depth__Decor__HibiscusPatch"
+  }
+}

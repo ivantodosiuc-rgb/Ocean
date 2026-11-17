@@ -1,0 +1,1 @@
+assert(game:GetService('RunService'):IsClient());local c=game.Players.LocalPlayer.Character;c:PivotTo(CFrame.lookAt(Vector3.new(-38.4,11,-7.8),Vector3.new(-40,11,-19)));workspace.CurrentCamera.CFrame=CFrame.lookAt(Vector3.new(-20,19,9),Vector3.new(-40,9,-17));print('STEP3_FINN_READY')

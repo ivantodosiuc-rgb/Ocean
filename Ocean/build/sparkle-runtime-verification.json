@@ -1,0 +1,127 @@
+{
+  "edit": {
+    "placeId": 0,
+    "gameId": 0,
+    "temporaryObjects": [],
+    "device": "default",
+    "assetsInstalled": true,
+    "rocks": 41
+  },
+  "unitAssertions": 182,
+  "liveObservedBeforeEditorRecovery": {
+    "evidence": "Studio Play assertions and capture in build/sparkle-animation-frames; numeric results retained from tool output before Cursor reconnect",
+    "visibleGroundSites": 5899,
+    "texturedResourcePrefabs": 51,
+    "spawnOnIsland": true,
+    "pierSupportedPlayer": true,
+    "removedVolume": 2514.1701326295733,
+    "personalNeedsVolume": 2514.1701326239854,
+    "starterMusselCollected": true,
+    "duplicatePickupRejected": true,
+    "musselSaleCoins": 1
+  },
+  "ui": {
+    "desktop": {
+      "viewport": [
+        1278,
+        699
+      ],
+      "coinGrid": [
+        2,
+        2
+      ],
+      "coinShopSize": [
+        800,
+        615
+      ],
+      "upgradesSize": [
+        800,
+        580
+      ],
+      "visibleTextOverflow": [],
+      "visualReviewed": true
+    },
+    "iphone13Portrait": {
+      "viewport": [
+        389,
+        761
+      ],
+      "buyVisible": true,
+      "scroll": [
+        0,
+        0
+      ],
+      "visibleTextOverflow": [],
+      "visualReviewed": true
+    },
+    "iphone13Landscape": {
+      "viewport": [
+        749,
+        389
+      ],
+      "buyVisible": true,
+      "visibleTextOverflow": [],
+      "visualReviewed": true
+    },
+    "ipad10Landscape": {
+      "viewport": [
+        1178,
+        819
+      ],
+      "shopSize": [
+        800,
+        615
+      ],
+      "visibleTextOverflow": [],
+      "visualReviewed": true
+    },
+    "gamepadButtonBCloses": true,
+    "adminBuyButtonActivated": true,
+    "unconfiguredPurchaseNotice": "Coming soon · Robux purchases are not available yet.",
+    "coinsBeforePreview": 0,
+    "coinsAfterPreview": 0,
+    "screenshots": [
+      "sparkle-coin-shop.png",
+      "sparkle-admin-straw.png",
+      "sparkle-upgrades.png",
+      "sparkle-phone-portrait.png",
+      "sparkle-tablet-coins.png",
+      "sparkle-rocks-final.png"
+    ]
+  },
+  "effectsCleanup": {
+    "streams": 0,
+    "flights": 0,
+    "rings": 0,
+    "burstCount": 0
+  },
+  "performanceObserved": {
+    "source": "Foreground desktop Studio sample before Cursor reconnect; actual removal active, no video recording",
+    "frames": 482,
+    "averageFrameMs": 17.3173659922,
+    "p95FrameMs": 22.9074005038,
+    "stallsOver100ms": 0,
+    "physicalMobileTested": false
+  },
+  "console": {
+    "freshPlayGameErrors": 0,
+    "oneOffInspectionErrors": 2,
+    "inspectionErrors": "QA probes initially referenced nonexistent leaderstats and c.effects instead of c.fx; corrected; neither is production source"
+  },
+  "video": {
+    "file": "build/SuckTheSea-sparkle-animations.mp4",
+    "frames": 216,
+    "fps": 12,
+    "durationSeconds": 18,
+    "audio": false,
+    "mode": "actual Studio Play capture; temporary test profile and scripted test actions"
+  },
+  "limits": {
+    "published": false,
+    "realRobuxPaymentsTested": false,
+    "cloudPersistenceTested": false,
+    "multiplePhysicalClientsTested": false,
+    "allOfferAssetIds": 0,
+    "commerceTestsUseMockStorage": true
+  }
+}

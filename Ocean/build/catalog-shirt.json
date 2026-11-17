@@ -1,0 +1,565 @@
+﻿{
+    "keyword":  "shirt",
+    "previousPageCursor":  null,
+    "nextPageCursor":  null,
+    "data":  [
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-03-16T00:35:36.267Z",
+                     "id":  9112474888,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "Basic T-Shirt - Gray",
+                     "description":  "Keep it simple.",
+                     "productId":  3216533989010463,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  77986,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "f084e63e-f2f3-4601-bdb9-7d00e6eacd4e",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-03-16T21:59:24.147Z",
+                     "id":  9119670803,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "Striped T-Shirt - Black ",
+                     "description":  "Enjoy the sunrise wherever you go!",
+                     "productId":  427932336251175,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  55995,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "1d7ab619-b22b-4e13-a5cd-f3eadc35ae1f",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-03-16T00:37:16.383Z",
+                     "id":  9112483644,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "Striped T-Shirt - White ",
+                     "description":  "Enjoy the sunrise wherever you go!\t",
+                     "productId":  4957003807318023,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  42285,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "5c1ca9ac-ad74-40b4-af23-8e87e37b6004",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2022-04-01T17:48:50.113Z",
+                     "id":  9252603398,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "GRAMMY Golden T-Shirt",
+                     "description":  "A T-shirt fit for an award winner.",
+                     "productId":  1020181945168237,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  110,
+                     "lowestPrice":  110,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4178,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "2fb84d0d-9c81-4556-82c2-e8eae8d0a17d",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false,
+                     "timedOptions":  [
+                                          {
+                                              "days":  3,
+                                              "price":  22
+                                          },
+                                          {
+                                              "days":  7,
+                                              "price":  41
+                                          },
+                                          {
+                                              "days":  14,
+                                              "price":  60
+                                          }
+                                      ]
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "gUtxkR951g3VPgRkb5ay8u",
+                                          "taxonomyName":  "Gear"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-05-11T21:46:29.633Z",
+                     "id":  80576928,
+                     "itemType":  "Asset",
+                     "assetType":  19,
+                     "name":  "Tee Shirt Cannon",
+                     "description":  "Shoots tee-shirts at your friends and has them wear the shirts you shot.  You can even customize which shirts come out of the cannon.",
+                     "productId":  5531453789671632,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  500,
+                     "lowestPrice":  500,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4701,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "4516dc24-724e-4d4b-880e-10f8d981c7b7",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2019-08-16T23:51:49.697Z",
+                     "id":  3670737444,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Roblox Shirt - Simple Pattern",
+                     "description":  "",
+                     "productId":  8893208737946553,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  660269,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "6c2cb2bb-a709-4b51-9b02-d99506bd689d",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-04-14T23:17:11.523Z",
+                     "id":  398635081,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Blue Plaid Shirt ",
+                     "description":  "Designed and provided to the community by GPR3 the creator of so many top ROBLOX items. Be sure to check out other items made by GPR3 in the catalog.",
+                     "productId":  2041841417768103,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  576286,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "27cf8c22-3be9-4d6c-95fb-9968789fc5a6",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-01-27T23:19:33.113Z",
+                     "id":  144076358,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Blue and Black Motorcycle Shirt",
+                     "description":  "Shirt",
+                     "productId":  4433400043327174,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  3139387,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "c3d6ac49-886d-4fcb-9309-220717cbd15f",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2019-10-04T18:31:44.107Z",
+                     "id":  4047884939,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "My Favorite Pizza Shirt",
+                     "description":  "Of all my pizza shirts, this ones the best.",
+                     "productId":  349982626749243,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  259306,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "95f3b67c-4005-40b2-aefb-7fedc625c5bc",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-01-27T23:20:10.04Z",
+                     "id":  144076436,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Grey Striped Shirt with Denim Jacket",
+                     "description":  "Shirt",
+                     "productId":  3651386083251551,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1567307,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "7e6e0f7c-dc0a-4fb8-a73a-b619cb9cf123",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-03-15T02:43:47.963Z",
+                     "id":  382537702,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "Teal Shirt",
+                     "description":  "",
+                     "productId":  6806531699786973,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  532515,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "e86292db-a2fc-4207-9fe5-680dd5914f2e",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "2a2rf9qyeTd8W5iegK2Prc",
+                                          "taxonomyName":  "Classic Shirts"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-03-15T02:40:57.107Z",
+                     "id":  382537085,
+                     "itemType":  "Asset",
+                     "assetType":  11,
+                     "name":  "I \u003c3 Pizza Shirt",
+                     "description":  "",
+                     "productId":  499911276588999,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  501137,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "7a1694a7-21e8-43db-8178-db5a182d6b27",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-07-31T01:16:15.08Z",
+                     "id":  7178736794,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "Roblox T-Shirt - Black",
+                     "description":  "Flaunt your fandom in black!\t",
+                     "productId":  9005471277900478,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  224862,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "5049dafb-b7d6-4042-9ea9-11d0fae85d87",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "fLRqNzGqjX7MzcqeMro9hc",
+                                          "taxonomyName":  "T-Shirt"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2021-07-31T01:16:32.16Z",
+                     "id":  7178737816,
+                     "itemType":  "Asset",
+                     "assetType":  64,
+                     "name":  "Roblox T-Shirt - White",
+                     "description":  "Flaunt your fandom in white!\t",
+                     "productId":  1566781338660709,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  70831,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "37dd80e6-e642-4348-8f24-8671edf9b47a",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 }
+             ]
+}

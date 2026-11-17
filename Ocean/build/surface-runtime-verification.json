@@ -1,0 +1,136 @@
+{
+  "live": {
+    "metrics": {
+      "removedVolume": 2084.9991315081716,
+      "personalNeed": 2084.9991315044463,
+      "lootSites": 5899
+    },
+    "pass": true,
+    "checks": [
+      "Session-only verification",
+      "Player spawns on the island",
+      "Visible-ground sites load successfully",
+      "sorted site",
+      "Textured resource ObsidianFang",
+      "Textured resource OldBottle",
+      "Textured resource Spyglass",
+      "Textured resource SunriseScallop",
+      "Textured resource AmberStone",
+      "Textured resource AmethystCluster",
+      "Textured resource AnchorCharm",
+      "Textured resource AncientRelic",
+      "Textured resource AncientTrident",
+      "Textured resource AquamarineCluster",
+      "Textured resource AtlanteanTablet",
+      "Textured resource BlackPearl",
+      "Textured resource BlueStar",
+      "Textured resource BrittleStar",
+      "Textured resource BronzeKey",
+      "Textured resource CaptainsRing",
+      "Textured resource CeramicJug",
+      "Textured resource CommonShell",
+      "Textured resource Compass",
+      "Textured resource ConeShell",
+      "Textured resource CopperCoin",
+      "Textured resource CopperLantern",
+      "Textured resource CoralFragment",
+      "Textured resource CoralRing",
+      "Textured resource CowrieShell",
+      "Textured resource CrystalHeart",
+      "Textured resource GoldDoubloon",
+      "Textured resource GoldenChalice",
+      "Textured resource GoldenIdol",
+      "Textured resource JadeBead",
+      "Textured resource MessageBottle",
+      "Textured resource NautilusShell",
+      "Textured resource PearlShell",
+      "Textured resource PinkPearl",
+      "Textured resource PocketWatch",
+      "Textured resource PorcelainPlate",
+      "Textured resource RoyalCrown",
+      "Textured resource RubyBrooch",
+      "Textured resource RubyCluster",
+      "Textured resource SandDollar",
+      "Textured resource SapphireCluster",
+      "Textured resource SapphirePendant",
+      "Textured resource SeaGlass",
+      "Textured resource SeaUrchin",
+      "Textured resource ShipBell",
+      "Textured resource SilverCoin",
+      "Textured resource SpiralShell",
+      "Textured resource Starfish",
+      "Textured resource TreasureChest",
+      "Textured resource TurbanShell",
+      "Textured resource StarterMussel",
+      "Pier supports the player",
+      "Real water target remains usable",
+      "Real server water removal works",
+      "Personal WC volume still matches actual removal",
+      "Starter mussels spawn",
+      "Grounded mussel can be collected",
+      "Duplicate pickup remains blocked",
+      "Starter mussel still sells for exactly 1 coin"
+    ]
+  },
+  "ruins": {
+    "soldFor": 12200,
+    "count": 5,
+    "value": 12200,
+    "tokens": [
+      "1:64",
+      "1:65",
+      "1:63",
+      "1:62",
+      "1:66"
+    ],
+    "pass": true,
+    "id": "TidekeepersCache"
+  },
+  "captain": {
+    "soldFor": 4250,
+    "count": 4,
+    "value": 4250,
+    "tokens": [
+      "1:61",
+      "1:59",
+      "1:58",
+      "1:60"
+    ],
+    "pass": true,
+    "id": "CaptainsCache"
+  },
+  "performance": {
+    "Idle": {
+      "p95Ms": 18.073100596666336,
+      "stallsOver100ms": 0,
+      "frames": 300,
+      "averageMs": 16.72330624734362
+    },
+    "Sipping": {
+      "p95Ms": 19.555699080228806,
+      "stallsOver100ms": 0,
+      "frames": 493,
+      "averageMs": 16.933168348824154
+    }
+  },
+  "preload": {
+    "objects": 401,
+    "failed": [],
+    "requests": 401
+  },
+  "walking": {
+    "islandToDock": true,
+    "dockToEnd": true
+  },
+  "visualChecks": {
+    "levels": [
+      0,
+      -9,
+      -36,
+      -58
+    ],
+    "pbrVisible": true,
+    "groundedReefs": true
+  },
+  "texturePreloadNote": "Mesh instances loaded successfully. SurfaceAppearance and MaterialVariant texture packs are verified visually; PreloadAsync does not support those classes."
+}

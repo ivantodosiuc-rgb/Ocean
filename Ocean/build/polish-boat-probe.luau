@@ -1,0 +1,1 @@
+local p=workspace.Ocean.LittleBoat;print('BOAT_PROBE',p.CFrame,p.PivotOffset,p.Size);local q=game.ReplicatedStorage.SeaGame.Assets.Environment.Polish.SunsetStaghorn.Visual;print('CORAL_PROBE',q.CFrame,q.PivotOffset);print('PLAY_RUNNING',game:GetService('RunService'):IsRunning())

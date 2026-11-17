@@ -1,0 +1,77 @@
+{
+  "objects": [
+    {
+      "name": "Tool__BasicStraw",
+      "triangles": 1472
+    },
+    {
+      "name": "Tool__ColorfulStraw",
+      "triangles": 704
+    },
+    {
+      "name": "Tool__BambooStraw",
+      "triangles": 1640
+    },
+    {
+      "name": "Tool__GoldenStraw",
+      "triangles": 1896
+    },
+    {
+      "name": "Tool__CrystalStraw",
+      "triangles": 752
+    },
+    {
+      "name": "Tool__OceanVacuum",
+      "triangles": 2816
+    },
+    {
+      "name": "Loot__CommonShell",
+      "triangles": 920
+    },
+    {
+      "name": "Loot__Starfish",
+      "triangles": 676
+    },
+    {
+      "name": "Loot__PearlShell",
+      "triangles": 2560
+    },
+    {
+      "name": "Loot__OldBottle",
+      "triangles": 960
+    },
+    {
+      "name": "Loot__TreasureChest",
+      "triangles": 1712
+    },
+    {
+      "name": "Loot__AncientRelic",
+      "triangles": 1008
+    },
+    {
+      "name": "Icon__Coin",
+      "triangles": 764
+    },
+    {
+      "name": "Icon__Backpack",
+      "triangles": 732
+    },
+    {
+      "name": "Icon__Power",
+      "triangles": 192
+    },
+    {
+      "name": "Icon__Speed",
+      "triangles": 1268
+    },
+    {
+      "name": "Icon__Walk",
+      "triangles": 852
+    },
+    {
+      "name": "Icon__Ocean",
+      "triangles": 548
+    }
+  ],
+  "total_triangles": 21472
+}

@@ -1,0 +1,516 @@
+{
+  "place": "build/backups/SuckTheSea-before-ocean-progress.rbxlx",
+  "sha256": "11ea65cf37fe39ad7aeb3691fdbab74b4dda1180d25af44c7673f8b6ea895b20",
+  "preservedBuildingsAndNPCs": {
+    "Buildings": true,
+    "NPCs": true
+  },
+  "installedSourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Shared\\LootCatalog.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Server\\Wrecks.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true
+  },
+  "temporaryObjectsSaved": [],
+  "resources": {
+    "count": 50,
+    "meshCount": 50,
+    "uniqueMeshIds": 50,
+    "allUploaded": true
+  },
+  "blenderQA": {
+    "meshes": 81,
+    "allPassed": true,
+    "triangles": 174032,
+    "acceptedWarnings": "Intentional stacked palette UVs; separate closed prop components retain coincident end caps/vertices. No reported floating components or z-fighting."
+  },
+  "runtimeErrorsInFinalGameModules": [],
+  "unitTests": {
+    "time": "2026-11-16T12:04:07.443Z",
+    "message": "STEP3_UNIT_COMPLETE 87"
+  },
+  "wreckIntegration": {
+    "time": "2026-11-16T12:04:03.376Z",
+    "message": "DEPTH_SERVER_COMPLETE 28 wreckValue 3690 nodes 6143"
+  },
+  "nativeKeyOne": {
+    "time": "2026-11-16T12:05:54.541Z",
+    "message": "DEPTH_NATIVE_ONE_PASS"
+  },
+  "collisionRoutes": {
+    "time": "2026-11-16T12:06:17.289Z",
+    "message": "DEPTH_SLOPES_PASS 152 0.741448974609375"
+  },
+  "ruinsLoot": {
+    "time": "2026-11-16T12:06:18.006Z",
+    "message": "DEPTH_RUINS_PASS 5 water -60"
+  },
+  "physicalTideCycle": {
+    "time": "2026-11-16T12:29:05.570Z",
+    "message": "DEPTH_TIDE_PASS -68 to 0; real water; chests reset; no premature loot"
+  },
+  "boatFollowsWater": {
+    "time": "2026-11-16T12:29:06.651Z",
+    "message": "DEPTH_BOAT_PASS Boat rests on seabed and floats again"
+  },
+  "finalEditAudit": {
+    "time": "2026-11-16T12:32:59.884Z",
+    "message": "DEPTH_EDIT_AUDIT [{\"name\":\"GoldenShore\",\"position\":\"3.394481897354126, -3.22499680519104, 3.506469488143921\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://89391696463971\",\"size\":\"206.71090698242188, 17.550006866455078, 207.25746154785156\"},{\"name\":\"Meadow\",\"position\":\"2.285392999649048, -2.999997138977051, 2.3607900142669678\",\"texture\":\"\",\"mesh\":\"rbxassetid://89150966872259\",\"size\":\"139.1717071533203, 18.0000057220459, 139.5396728515625\"},{\"name\":\"Slope_00\",\"position\":\"213.37307739257812, -42.55350112915039, 88.49999237060547\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://126233377985936\",\"size\":\"281.25384521484375, 83.41340637207031, 177.00001525878906\"}] 1 0"
+  },
+  "waterPerformanceSamples": [
+    {
+      "time": "2026-11-16T11:33:28.432Z",
+      "mode": "idle",
+      "frames": 204,
+      "averageMs": 34.31471630784811,
+      "p95Ms": 67.4171969294548,
+      "maximumMs": 68.43840330839157,
+      "waterStart": -2.5962961172289214,
+      "waterEnd": -2.5962961172289214,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T11:33:35.511Z",
+      "mode": "suction",
+      "frames": 85,
+      "averageMs": 83.00721900647177,
+      "p95Ms": 212.92179822921753,
+      "maximumMs": 223.04439544677734,
+      "waterStart": -2.5962961172289214,
+      "waterEnd": -3.1873669304081713,
+      "realDrain": true,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T11:57:40.925Z",
+      "mode": "idle",
+      "frames": 427,
+      "averageMs": 16.66702764584253,
+      "p95Ms": 17.808400094509125,
+      "maximumMs": 18.89139972627163,
+      "waterStart": 0.0,
+      "waterEnd": 0.0,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T11:57:48.008Z",
+      "mode": "suction",
+      "frames": 425,
+      "averageMs": 16.666739043944023,
+      "p95Ms": 17.774200066924095,
+      "maximumMs": 18.70659925043583,
+      "waterStart": 0.0,
+      "waterEnd": 0.0,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:02:32.798Z",
+      "mode": "idle",
+      "frames": 423,
+      "averageMs": 16.663375453710838,
+      "p95Ms": 18.185000866651535,
+      "maximumMs": 28.42080034315586,
+      "waterStart": 0.0,
+      "waterEnd": 0.0,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:02:39.880Z",
+      "mode": "suction",
+      "frames": 424,
+      "averageMs": 16.704400421454096,
+      "p95Ms": 19.329199567437172,
+      "maximumMs": 43.223898857831955,
+      "waterStart": 0.0,
+      "waterEnd": -0.5482770903455093,
+      "realDrain": true,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:19:47.841Z",
+      "mode": "idle",
+      "frames": 105,
+      "averageMs": 66.66227515254702,
+      "p95Ms": 67.98029690980911,
+      "maximumMs": 68.3462992310524,
+      "waterStart": 0.0,
+      "waterEnd": 0.0,
+      "realDrain": false,
+      "backgroundThrottleSuspected": true
+    },
+    {
+      "time": "2026-11-16T12:19:54.957Z",
+      "mode": "suction",
+      "frames": 107,
+      "averageMs": 66.67042711627818,
+      "p95Ms": 68.37490200996399,
+      "maximumMs": 69.67519968748093,
+      "waterStart": 0.0,
+      "waterEnd": -0.5482672012178231,
+      "realDrain": true,
+      "backgroundThrottleSuspected": true
+    },
+    {
+      "time": "2026-11-16T12:20:37.740Z",
+      "mode": "idle",
+      "frames": 405,
+      "averageMs": 17.40623929158405,
+      "p95Ms": 18.092600628733635,
+      "maximumMs": 68.13739985227585,
+      "waterStart": -1.3401407652324993,
+      "waterEnd": -1.3401407652324993,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:20:38.187Z",
+      "mode": "idle",
+      "frames": 388,
+      "averageMs": 18.339198214702847,
+      "p95Ms": 18.355699256062508,
+      "maximumMs": 68.18520277738571,
+      "waterStart": -1.3401407652324993,
+      "waterEnd": -1.3401407652324993,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:22:11.985Z",
+      "mode": "idle",
+      "frames": 208,
+      "averageMs": 33.566934734923194,
+      "p95Ms": 68.35520267486572,
+      "maximumMs": 334.01399850845337,
+      "waterStart": -1.3401407652324993,
+      "waterEnd": -1.3401407652324993,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:23:26.700Z",
+      "mode": "idle",
+      "frames": 294,
+      "averageMs": 23.753903772948043,
+      "p95Ms": 66.68119877576828,
+      "maximumMs": 68.55469942092896,
+      "waterStart": -1.3401407652324993,
+      "waterEnd": -1.3401407652324993,
+      "realDrain": false,
+      "backgroundThrottleSuspected": false
+    },
+    {
+      "time": "2026-11-16T12:23:33.735Z",
+      "mode": "suction",
+      "frames": 106,
+      "averageMs": 66.66121452625067,
+      "p95Ms": 68.08380037546158,
+      "maximumMs": 76.27580314874649,
+      "waterStart": -1.3401407652324993,
+      "waterEnd": -1.9491115843388256,
+      "realDrain": true,
+      "backgroundThrottleSuspected": true
+    }
+  ],
+  "verifiedEvents": [
+    {
+      "time": "2026-11-16T11:33:28.432Z",
+      "message": "EXPANSION_PERF idle 204 34.31471630784811 67.4171969294548 68.43840330839157 -2.5962961172289214 -2.5962961172289214"
+    },
+    {
+      "time": "2026-11-16T11:33:35.511Z",
+      "message": "EXPANSION_PERF suction 85 83.00721900647177 212.92179822921753 223.04439544677734 -2.5962961172289214 -3.1873669304081713"
+    },
+    {
+      "time": "2026-11-16T11:55:12.129Z",
+      "message": "DEPTH_SCENE_INSTALLED {\"Landmark\":1,\"Loot\":50,\"Seabed\":12,\"Ship\":6,\"Chest\":2,\"Ground\":2,\"Decor\":5} grounded 42 flowers 12 reefs 86"
+    },
+    {
+      "time": "2026-11-16T11:56:47.245Z",
+      "message": "DEPTH_EDIT_AUDIT [{\"name\":\"GoldenShore\",\"position\":\"3.394481897354126, -3.22499680519104, 3.506469488143921\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://119403397905776\",\"size\":\"206.71090698242188, 17.550006866455078, 207.25746154785156\"},{\"name\":\"Meadow\",\"position\":\"2.285392999649048, -2.999997138977051, 2.3607900142669678\",\"texture\":\"\",\"mesh\":\"rbxassetid://78677874449902\",\"size\":\"139.1717071533203, 18.0000057220459, 139.5396728515625\"},{\"name\":\"Slope_00\",\"position\":\"213.37307739257812, -42.55350112915039, 88.49999237060547\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://71782267853671\",\"size\":\"281.25384521484375, 83.41340637207031, 177.00001525878906\"}] 1 0"
+    },
+    {
+      "time": "2026-11-16T11:57:40.925Z",
+      "message": "EXPANSION_PERF idle 427 16.66702764584253 17.808400094509125 18.89139972627163 0 0"
+    },
+    {
+      "time": "2026-11-16T11:57:48.008Z",
+      "message": "EXPANSION_PERF suction 425 16.666739043944023 17.774200066924095 18.70659925043583 0 0"
+    },
+    {
+      "time": "2026-11-16T11:59:51.505Z",
+      "message": "DEPTH_CLIENT_PROBE false false false nil 10.0003576, 7.04193687, 126, -5.20316535e-05, 7.92278172e-08, -1, 6.08411366e-09, 1, 7.92274975e-08, 1, -6.07999118e-09, -5.20316535e-05 Basic Straw 0 false false"
+    },
+    {
+      "time": "2026-11-16T11:59:51.507Z",
+      "message": "DEPTH_WATER_RAY 20, 0, 126 Enum.Material.Water"
+    },
+    {
+      "time": "2026-11-16T11:59:51.507Z",
+      "message": "DEPTH_BEGIN false"
+    },
+    {
+      "time": "2026-11-16T11:59:52.519Z",
+      "message": "DEPTH_HOLDING_AFTER false nil false"
+    },
+    {
+      "time": "2026-11-16T12:01:49.527Z",
+      "message": "DEPTH_VISUAL_POLISH_DONE"
+    },
+    {
+      "time": "2026-11-16T12:02:32.798Z",
+      "message": "EXPANSION_PERF idle 423 16.663375453710838 18.185000866651535 28.42080034315586 0 0"
+    },
+    {
+      "time": "2026-11-16T12:02:39.880Z",
+      "message": "EXPANSION_PERF suction 424 16.704400421454096 19.329199567437172 43.223898857831955 0 -0.5482770903455093"
+    },
+    {
+      "time": "2026-11-16T12:03:56.362Z",
+      "message": "DEPTH_TEST_PASS All 50 Blender resources installed"
+    },
+    {
+      "time": "2026-11-16T12:03:56.363Z",
+      "message": "DEPTH_TEST_PASS All 50 resources collect and sell for exact values"
+    },
+    {
+      "time": "2026-11-16T12:03:56.363Z",
+      "message": "DEPTH_TEST_PASS Depth sites measured on the real new seabed"
+    },
+    {
+      "time": "2026-11-16T12:03:56.365Z",
+      "message": "DEPTH_TEST_PASS ToggleHeld changes real Tool parent"
+    },
+    {
+      "time": "2026-11-16T12:03:56.769Z",
+      "message": "DEPTH_TEST_PASS ToggleHeld restores same straw"
+    },
+    {
+      "time": "2026-11-16T12:03:56.769Z",
+      "message": "DEPTH_TEST_PASS Toggling does not duplicate Tools"
+    },
+    {
+      "time": "2026-11-16T12:03:56.769Z",
+      "message": "DEPTH_TEST_PASS Distant chest opening rejected"
+    },
+    {
+      "time": "2026-11-16T12:03:57.277Z",
+      "message": "DEPTH_TEST_PASS Submerged chest opening rejected"
+    },
+    {
+      "time": "2026-11-16T12:03:57.378Z",
+      "message": "DEPTH_TEST_PASS Real water lowered to the wreck"
+    },
+    {
+      "time": "2026-11-16T12:04:01.709Z",
+      "message": "DEPTH_TEST_PASS Walk through broken hull into cargo hold"
+    },
+    {
+      "time": "2026-11-16T12:04:01.711Z",
+      "message": "DEPTH_TEST_PASS Ship chest opens and drops four valuable resources"
+    },
+    {
+      "time": "2026-11-16T12:04:01.711Z",
+      "message": "DEPTH_TEST_PASS Same chest cannot be opened twice"
+    },
+    {
+      "time": "2026-11-16T12:04:01.711Z",
+      "message": "DEPTH_TEST_PASS Chest rewards exist physically on the cargo floor"
+    },
+    {
+      "time": "2026-11-16T12:04:02.027Z",
+      "message": "DEPTH_TEST_PASS Full backpack leaves chest reward on the ground"
+    },
+    {
+      "time": "2026-11-16T12:04:02.027Z",
+      "message": "DEPTH_TEST_PASS Chest loot is valuable: CaptainsRing"
+    },
+    {
+      "time": "2026-11-16T12:04:02.226Z",
+      "message": "DEPTH_TEST_PASS Collect chest reward once"
+    },
+    {
+      "time": "2026-11-16T12:04:02.227Z",
+      "message": "DEPTH_TEST_PASS Duplicate chest pickup rejected"
+    },
+    {
+      "time": "2026-11-16T12:04:02.227Z",
+      "message": "DEPTH_TEST_PASS Chest loot is valuable: SapphireCluster"
+    },
+    {
+      "time": "2026-11-16T12:04:02.428Z",
+      "message": "DEPTH_TEST_PASS Collect chest reward once"
+    },
+    {
+      "time": "2026-11-16T12:04:02.428Z",
+      "message": "DEPTH_TEST_PASS Duplicate chest pickup rejected"
+    },
+    {
+      "time": "2026-11-16T12:04:02.428Z",
+      "message": "DEPTH_TEST_PASS Chest loot is valuable: RubyBrooch"
+    },
+    {
+      "time": "2026-11-16T12:04:02.643Z",
+      "message": "DEPTH_TEST_PASS Collect chest reward once"
+    },
+    {
+      "time": "2026-11-16T12:04:02.643Z",
+      "message": "DEPTH_TEST_PASS Duplicate chest pickup rejected"
+    },
+    {
+      "time": "2026-11-16T12:04:02.644Z",
+      "message": "DEPTH_TEST_PASS Chest loot is valuable: SapphireCluster"
+    },
+    {
+      "time": "2026-11-16T12:04:02.859Z",
+      "message": "DEPTH_TEST_PASS Collect chest reward once"
+    },
+    {
+      "time": "2026-11-16T12:04:02.860Z",
+      "message": "DEPTH_TEST_PASS Duplicate chest pickup rejected"
+    },
+    {
+      "time": "2026-11-16T12:04:03.376Z",
+      "message": "DEPTH_TEST_PASS Sell actual wreck loot for a high exact value"
+    },
+    {
+      "time": "2026-11-16T12:04:03.376Z",
+      "message": "DEPTH_TEST_PASS Duplicate sale still rejected"
+    },
+    {
+      "time": "2026-11-16T12:04:03.376Z",
+      "message": "DEPTH_SERVER_COMPLETE 28 wreckValue 3690 nodes 6143"
+    },
+    {
+      "time": "2026-11-16T12:04:07.443Z",
+      "message": "STEP3_UNIT_COMPLETE 87"
+    },
+    {
+      "time": "2026-11-16T12:05:51.990Z",
+      "message": "DEPTH_NATIVE_ONE_READY"
+    },
+    {
+      "time": "2026-11-16T12:05:53.106Z",
+      "message": "DEPTH_NATIVE_ONE_HIDDEN"
+    },
+    {
+      "time": "2026-11-16T12:05:54.541Z",
+      "message": "DEPTH_NATIVE_ONE_PASS"
+    },
+    {
+      "time": "2026-11-16T12:06:17.289Z",
+      "message": "DEPTH_SLOPES_PASS 152 0.741448974609375"
+    },
+    {
+      "time": "2026-11-16T12:06:18.006Z",
+      "message": "DEPTH_RUINS_PASS 5 water -60"
+    },
+    {
+      "time": "2026-11-16T12:18:36.348Z",
+      "message": "DEPTH_POLISH_INSTALLED 18 gardenProps 66"
+    },
+    {
+      "time": "2026-11-16T12:19:47.841Z",
+      "message": "EXPANSION_PERF idle 105 66.66227515254702 67.98029690980911 68.3462992310524 0 0"
+    },
+    {
+      "time": "2026-11-16T12:19:54.957Z",
+      "message": "EXPANSION_PERF suction 107 66.67042711627818 68.37490200996399 69.67519968748093 0 -0.5482672012178231"
+    },
+    {
+      "time": "2026-11-16T12:20:37.740Z",
+      "message": "EXPANSION_PERF idle 405 17.40623929158405 18.092600628733635 68.13739985227585 -1.3401407652324993 -1.3401407652324993"
+    },
+    {
+      "time": "2026-11-16T12:20:38.187Z",
+      "message": "EXPANSION_PERF idle 388 18.339198214702847 18.355699256062508 68.18520277738571 -1.3401407652324993 -1.3401407652324993"
+    },
+    {
+      "time": "2026-11-16T12:22:11.985Z",
+      "message": "EXPANSION_PERF idle 208 33.566934734923194 68.35520267486572 334.01399850845337 -1.3401407652324993 -1.3401407652324993"
+    },
+    {
+      "time": "2026-11-16T12:23:26.700Z",
+      "message": "EXPANSION_PERF idle 294 23.753903772948043 66.68119877576828 68.55469942092896 -1.3401407652324993 -1.3401407652324993"
+    },
+    {
+      "time": "2026-11-16T12:23:33.735Z",
+      "message": "EXPANSION_PERF suction 106 66.66121452625067 68.08380037546158 76.27580314874649 -1.3401407652324993 -1.9491115843388256"
+    },
+    {
+      "time": "2026-11-16T12:25:36.461Z",
+      "message": "DEPTH_BOAT_GROUNDED -13.774862289428711 -15.171260833740234"
+    },
+    {
+      "time": "2026-11-16T12:26:09.677Z",
+      "message": "DEPTH_BOAT_GROUNDED -13.774862289428711 -15.171260833740234"
+    },
+    {
+      "time": "2026-11-16T12:27:25.507Z",
+      "message": "DEPTH_TIDE_PASS -68 to 0; real water; chests reset; no premature loot"
+    },
+    {
+      "time": "2026-11-16T12:28:43.354Z",
+      "message": "DEPTH_BOAT_GROUNDED -13.774862289428711 -15.171260833740234"
+    },
+    {
+      "time": "2026-11-16T12:29:05.570Z",
+      "message": "DEPTH_TIDE_PASS -68 to 0; real water; chests reset; no premature loot"
+    },
+    {
+      "time": "2026-11-16T12:29:06.651Z",
+      "message": "DEPTH_BOAT_PASS Boat rests on seabed and floats again"
+    },
+    {
+      "time": "2026-11-16T12:29:24.037Z",
+      "message": "DEPTH_PREVIEW_READY"
+    },
+    {
+      "time": "2026-11-16T12:29:57.753Z",
+      "message": "DEPTH_CHEST_ANIMATION_RECORDED"
+    },
+    {
+      "time": "2026-11-16T12:31:30.381Z",
+      "message": "DEPTH_PREVIEW_READY"
+    },
+    {
+      "time": "2026-11-16T12:31:36.115Z",
+      "message": "DEPTH_CHEST_ANIMATION_RECORDED"
+    },
+    {
+      "time": "2026-11-16T12:32:59.881Z",
+      "message": "DEPTH_FINAL_COLLISIONS_PASS 152 0.7414512634277344"
+    },
+    {
+      "time": "2026-11-16T12:32:59.884Z",
+      "message": "DEPTH_EDIT_AUDIT [{\"name\":\"GoldenShore\",\"position\":\"3.394481897354126, -3.22499680519104, 3.506469488143921\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://89391696463971\",\"size\":\"206.71090698242188, 17.550006866455078, 207.25746154785156\"},{\"name\":\"Meadow\",\"position\":\"2.285392999649048, -2.999997138977051, 2.3607900142669678\",\"texture\":\"\",\"mesh\":\"rbxassetid://89150966872259\",\"size\":\"139.1717071533203, 18.0000057220459, 139.5396728515625\"},{\"name\":\"Slope_00\",\"position\":\"213.37307739257812, -42.55350112915039, 88.49999237060547\",\"texture\":\"rbxassetid://123124520356335\",\"mesh\":\"rbxassetid://126233377985936\",\"size\":\"281.25384521484375, 83.41340637207031, 177.00001525878906\"}] 1 0"
+    },
+    {
+      "time": "2026-11-16T12:33:01.551Z",
+      "message": "DEPTH_FLOWER_VIEW FlowerBed_00 -19.000001907348633, 5.9524736404418945, -20.999998092651367"
+    }
+  ],
+  "limitations": [
+    "Studio single-client timings, not a guarantee for all hardware or published servers.",
+    "Background Studio throttles to 15 FPS; zero-drain samples and overlapping test runs are excluded from improvement claims.",
+    "Unpublished experience: live DataStore rejoin not tested.",
+    "No physical phone or two-client session in this expansion pass."
+  ],
+  "savedMapAuditPassed": true,
+  "supersededBy": "build/ocean-progress-verification.json"
+}

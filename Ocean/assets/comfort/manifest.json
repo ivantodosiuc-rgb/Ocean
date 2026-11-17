@@ -1,0 +1,69 @@
+{
+  "objects": [
+    {
+      "name": "Tool__BasicStraw",
+      "triangles": 1472
+    },
+    {
+      "name": "Tool__ColorfulStraw",
+      "triangles": 704
+    },
+    {
+      "name": "Tool__BambooStraw",
+      "triangles": 1640
+    },
+    {
+      "name": "Tool__GoldenStraw",
+      "triangles": 1896
+    },
+    {
+      "name": "Tool__CrystalStraw",
+      "triangles": 752
+    },
+    {
+      "name": "Tool__OceanVacuum",
+      "triangles": 2816
+    },
+    {
+      "name": "Tool__CoralTwister",
+      "triangles": 2064
+    },
+    {
+      "name": "Tool__TidalCoil",
+      "triangles": 3544
+    },
+    {
+      "name": "Tool__StarSiphon",
+      "triangles": 2780
+    },
+    {
+      "name": "Tool__Leviathan",
+      "triangles": 2704
+    },
+    {
+      "name": "Tool__PrismStraw",
+      "triangles": 3072
+    },
+    {
+      "name": "Loot__StarterMussel",
+      "triangles": 1888
+    },
+    {
+      "name": "Restroom__Cabin",
+      "triangles": 8428
+    },
+    {
+      "name": "Restroom__Roof",
+      "triangles": 3804
+    },
+    {
+      "name": "Restroom__Door",
+      "triangles": 2408
+    },
+    {
+      "name": "Restroom__Toilet",
+      "triangles": 1700
+    }
+  ],
+  "total_triangles": 41672
+}

@@ -1,0 +1,1 @@
+local p=game:GetService('Players').LocalPlayer;for _,c in p.Character:GetChildren() do print('SHOP_PLAYER_CHILD',c.Name,c.ClassName) end;for _,c in p.PlayerScripts:GetChildren() do print('SHOP_PLAYER_MODULE',c.Name,c.ClassName) end

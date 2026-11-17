@@ -1,0 +1,980 @@
+{
+  "ok": true,
+  "objects": {
+    "StarterIsland__GoldenShore": {
+      "tris": 1340,
+      "verts": 672,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__Meadow": {
+      "tris": 956,
+      "verts": 480,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__CompassRay": {
+      "tris": 96,
+      "verts": 50,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Buildings__StrawShop": {
+      "tris": 13700,
+      "verts": 7062,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Buildings__UpgradeShop": {
+      "tris": 15068,
+      "verts": 7746,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Buildings__TreasureShop": {
+      "tris": 15108,
+      "verts": 7770,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__LittleBoat": {
+      "tris": 724,
+      "verts": 374,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__DockBarrel": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__DockBarrel.001": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__DockBarrel.002": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__RopeCoil": {
+      "tris": 864,
+      "verts": 432,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_00": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_01": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_02": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_03": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_04": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_05": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_06": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_07": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_08": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_09": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_10": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_11": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_12": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Palm_13": {
+      "tris": 4140,
+      "verts": 2104,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_00": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_00": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_01": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_01": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_02": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_02": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_03": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_03": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_04": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_04": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_05": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_05": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_06": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_06": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_07": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_07": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_08": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_08": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_09": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_09": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_10": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_10": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Bush_11": {
+      "tris": 240,
+      "verts": 126,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__FlowerBed_11": {
+      "tris": 1524,
+      "verts": 804,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_00": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_01": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_02": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_03": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_04": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_05": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_06": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__ShoreRock_07": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__VillageBarrel_00": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__VillageBarrel_01": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__VillageBarrel_02": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__VillageBarrel_03": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__VillageBarrel_04": {
+      "tris": 1916,
+      "verts": 984,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__TreasureDisplay_0": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__TreasureDisplay_1": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Shell_0": {
+      "tris": 448,
+      "verts": 238,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Shell_1": {
+      "tris": 448,
+      "verts": 238,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Shell_2": {
+      "tris": 448,
+      "verts": 238,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Shell_3": {
+      "tris": 448,
+      "verts": 238,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__Shell_4": {
+      "tris": 448,
+      "verts": 238,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Sandbank_1": {
+      "tris": 380,
+      "verts": 192,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_0_0": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_0_1": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_0_1": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_0_2": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_0_3": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_0_3": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_0_4": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__FutureTreasure_1": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Sandbank_2": {
+      "tris": 380,
+      "verts": 192,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_1_0": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_1_1": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_1_1": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_1_2": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_1_3": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_1_3": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_1_4": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__FutureTreasure_2": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Sandbank_3": {
+      "tris": 380,
+      "verts": 192,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_2_0": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_2_1": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_2_1": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_2_2": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_2_3": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_2_3": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_2_4": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__FutureTreasure_3": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Sandbank_4": {
+      "tris": 380,
+      "verts": 192,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_3_0": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_3_1": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_3_1": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_3_2": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_3_3": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__ReefRock_3_3": {
+      "tris": 100,
+      "verts": 54,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__Coral_3_4": {
+      "tris": 740,
+      "verts": 400,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "UnderwaterTerrain__FutureTreasure_4": {
+      "tris": 476,
+      "verts": 248,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__Plaza": {
+      "tris": 252,
+      "verts": 128,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__PlazaTrim": {
+      "tris": 288,
+      "verts": 144,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__Compass": {
+      "tris": 188,
+      "verts": 96,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "StarterIsland__PathStone": {
+      "tris": 768,
+      "verts": 448,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Buildings__StrawCup": {
+      "tris": 108,
+      "verts": 60,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Buildings__DisplayStraw": {
+      "tris": 252,
+      "verts": 144,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__PierBoard": {
+      "tris": 2808,
+      "verts": 1456,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__PierHead": {
+      "tris": 972,
+      "verts": 504,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__PierPile": {
+      "tris": 360,
+      "verts": 200,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__PierCap": {
+      "tris": 360,
+      "verts": 200,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__PileRope": {
+      "tris": 2880,
+      "verts": 1440,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Ocean__SafetyRope": {
+      "tris": 432,
+      "verts": 240,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    },
+    "Decorations__GrassTuft": {
+      "tris": 1440,
+      "verts": 864,
+      "materials": 1,
+      "modifiers": [],
+      "uv_maps": 1,
+      "shape_keys": 0
+    }
+  },
+  "total_tris": 176436,
+  "total_verts": 91308,
+  "draw_calls_est": 118,
+  "unique_materials": 1,
+  "textures": [
+    {
+      "name": "SuckTheSea_Palette",
+      "size": [
+        128,
+        128
+      ],
+      "mb": 0.1
+    }
+  ],
+  "texture_vram_mb_uncompressed": 0.1,
+  "bones": 0,
+  "kind": "prop",
+  "budget": {
+    "name": "roblox",
+    "limits": {
+      "char_tris": 10742,
+      "prop_tris": 20000,
+      "materials": 1,
+      "tex": 1024,
+      "bones": null
+    },
+    "over": [
+      "tris 176436 > 20000"
+    ],
+    "pass": false
+  }
+}

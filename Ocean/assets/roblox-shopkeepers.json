@@ -1,0 +1,19 @@
+{
+  "creator": "Roblox",
+  "creatorUserId": 1,
+  "method": "Players:CreateHumanoidModelFromDescriptionAsync with AssetTypeVerification.Always",
+  "rigType": "R15",
+  "dateVerified": "2026-11-16",
+  "purchases": false,
+  "bodyBundles": {
+    "Man": "https://www.roblox.com/bundles/238/Man",
+    "Woman": "https://www.roblox.com/bundles/239/Woman"
+  },
+  "characters": [
+    {"name":"Finn","body":"Man","hair":62234425,"shirt":382537702,"pants":398635338,"face":144075659,"shop":"StrawShop"},
+    {"name":"Maya","body":"Woman","hair":62724852,"shirt":398634295,"pants":398635338,"face":86487766,"shop":"UpgradeShop"},
+    {"name":"Captain Shell","body":"Man","hat":417457461,"shirt":144076436,"pants":398635338,"face":86487700,"shop":"TreasureShop"}
+  ],
+  "apiReference": "https://create.roblox.com/docs/reference/engine/classes/Players#CreateHumanoidModelFromDescriptionAsync",
+  "notes": "Static editor-generated avatars, 15 standard AnimationConstraints each. No gameplay scripts. Original map vegetation and lighting restored."
+}

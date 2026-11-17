@@ -1,0 +1,110 @@
+﻿{
+    "id":  238,
+    "name":  "Man   ",
+    "description":  "The next generation of ROBLOX.",
+    "bundleType":  "BodyParts",
+    "isRecolorable":  true,
+    "items":  [
+                  {
+                      "id":  62234425,
+                      "name":  "Brown Hair",
+                      "type":  "Asset",
+                      "assetType":  41
+                  },
+                  {
+                      "id":  86500008,
+                      "name":  "Man Torso",
+                      "type":  "Asset",
+                      "assetType":  27
+                  },
+                  {
+                      "id":  86500036,
+                      "name":  "Man Right Arm",
+                      "type":  "Asset",
+                      "assetType":  28
+                  },
+                  {
+                      "id":  86500054,
+                      "name":  "Man Left Arm",
+                      "type":  "Asset",
+                      "assetType":  29
+                  },
+                  {
+                      "id":  86500064,
+                      "name":  "Man Left Leg",
+                      "type":  "Asset",
+                      "assetType":  30
+                  },
+                  {
+                      "id":  86500078,
+                      "name":  "Man Right Leg",
+                      "type":  "Asset",
+                      "assetType":  31
+                  },
+                  {
+                      "id":  131929496,
+                      "name":  "Man   ",
+                      "type":  "UserOutfit"
+                  },
+                  {
+                      "id":  11166682528,
+                      "name":  "Man Face",
+                      "type":  "UserOutfit"
+                  },
+                  {
+                      "id":  10725826963,
+                      "name":  "Man Face - Head",
+                      "type":  "Asset",
+                      "supportsHeadShapes":  true,
+                      "assetType":  79
+                  },
+                  {
+                      "id":  10725833199,
+                      "name":  "Man Face - Mood",
+                      "type":  "Asset",
+                      "assetType":  78
+                  }
+              ],
+    "creator":  {
+                    "id":  1,
+                    "name":  "Roblox",
+                    "type":  "User",
+                    "hasVerifiedBadge":  true
+                },
+    "product":  {
+                    "id":  5495982967652879,
+                    "type":  "productType",
+                    "isPublicDomain":  true,
+                    "isForSale":  true,
+                    "priceInRobux":  0,
+                    "isFree":  true,
+                    "noPriceText":  "Free"
+                },
+    "collectibleItemDetail":  {
+                                  "collectibleItemId":  "d10170ae-1340-44fc-9067-02b54ddb4922",
+                                  "collectibleProductId":  "2d232801-0144-4ab8-b2fe-1dd2ee2d9b5e",
+                                  "price":  0,
+                                  "lowestPrice":  0,
+                                  "lowestResalePrice":  0,
+                                  "totalQuantity":  0,
+                                  "unitsAvailable":  0,
+                                  "saleLocation":  {
+                                                       "saleLocationType":  "ShopAndAllExperiences",
+                                                       "saleLocationTypeId":  5,
+                                                       "universeIds":  [
+
+                                                                       ],
+                                                       "enabledUniverseIds":  [
+
+                                                                              ]
+                                                   },
+                                  "hasResellers":  false,
+                                  "saleStatus":  "OnSale",
+                                  "quantityLimitPerUser":  null,
+                                  "offSaleDeadline":  null,
+                                  "collectibleItemType":  "NonLimited",
+                                  "lowestAvailableResaleProductId":  null,
+                                  "lowestAvailableResaleItemInstanceId":  null,
+                                  "resaleRestriction":  "Disabled"
+                              }
+}

@@ -1,0 +1,312 @@
+{
+  "blender-core/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-core/scripts/env_report.py": [
+    "_bpyx",
+    "addon_utils",
+    "bpy",
+    "os",
+    "sys"
+  ],
+  "blender-core/scripts/run_in_blender.py": [
+    "glob",
+    "json",
+    "os",
+    "re",
+    "shutil",
+    "subprocess",
+    "sys"
+  ],
+  "blender-scene-setup/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-scene-setup/scripts/scene_audit.py": [
+    "_bpyx",
+    "bpy",
+    "mathutils",
+    "os",
+    "re",
+    "sys"
+  ],
+  "blender-hardsurface-modeling/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-hardsurface-modeling/scripts/apply_stack.py": [
+    "_bpyx",
+    "bpy",
+    "math",
+    "os",
+    "sys"
+  ],
+  "blender-sculpting/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-sculpting/scripts/sculpt_ops.py": [
+    "_bpyx",
+    "bpy",
+    "os",
+    "sys"
+  ],
+  "blender-retopology-uv/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-retopology-uv/scripts/auto_retopo.py": [
+    "_bpyx",
+    "bpy",
+    "math",
+    "os",
+    "sys"
+  ],
+  "blender-retopology-uv/scripts/texel_density.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "math",
+    "os",
+    "sys"
+  ],
+  "blender-retopology-uv/scripts/uv_pack.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "math",
+    "os",
+    "sys"
+  ],
+  "blender-pbr-materials/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-pbr-materials/scripts/build_pbr_material.py": [
+    "_bpyx",
+    "bpy",
+    "os",
+    "re",
+    "sys"
+  ],
+  "blender-texturing/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-texturing/scripts/decal.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "math",
+    "mathutils",
+    "os",
+    "sys"
+  ],
+  "blender-texturing/scripts/smart_material.py": [
+    "_bpyx",
+    "bpy",
+    "json",
+    "mathutils.kdtree",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-texture-baking/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-texture-baking/scripts/bake_maps.py": [
+    "_bpyx",
+    "bpy",
+    "hashlib",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-geometry-nodes/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-geometry-nodes/scripts/gn_builder.py": [
+    "_bpyx",
+    "bpy",
+    "json",
+    "os",
+    "sys"
+  ],
+  "blender-game-optimization/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-game-optimization/scripts/make_lods.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "os",
+    "sys"
+  ],
+  "blender-game-optimization/scripts/mesh_stats.py": [
+    "_bpyx",
+    "bpy",
+    "os",
+    "sys"
+  ],
+  "blender-export-pipelines/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-export-pipelines/scripts/export_asset.py": [
+    "_bpyx",
+    "bpy",
+    "json",
+    "mathutils",
+    "os",
+    "struct",
+    "sys"
+  ],
+  "blender-rendering/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-rendering/scripts/render_batch.py": [
+    "_bpyx",
+    "bpy",
+    "os",
+    "sys",
+    "time"
+  ],
+  "blender-lighting-lookdev/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-lighting-lookdev/scripts/turntable.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "bpy_extras",
+    "math",
+    "mathutils",
+    "os",
+    "sys"
+  ],
+  "blender-stylized-npr/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-stylized-npr/scripts/toon_setup.py": [
+    "_bpyx",
+    "bpy",
+    "json",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-environment-kits/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-environment-kits/scripts/kit_check.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "math",
+    "mathutils",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-environment-kits/scripts/scatter.py": [
+    "_bpyx",
+    "bpy",
+    "json",
+    "math",
+    "mathutils",
+    "os",
+    "sys"
+  ],
+  "blender-environment-kits/scripts/terrain.py": [
+    "_bpyx",
+    "bpy",
+    "math",
+    "mathutils",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-asset-qa/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-asset-qa/scripts/qa_check.py": [
+    "_bpyx",
+    "bmesh",
+    "bpy",
+    "collections",
+    "math",
+    "mathutils",
+    "mathutils.bvhtree",
+    "mathutils.kdtree",
+    "numpy",
+    "os",
+    "sys"
+  ],
+  "blender-asset-qa/scripts/review_shots.py": [
+    "_bpyx",
+    "bpy",
+    "math",
+    "mathutils",
+    "numpy",
+    "os",
+    "sys",
+    "tempfile"
+  ],
+  "blender-pipeline-automation/scripts/_bpyx.py": [
+    "argparse",
+    "bpy",
+    "json",
+    "sys"
+  ],
+  "blender-pipeline-automation/scripts/batch_process.py": [
+    "_bpyx",
+    "bpy",
+    "glob",
+    "importlib.util",
+    "json",
+    "os",
+    "sys",
+    "time"
+  ]
+}

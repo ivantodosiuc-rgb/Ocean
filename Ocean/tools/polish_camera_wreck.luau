@@ -1,0 +1,1 @@
+local ship=workspace.UnderwaterTerrain.PointsOfInterest.TheMarigoldWreck;local cf=ship:GetPivot();local camera=workspace.CurrentCamera;camera.CameraType=Enum.CameraType.Scriptable;camera.CFrame=CFrame.lookAt((cf*CFrame.new(38,30,45)).Position,(cf*CFrame.new(0,3,-2)).Position);camera.FieldOfView=55;print('POLISH_WRECK_CAMERA',workspace.Ocean:GetAttribute('WaterLevel'))

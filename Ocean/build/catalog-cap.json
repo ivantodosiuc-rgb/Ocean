@@ -1,0 +1,1159 @@
+﻿{
+    "keyword":  "cap",
+    "previousPageCursor":  null,
+    "nextPageCursor":  "2_1_3eddc4c0e6711deb6c721a563361dc5c",
+    "data":  [
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-05-21T04:40:59.493Z",
+                     "id":  417457461,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "ROBLOX \u0027R\u0027 Baseball Cap",
+                     "description":  "Imagine a world where you own this baseball cap.  Oh - that\u0027s this world!",
+                     "productId":  2922084402778165,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  0,
+                     "lowestResalePrice":  0,
+                     "priceStatus":  "Free",
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  801859,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "089fa88b-a89b-4393-9309-84fa518cc314",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2017-11-21T05:32:10.12Z",
+                     "id":  1191145618,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Fearless Cap",
+                     "description":  "You\u0027re never afraid, not even slightly shaken. Let the world know there\u0027s nothing holding you down.",
+                     "productId":  6518894011854645,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  20517,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "00516d13-aa86-4bf0-a1c0-e407bc5b1603",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2018-05-10T01:09:40.237Z",
+                     "id":  1744231390,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Sleepy Time Cap",
+                     "description":  "Only for the dreamers.",
+                     "productId":  3323540592470374,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  8534,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "0a55f036-1ea5-4f03-9d4c-a4160b616562",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-08-05T20:52:19.937Z",
+                     "id":  125378340,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Punk-Bucket Cap",
+                     "description":  "Next time someone calls you a punk bucket - you give them the what for. What\u0027s a punk bucket? I don\u0027t know...but it doesn\u0027t sound nice.",
+                     "productId":  233086182289156,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  42725,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "c7405548-6983-4994-8108-4a5aa2bf0ed8",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-08-10T23:55:40.587Z",
+                     "id":  89621209,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Green Plaid Cap",
+                     "description":  "Classic plaid cap now in green!",
+                     "productId":  44561209176136,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  5912,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "40fdf6d7-7ddc-47ee-acf7-daaa5aff87ed",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-07-11T18:35:08.447Z",
+                     "id":  122284842,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Worldwide Traveler Cap",
+                     "description":  "You\u0027ve seen it all, you bought the tee shirt, and you bought the cap.",
+                     "productId":  6644760266385780,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  6597,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "49e2ce6a-e81a-47a8-bfcf-16d710748bae",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2011-08-30T18:46:28.443Z",
+                     "id":  60662813,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Irish Gentleman Cap",
+                     "description":  "Seriously, a lot of guys wear these.  So stylish!",
+                     "productId":  8135295397541272,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  12030,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "b316c804-7191-40df-92fb-8290a73cc50e",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-11-15T01:47:59.693Z",
+                     "id":  135473949,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Open Mind Cap",
+                     "description":  "Could it be any clearer?  Your mind is open for business.",
+                     "productId":  4087195841247885,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4934,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "637ab680-5611-428c-b512-734f6c2d0998",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-08-19T20:07:38.403Z",
+                     "id":  286512740,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Redcliff Cap",
+                     "description":  "Fans of the noble Redcliff unite!",
+                     "productId":  8928842385991305,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  41743,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "16893077-1ee6-4b8a-978c-b0dcad97ab11",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-08-13T23:30:19.56Z",
+                     "id":  14462497,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Biker Cap",
+                     "description":  "Born to be bad.",
+                     "productId":  3567951273830914,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  133516,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "10ac16fa-f6c6-4c92-ae69-cf27ba0e10a3",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2011-07-20T18:23:56.397Z",
+                     "id":  57009499,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Pop Pop\u0027s Fishing Cap",
+                     "description":  "Classic outdoorsman style!",
+                     "productId":  688419093422750,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  5999,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "e0fb4a65-86ff-4a28-9af6-687a7bd8ef5d",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-07-11T17:40:47.513Z",
+                     "id":  122277235,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Netherlands Cap",
+                     "description":  "Het geluk helpt de dapperen",
+                     "productId":  2988329066556076,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2161,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "86d6ca06-3cde-4ba9-adae-7846d60325f5",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-04-05T21:57:59.813Z",
+                     "id":  111904386,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Jean Skull Cap",
+                     "description":  "I bet modern pirates wear jeans.",
+                     "productId":  7441914588793917,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  50242,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "e39298dc-314a-4918-b9d6-4a14c64e9d2c",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-04-30T19:32:52.28Z",
+                     "id":  243773601,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Flower Banded Cap with Teal Tresses",
+                     "description":  "An outlandish hair color, to be sure, but not an unattractive one. You\u0027re sure to be a garden party hit in this gorgeous hat.",
+                     "productId":  3838456358067004,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  125,
+                     "lowestPrice":  125,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2912,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "81f953df-0928-444b-a456-44824ec4e4c6",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-06-30T00:13:30.63Z",
+                     "id":  12436560,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Bobby Cap",
+                     "description":  "A bobby cap.",
+                     "productId":  8996992765403980,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4102,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "619cb774-25db-45ee-8cb0-c798195b82c1",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-08-09T23:15:52.627Z",
+                     "id":  125886373,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Classic Fisherman\u0027s Cap",
+                     "description":  "From a time when docks were for boats and fish were for eatin\u0027.",
+                     "productId":  1979754672443582,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  145900,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "255bcd79-0f6b-4ce6-aa86-2679d1bc3672",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-08-09T23:14:45.703Z",
+                     "id":  125886232,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Plain Leather Military Cap",
+                     "description":  "A simple cap, but the mind under it is anything but simple.",
+                     "productId":  6244593983162806,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  10264,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "1d5993ef-326b-4868-b71a-edacbe9f6fc5",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-11-20T19:30:14.477Z",
+                     "id":  321570512,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Chill Cap",
+                     "description":  "What\u0027s cooler than being cool? Chilled.",
+                     "productId":  8208074525056837,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  15,
+                     "lowestPrice":  725,
+                     "lowestResalePrice":  725,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  142466,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "4743aaac-3985-4328-bcf5-a28241c54acc",
+                     "totalQuantity":  333251,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-12-11T23:17:37.09Z",
+                     "id":  191098660,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Snow Cap Lady",
+                     "description":  "Your style is stone cold.",
+                     "productId":  5826016670445659,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  100,
+                     "lowestPrice":  100,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2773,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "126d605a-0286-416b-aef1-089f8a8d1662",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-05-21T04:38:33.223Z",
+                     "id":  417456713,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Flipped Bill Skater Cap",
+                     "description":  "This hat just did a 180 into my heart.",
+                     "productId":  1214208582546815,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  95,
+                     "lowestPrice":  95,
+                     "lowestResalePrice":  0,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  52683,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "62106da3-9f4d-4895-bbb3-5b5f4da6de85",
+                     "totalQuantity":  0,
+                     "saleLocationType":  "ShopAndAllExperiences",
+                     "hasResellers":  false
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2009-06-13T00:05:52.763Z",
+                     "id":  11721340,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "2009 Graduation Cap",
+                     "description":  "Limited edition graduation cap! For all 2009 graduates!",
+                     "productId":  4757821052288454,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  9,
+                     "lowestPrice":  1674,
+                     "lowestResalePrice":  1674,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  8622,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "4385bead-572a-4b10-97ac-e82a89ca62b4",
+                     "totalQuantity":  8567,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2014-10-30T21:35:04.523Z",
+                     "id":  184745025,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Halloween Baseball Cap 2014",
+                     "description":  "Have a spooktacular day!",
+                     "productId":  8800479119621738,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  600,
+                     "lowestResalePrice":  600,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  13662,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "c40e1dbb-a3b5-4842-bf60-d41abb371807",
+                     "totalQuantity":  55320,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-05-24T21:39:52.08Z",
+                     "id":  116770724,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Robot Baseball Cap",
+                     "description":  "Robots don\u0027t play baseball, but this cap is dope.",
+                     "productId":  7826593113624572,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  50,
+                     "lowestPrice":  2100,
+                     "lowestResalePrice":  2100,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2186,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "eedee5dd-fe38-4f81-beba-4f968a0c8a23",
+                     "totalQuantity":  3001,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2013-04-19T22:22:34.103Z",
+                     "id":  113333065,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Toothy Cap",
+                     "description":  "No one will be able to bite your style in this cap.",
+                     "productId":  4689695920334067,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  50,
+                     "lowestPrice":  4449,
+                     "lowestResalePrice":  4449,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  4761,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "b0a70a77-05be-4b29-aa0b-a872223d84b1",
+                     "totalQuantity":  5002,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-08-24T23:27:42.307Z",
+                     "id":  90994633,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Scrap Metal Cap",
+                     "description":  "What to do with the left over metal from that robotics project?  Why of course- make the heaviest hat in the world!",
+                     "productId":  7734338213687378,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  300,
+                     "lowestPrice":  43067000,
+                     "lowestResalePrice":  43067000,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1177,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "3dc600f5-3871-4d9a-8b40-6930f287d633",
+                     "totalQuantity":  159,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2016-11-04T00:32:30.747Z",
+                     "id":  536826524,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Loch Ness Monster Cap",
+                     "description":  "I better take a picture fast before he swims away!",
+                     "productId":  2054179565291747,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  200,
+                     "lowestPrice":  9997,
+                     "lowestResalePrice":  9997,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  1431,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "ea63c312-5483-4093-ae15-8df8fcba9635",
+                     "totalQuantity":  679,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2015-01-09T23:29:59.22Z",
+                     "id":  202073256,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Crazy Styles Cap and Shades",
+                     "description":  "I would like your craziest fabric mixed with your second craziest fabric.",
+                     "productId":  1157582542541440,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "LimitedUnique"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  150,
+                     "lowestPrice":  4747,
+                     "lowestResalePrice":  4747,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  2107,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "3c1355c6-db08-40f2-bac5-47a5d45ab0d4",
+                     "totalQuantity":  1001,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2012-03-15T23:22:19.35Z",
+                     "id":  74891367,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Smart Chocolate Cap",
+                     "description":  "Looking smart is an art.",
+                     "productId":  5497362233944852,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  75,
+                     "lowestPrice":  35000,
+                     "lowestResalePrice":  35000,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  583,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "02c8d431-789c-4386-997d-0680e791743d",
+                     "totalQuantity":  392,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2007-08-02T23:00:00.677Z",
+                     "id":  1081392,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "Police Sergeants Cap",
+                     "description":  "A sergeant is a police officer who supervises an entire watch. Look out, evildoers!",
+                     "productId":  662719014955374,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  200,
+                     "lowestPrice":  16400,
+                     "lowestResalePrice":  16400,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  13009,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "a5f66564-72eb-45e4-966b-4177034b4e48",
+                     "totalQuantity":  2181,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 },
+                 {
+                     "bundledItems":  [
+
+                                      ],
+                     "taxonomy":  [
+                                      {
+                                          "taxonomyId":  "thukPQUFe5EHxRrtsgq43u",
+                                          "taxonomyName":  "Head Accessories"
+                                      }
+                                  ],
+                     "itemCreatedUtc":  "2007-06-14T19:35:42.593Z",
+                     "id":  1034433,
+                     "itemType":  "Asset",
+                     "assetType":  8,
+                     "name":  "The Agonizingly Ugly Yellow Baseball Cap",
+                     "description":  "Ick! This hat looks awful! Who would want to be caught dead wearing one of these? If you have any sense at all, you\u0027ll spend your money on something else.",
+                     "productId":  4461929857809782,
+                     "itemStatus":  [
+
+                                    ],
+                     "itemRestrictions":  [
+                                              "Limited"
+                                          ],
+                     "creatorHasVerifiedBadge":  true,
+                     "creatorType":  "User",
+                     "creatorTargetId":  1,
+                     "creatorName":  "Roblox",
+                     "price":  0,
+                     "lowestPrice":  6766,
+                     "lowestResalePrice":  6766,
+                     "unitsAvailableForConsumption":  0,
+                     "favoriteCount":  9945,
+                     "offSaleDeadline":  null,
+                     "collectibleItemId":  "f5aa6d91-0adb-492f-98b2-4cce577288b3",
+                     "totalQuantity":  2520,
+                     "saleLocationType":  "ShopOnly",
+                     "hasResellers":  true,
+                     "isOffSale":  true
+                 }
+             ]
+}

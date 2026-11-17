@@ -1,0 +1,21 @@
+{
+  "sliceCenter": [
+    64,
+    64,
+    448,
+    448
+  ],
+  "woodSliceCenter": [
+    72,
+    72,
+    440,
+    440
+  ],
+  "resolution": 512,
+  "assets": [
+    "WoodFrame",
+    "SandPanel",
+    "ButtonFace"
+  ],
+  "author": "Original geometry and materials authored for Suck The Sea!"
+}

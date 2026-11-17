@@ -1,0 +1,1 @@
+local wet=workspace.Ocean.WetShoreRig:FindFirstChild('WetShore',true);wet.Transparency=1;print('POLISH_WATER_DIAG',workspace.Terrain.WaterTransparency,workspace.Terrain.WaterReflectance,tostring(workspace.Terrain.WaterColor),wet.SurfaceAppearance.AlphaMode.Name)

@@ -1,0 +1,521 @@
+{
+  "place": "build\\SuckTheSea.rbxlx",
+  "sha256": "7ae28486746c0e08e6d688194820f13cb43a3621370c5cecb0c7c3f8ad5cd1c3",
+  "preservedBuildingsAndNPCs": {
+    "Buildings": true,
+    "NPCs": true
+  },
+  "protectedCodeUnchanged": {
+    "ReplicatedStorage/SeaGame/Shared/Config": true,
+    "ReplicatedStorage/SeaGame/Shared/Economy": true,
+    "ReplicatedStorage/SeaGame/Shared/LootCatalog": true,
+    "ReplicatedStorage/SeaGame/Shared/OceanVolume": true,
+    "ReplicatedStorage/SeaGame/Client/Components": true,
+    "ReplicatedStorage/SeaGame/Client/Controller": true,
+    "ReplicatedStorage/SeaGame/Client/Theme": true,
+    "ReplicatedStorage/SeaGame/Client/UI": true,
+    "ServerScriptService/SeaGame/Bootstrap": true,
+    "ServerScriptService/SeaGame/Game": true,
+    "ServerScriptService/SeaGame/Loot": true,
+    "ServerScriptService/SeaGame/Ocean": true,
+    "ServerScriptService/SeaGame/Profiles": true,
+    "ServerScriptService/SeaGame/OceanLedger": true,
+    "ServerScriptService/SeaGame/OceanProgress": true
+  },
+  "installedSourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Shared\\LootCatalog.luau": true,
+    "src\\Shared\\OceanVolume.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\OceanLedger.luau": true,
+    "src\\Server\\OceanProgress.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Server\\Wrecks.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\ChestPresentation.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\ShoreContours.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Client\\WorldPolish.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true,
+    "src\\Tests\\OceanProgress.luau": true
+  },
+  "lootPrefabs": 50,
+  "lootPrefabsUnchanged": true,
+  "temporaryObjectsSaved": [],
+  "blenderQA": {
+    "meshes": 35,
+    "allPassed": true,
+    "triangles": 81332,
+    "acceptedWarnings": "Intentional atlas UV stacking and authored assembly origins; unweighted armature Root. Final mesh QA has no errors."
+  },
+  "visibleSurfaceCheck": {
+    "0": {
+      "points": 240,
+      "maximumError": 0.0019469738006591825,
+      "minimumGap": 0.0732266902923584,
+      "maximumGap": 0.07694697380065918
+    },
+    "-34": {
+      "points": 240,
+      "maximumError": 0.006375122070312503,
+      "minimumGap": 0.07098388671875,
+      "maximumGap": 0.0813751220703125
+    },
+    "-54": {
+      "points": 240,
+      "maximumError": 0.005881500244140622,
+      "minimumGap": 0.06911849975585938,
+      "maximumGap": 0.07812881469726562
+    },
+    "-68": {
+      "points": 240,
+      "maximumError": 0.0030853271484374972,
+      "minimumGap": 0.0719146728515625,
+      "maximumGap": 0.077850341796875
+    },
+    "-5.5": {
+      "points": 240,
+      "maximumError": 0.004259300231933591,
+      "minimumGap": 0.0707406997680664,
+      "maximumGap": 0.07923412322998047
+    }
+  },
+  "runtimeErrorsInFinalGameModules": [],
+  "verifiedEvents": [
+    {
+      "time": "2026-11-16T10:32:22.722Z",
+      "message": "STEP3_UNIT_COMPLETE 39"
+    },
+    {
+      "time": "2026-11-16T11:05:14.211Z",
+      "message": "STEP3_UNIT_COMPLETE 40"
+    },
+    {
+      "time": "2026-11-16T12:04:07.443Z",
+      "message": "STEP3_UNIT_COMPLETE 87"
+    },
+    {
+      "time": "2026-11-16T12:51:33.432Z",
+      "message": "OCEAN_CLIENT_PASS 99.98% 99.98408353877129 frames 1907 averageMs 16.72778462509585 p95Ms 17.983799800276756"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_UNIT_COMPLETE 30"
+    },
+    {
+      "time": "2026-11-16T12:56:08.905Z",
+      "message": "STEP3_UNIT_COMPLETE 87"
+    },
+    {
+      "time": "2026-11-16T12:56:44.088Z",
+      "message": "OCEAN_CLIENT_PASS 99.98% 99.98400982160996 frames 1924 averageMs 16.665735141869842 p95Ms 17.903300002217293"
+    },
+    {
+      "time": "2026-11-16T12:56:45.503Z",
+      "message": "OCEAN_LIVE_PASS {\"removed\":6413.345865532756,\"remaining\":40101618.65413447,\"voxelAfter\":0.996078431372549,\"level\":-0.010873321305226114,\"percent\":99.98400982160996,\"voxelBefore\":1}"
+    },
+    {
+      "time": "2026-11-16T13:46:08.018Z",
+      "message": "POLISH_INVENTORY Terrain Terrain 0"
+    },
+    {
+      "time": "2026-11-16T13:46:08.018Z",
+      "message": "POLISH_INVENTORY Camera Camera 0"
+    },
+    {
+      "time": "2026-11-16T13:46:08.018Z",
+      "message": "POLISH_INVENTORY StarterIsland Folder 9"
+    },
+    {
+      "time": "2026-11-16T13:46:08.018Z",
+      "message": "POLISH_INVENTORY Buildings Folder 37"
+    },
+    {
+      "time": "2026-11-16T13:46:08.019Z",
+      "message": "POLISH_INVENTORY Decorations Folder 74"
+    },
+    {
+      "time": "2026-11-16T13:46:08.020Z",
+      "message": "POLISH_INVENTORY NPCs Folder 731"
+    },
+    {
+      "time": "2026-11-16T13:46:08.022Z",
+      "message": "POLISH_INVENTORY Ocean Folder 552"
+    },
+    {
+      "time": "2026-11-16T13:46:08.023Z",
+      "message": "POLISH_INVENTORY UnderwaterTerrain Folder 353"
+    },
+    {
+      "time": "2026-11-16T13:46:42.451Z",
+      "message": "POLISH_INVENTORY Terrain Terrain 0"
+    },
+    {
+      "time": "2026-11-16T13:46:42.451Z",
+      "message": "POLISH_INVENTORY Camera Camera 0"
+    },
+    {
+      "time": "2026-11-16T13:46:42.451Z",
+      "message": "POLISH_INVENTORY StarterIsland Folder 9"
+    },
+    {
+      "time": "2026-11-16T13:46:42.452Z",
+      "message": "POLISH_INVENTORY Buildings Folder 37"
+    },
+    {
+      "time": "2026-11-16T13:46:42.452Z",
+      "message": "POLISH_INVENTORY Decorations Folder 74"
+    },
+    {
+      "time": "2026-11-16T13:46:42.453Z",
+      "message": "POLISH_INVENTORY NPCs Folder 731"
+    },
+    {
+      "time": "2026-11-16T13:46:42.453Z",
+      "message": "POLISH_INVENTORY Ocean Folder 552"
+    },
+    {
+      "time": "2026-11-16T13:46:42.453Z",
+      "message": "POLISH_INVENTORY UnderwaterTerrain Folder 353"
+    },
+    {
+      "time": "2026-11-16T13:48:21.162Z",
+      "message": "POLISH_INVENTORY Terrain Terrain 0"
+    },
+    {
+      "time": "2026-11-16T13:48:21.162Z",
+      "message": "POLISH_INVENTORY Camera Camera 0"
+    },
+    {
+      "time": "2026-11-16T13:48:21.162Z",
+      "message": "POLISH_INVENTORY StarterIsland Folder 9"
+    },
+    {
+      "time": "2026-11-16T13:48:21.162Z",
+      "message": "POLISH_INVENTORY Buildings Folder 37"
+    },
+    {
+      "time": "2026-11-16T13:48:21.162Z",
+      "message": "POLISH_INVENTORY Decorations Folder 74"
+    },
+    {
+      "time": "2026-11-16T13:48:21.164Z",
+      "message": "POLISH_INVENTORY NPCs Folder 731"
+    },
+    {
+      "time": "2026-11-16T13:48:21.164Z",
+      "message": "POLISH_INVENTORY Ocean Folder 552"
+    },
+    {
+      "time": "2026-11-16T13:48:21.164Z",
+      "message": "POLISH_INVENTORY UnderwaterTerrain Folder 353"
+    },
+    {
+      "time": "2026-11-16T13:49:39.280Z",
+      "message": "POLISH_EDIT_AUDIT {\"lootPrefabs\":50,\"wetAlpha\":\"Transparency\",\"flowers\":0,\"wetBones\":129,\"badMeshes\":[],\"unanchored\":0,\"materials\":165,\"corals\":104,\"decorCollision\":0,\"boat\":{\"pivot\":\"22, -0.449999988, 123, 0.990268052, 0, 0.139173105, 0, 1, 0, -0.139173105, 0, 0.990268052\",\"size\":\"6.611655235290527, 4.250000476837158, 9.902080535888672\"},\"npcs\":[\"Finn\",\"Maya\",\"Captain Shell\"],\"loadedMeshes\":165}"
+    },
+    {
+      "time": "2026-11-16T13:53:24.570Z",
+      "message": "POLISH_WET_PASS {\"bones\":128,\"radius\":[75.6414794921875,91.8218994140625],\"maximumError\":0.000028657913208010589,\"level\":0,\"updateSeconds\":2.7623594999313356}"
+    },
+    {
+      "time": "2026-11-16T13:53:26.957Z",
+      "message": "OCEAN_UNIT_COMPLETE 30"
+    },
+    {
+      "time": "2026-11-16T13:53:31.036Z",
+      "message": "STEP3_UNIT_COMPLETE 87"
+    },
+    {
+      "time": "2026-11-16T13:53:32.585Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.27009953558445,\"water\":0,\"frames\":451,\"averageMs\":17.775981603376157}"
+    },
+    {
+      "time": "2026-11-16T13:55:41.899Z",
+      "message": "POLISH_PREVIEW_READY -5.5 91.91176470588235"
+    },
+    {
+      "time": "2026-11-16T13:55:44.848Z",
+      "message": "POLISH_SHORE_CAMERA -5.5"
+    },
+    {
+      "time": "2026-11-16T13:56:11.765Z",
+      "message": "POLISH_WET_PASS {\"bones\":128,\"radius\":[93.4332275390625,106.3238525390625],\"maximumError\":0.000253486633300784,\"level\":-5.5,\"updateSeconds\":0.29850880010053518}"
+    },
+    {
+      "time": "2026-11-16T13:56:19.777Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":17.900999635457994,\"water\":-5.5,\"frames\":478,\"averageMs\":16.771864627242466}"
+    },
+    {
+      "time": "2026-11-16T13:57:25.176Z",
+      "message": "POLISH_BOAT_CAMERA 0, 1, 0"
+    },
+    {
+      "time": "2026-11-16T13:57:49.359Z",
+      "message": "POLISH_SHORE_CAMERA -5.5"
+    },
+    {
+      "time": "2026-11-16T14:01:42.951Z",
+      "message": "POLISH_PREVIEW_READY -34 50"
+    },
+    {
+      "time": "2026-11-16T14:02:50.898Z",
+      "message": "POLISH_WRECK_CAMERA -34"
+    },
+    {
+      "time": "2026-11-16T14:03:15.212Z",
+      "message": "POLISH_WRECK_CAMERA -34"
+    },
+    {
+      "time": "2026-11-16T14:03:33.814Z",
+      "message": "POLISH_WET_PASS {\"bones\":128,\"radius\":[154.2608642578125,185.4803466796875],\"maximumError\":0.000023651123046877777,\"level\":-34,\"updateSeconds\":0.3003756001126021}"
+    },
+    {
+      "time": "2026-11-16T14:03:41.828Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":67.501001060009,\"water\":-34,\"frames\":176,\"averageMs\":45.36398514491422}"
+    },
+    {
+      "time": "2026-11-16T14:05:34.923Z",
+      "message": "POLISH_WRECK_WALK_PASS"
+    },
+    {
+      "time": "2026-11-16T14:06:23.304Z",
+      "message": "POLISH_CHEST_ANIMATION_PASS {\"maxAngleDegrees\":114.68778273119179,\"temporaryLightsAfter3s\":0,\"restAngleDegrees\":105.9987507483709,\"frames\":184,\"maxStep\":0.20894381403923036}"
+    },
+    {
+      "time": "2026-11-16T16:34:47.632Z",
+      "message": "POLISH_FINAL_LIGHTING 11.300000190734863 0.15000000596046448 0.019999999552965164"
+    },
+    {
+      "time": "2026-11-16T16:36:02.697Z",
+      "message": "POLISH_EDIT_AUDIT {\"lootPrefabs\":50,\"wetAlpha\":\"Transparency\",\"flowers\":0,\"wetBones\":241,\"badMeshes\":[],\"unanchored\":0,\"materials\":165,\"corals\":104,\"decorCollision\":0,\"boat\":{\"pivot\":\"22, -0.450000048, 123, -0.990268052, -0.139173105, 2.26741772e-08, -2.44929371e-16, -1.62920685e-07, -1, 0.139173105, -0.990268052, 1.61335151e-07\",\"size\":\"6.611655235290527, 4.250000476837158, 9.902080535888672\"},\"npcs\":[\"Finn\",\"Maya\",\"Captain Shell\"],\"loadedMeshes\":165}"
+    },
+    {
+      "time": "2026-11-16T16:37:51.445Z",
+      "message": "POLISH_WET_PASS {\"bones\":240,\"radius\":[75.70862579345703,89.6734619140625],\"maximumError\":0.000002908706665041838,\"level\":0,\"updateSeconds\":3.4308300998527558}"
+    },
+    {
+      "time": "2026-11-16T16:37:52.006Z",
+      "message": "POLISH_ISLAND_CAMERA"
+    },
+    {
+      "time": "2026-11-16T16:37:59.456Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.741199746727945,\"water\":0,\"frames\":481,\"averageMs\":16.665872556240669}"
+    },
+    {
+      "time": "2026-11-16T16:38:59.736Z",
+      "message": "OCEAN_CLIENT_PASS 99.98% 99.98403433393973 frames 1921 averageMs 16.665278872371278 p95Ms 18.4812992811203"
+    },
+    {
+      "time": "2026-11-16T16:39:01.621Z",
+      "message": "OCEAN_LIVE_PASS {\"removed\":6403.514452464879,\"remaining\":40101628.485547538,\"voxelAfter\":0.996078431372549,\"level\":-0.01085665292097815,\"percent\":99.98403433393973,\"voxelBefore\":1}"
+    },
+    {
+      "time": "2026-11-16T16:39:30.806Z",
+      "message": "POLISH_PREVIEW_READY -5.5 91.91176470588235"
+    },
+    {
+      "time": "2026-11-16T16:39:35.069Z",
+      "message": "POLISH_SHORE_CAMERA -5.5"
+    },
+    {
+      "time": "2026-11-16T16:39:35.689Z",
+      "message": "POLISH_WET_PASS {\"bones\":240,\"radius\":[92.5604248046875,104.30970001220703],\"maximumError\":0.0003164291381835965,\"level\":-5.5,\"updateSeconds\":0.2838299002032727}"
+    },
+    {
+      "time": "2026-11-16T16:39:43.703Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.161199986934663,\"water\":-5.5,\"frames\":481,\"averageMs\":16.666866529136589}"
+    },
+    {
+      "time": "2026-11-16T16:40:14.950Z",
+      "message": "POLISH_WATER_DIAG 0.6000000238418579 0 0.101961, 0.6, 0.65098 Transparency"
+    },
+    {
+      "time": "2026-11-16T16:40:33.216Z",
+      "message": "POLISH_WATER_TINT"
+    },
+    {
+      "time": "2026-11-16T16:40:55.981Z",
+      "message": "POLISH_WATER_COLOR_CHECK"
+    },
+    {
+      "time": "2026-11-16T16:41:27.266Z",
+      "message": "POLISH_PREVIEW_READY -34 50"
+    },
+    {
+      "time": "2026-11-16T16:41:31.998Z",
+      "message": "POLISH_WRECK_CAMERA -34"
+    },
+    {
+      "time": "2026-11-16T16:41:32.621Z",
+      "message": "POLISH_WET_PASS {\"bones\":240,\"radius\":[154.3951416015625,184.8089599609375],\"maximumError\":0.0004699707031250028,\"level\":-34,\"updateSeconds\":0.2808580999262631}"
+    },
+    {
+      "time": "2026-11-16T16:41:33.948Z",
+      "message": "POLISH_WRECK_WALK_PASS"
+    },
+    {
+      "time": "2026-11-16T16:41:40.631Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.354399129748346,\"water\":-34,\"frames\":481,\"averageMs\":16.649018491961049}"
+    },
+    {
+      "time": "2026-11-16T16:42:27.880Z",
+      "message": "POLISH_CHEST_ANIMATION_PASS {\"maxAngleDegrees\":114.6820180515323,\"temporaryLightsAfter3s\":0,\"restAngleDegrees\":105.9987507483709,\"frames\":184,\"maxStep\":0.19681349396705628}"
+    },
+    {
+      "time": "2026-11-16T16:42:32.511Z",
+      "message": "POLISH_REWARDS_PASS 4 3380 duplicate and full-bag guards retained"
+    },
+    {
+      "time": "2026-11-16T16:45:03.296Z",
+      "message": "POLISH_PREVIEW_READY -54 20.588235294117645"
+    },
+    {
+      "time": "2026-11-16T16:45:52.337Z",
+      "message": "POLISH_REWARDS_PASS TidekeepersCache 5 9850 duplicate and full-bag guards retained"
+    },
+    {
+      "time": "2026-11-16T16:47:31.682Z",
+      "message": "POLISH_FINAL_LIGHTING 10 0.15000000596046448 0.019999999552965164"
+    },
+    {
+      "time": "2026-11-16T16:47:56.126Z",
+      "message": "POLISH_VISIBLE_GROUND_FIT 142"
+    },
+    {
+      "time": "2026-11-16T16:50:53.993Z",
+      "message": "POLISH_FINAL_LIGHTING 10 0.15000000596046448 0.019999999552965164"
+    },
+    {
+      "time": "2026-11-16T16:51:59.441Z",
+      "message": "POLISH_ISLAND_CAMERA"
+    },
+    {
+      "time": "2026-11-16T16:52:30.044Z",
+      "message": "POLISH_PREVIEW_READY -5.5 91.91176470588235"
+    },
+    {
+      "time": "2026-11-16T16:52:34.290Z",
+      "message": "POLISH_SHORE_CAMERA -5.5"
+    },
+    {
+      "time": "2026-11-16T16:54:27.866Z",
+      "message": "POLISH_ISLAND_CAMERA"
+    },
+    {
+      "time": "2026-11-16T16:54:28.471Z",
+      "message": "POLISH_WET_BAKED_PASS {\"bones\":240,\"radius\":[75.62000274658203,89.29999542236328],\"maximumError\":4.768371586472142e-8,\"level\":0,\"updateSeconds\":3.246405699988827}"
+    },
+    {
+      "time": "2026-11-16T16:54:36.483Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.82139965891838,\"water\":0,\"frames\":476,\"averageMs\":16.84161406029955}"
+    },
+    {
+      "time": "2026-11-16T16:54:55.618Z",
+      "message": "POLISH_PREVIEW_READY -34 50"
+    },
+    {
+      "time": "2026-11-16T16:54:59.918Z",
+      "message": "POLISH_WRECK_CAMERA -34"
+    },
+    {
+      "time": "2026-11-16T16:55:00.520Z",
+      "message": "POLISH_WET_BAKED_PASS {\"bones\":240,\"radius\":[152.6800079345703,184.83999633789063],\"maximumError\":7.629394573882564e-7,\"level\":-34,\"updateSeconds\":0.2838789999950677}"
+    },
+    {
+      "time": "2026-11-16T16:55:08.534Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.55440065264702,\"water\":-34,\"frames\":478,\"averageMs\":16.769418572796565}"
+    },
+    {
+      "time": "2026-11-16T16:55:52.855Z",
+      "message": "POLISH_PREVIEW_READY -54 20.588235294117645"
+    },
+    {
+      "time": "2026-11-16T16:55:57.170Z",
+      "message": "POLISH_WET_BAKED_PASS {\"bones\":240,\"radius\":[192.8300018310547,216.5699920654297],\"maximumError\":7.629394573882564e-7,\"level\":-54,\"updateSeconds\":0.33034440013580027}"
+    },
+    {
+      "time": "2026-11-16T16:56:02.946Z",
+      "message": "POLISH_RARE_CHEST_PASS 5 rays, rare glow, cleanup"
+    },
+    {
+      "time": "2026-11-16T16:56:05.180Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":26.180200278759004,\"water\":-54,\"frames\":479,\"averageMs\":16.7370552891216}"
+    },
+    {
+      "time": "2026-11-16T16:56:51.998Z",
+      "message": "POLISH_PREVIEW_READY -68 0"
+    },
+    {
+      "time": "2026-11-16T16:56:56.249Z",
+      "message": "POLISH_WET_BAKED_PASS {\"bones\":240,\"radius\":[222.739990234375,245.94000244140626],\"maximumError\":0.000003051757815342171,\"level\":-68,\"updateSeconds\":0.2830928999464959}"
+    },
+    {
+      "time": "2026-11-16T16:57:04.264Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.358800560235978,\"water\":-68,\"frames\":478,\"averageMs\":16.768137850334957}"
+    },
+    {
+      "time": "2026-11-16T16:57:34.911Z",
+      "message": "POLISH_PREVIEW_READY -5.5 91.91176470588235"
+    },
+    {
+      "time": "2026-11-16T16:57:39.063Z",
+      "message": "POLISH_SHORE_CAMERA -5.5"
+    },
+    {
+      "time": "2026-11-16T16:57:39.746Z",
+      "message": "POLISH_WET_BAKED_PASS {\"bones\":240,\"radius\":[92.19000244140625,102.99999237060547],\"maximumError\":1.9073486345888569e-7,\"level\":-5.5,\"updateSeconds\":0.27915289998054507}"
+    },
+    {
+      "time": "2026-11-16T16:57:47.762Z",
+      "message": "POLISH_CLIENT_PERFORMANCE {\"p95Ms\":18.47440004348755,\"water\":-5.5,\"frames\":479,\"averageMs\":16.736423544243509}"
+    },
+    {
+      "time": "2026-11-16T16:59:21.691Z",
+      "message": "POLISH_PREVIEW_READY -34 50"
+    },
+    {
+      "time": "2026-11-16T16:59:25.922Z",
+      "message": "POLISH_WRECK_CAMERA -34"
+    },
+    {
+      "time": "2026-11-16T17:00:14.495Z",
+      "message": "POLISH_FINAL_LIGHTING 10 0.15000000596046448 0.019999999552965164"
+    },
+    {
+      "time": "2026-11-16T17:00:15.114Z",
+      "message": "POLISH_EDIT_AUDIT {\"lootPrefabs\":50,\"wetAlpha\":\"Transparency\",\"flowers\":0,\"wetBones\":241,\"badMeshes\":[],\"unanchored\":0,\"materials\":165,\"corals\":104,\"decorCollision\":0,\"boat\":{\"pivot\":\"22, -0.450000048, 123, -0.990268052, -0.139173105, 2.26741772e-08, -2.44929371e-16, -1.62920685e-07, -1, 0.139173105, -0.990268052, 1.61335151e-07\",\"size\":\"6.611655235290527, 4.250000476837158, 9.902080535888672\"},\"npcs\":[\"Finn\",\"Maya\",\"Captain Shell\"],\"loadedMeshes\":165}"
+    },
+    {
+      "time": "2026-11-16T17:02:25.632Z",
+      "message": "POLISH_NPC_SNAPSHOT_RESTORED"
+    },
+    {
+      "time": "2026-11-16T17:03:53.597Z",
+      "message": "POLISH_ISLAND_CAMERA"
+    },
+    {
+      "time": "2026-11-16T17:03:55.712Z",
+      "message": "POLISH_BOAT_CAMERA 0, 1, 0"
+    },
+    {
+      "time": "2026-11-16T17:08:05.651Z",
+      "message": "POLISH_NPC_SNAPSHOT_RESTORED"
+    }
+  ],
+  "limitations": [
+    "Single-client Studio performance measurements; no physical mobile-device or multi-client performance pass.",
+    "Cloud DataStore rejoin is not verified: the experience remains unpublished.",
+    "Underwater screenshots use Play-only in-memory progress fixtures.",
+    "Chest videos are actual Studio recordings without audio capture."
+  ],
+  "passed": true
+}

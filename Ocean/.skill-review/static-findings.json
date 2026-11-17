@@ -1,0 +1,332 @@
+[
+  {
+    "skill": "roblox-get-started",
+    "file": "SECURITY.md",
+    "line": 19,
+    "text": "- **No elevation:** the skill never uses `sudo` or asks for an administrator password. The Roblox installer handles its own prompts."
+  },
+  {
+    "skill": "roblox-get-started",
+    "file": "SECURITY.md",
+    "line": 35,
+    "text": "- Ask for, read, type, or store Roblox passwords or sign-in tokens."
+  },
+  {
+    "skill": "roblox-get-started",
+    "file": "SKILL.md",
+    "line": 24,
+    "text": "- Never ask for, read, or type the user's Roblox password. The user signs in to Studio themselves."
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 15,
+    "text": "Property values can reference tokens with `$TokenName`. One `StyleSheet` applies per tree via a `StyleLink`."
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 17,
+    "text": "## Tokens, theme, and rules in code"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 26,
+    "text": "-- Design tokens live as attributes."
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 27,
+    "text": "local tokens = Instance.new(\"StyleSheet\")"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 28,
+    "text": "tokens.Name = \"Tokens\""
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 29,
+    "text": "tokens:SetAttribute(\"Primary\", Color3.fromHex(\"3B82F6\"))"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 30,
+    "text": "tokens:SetAttribute(\"PrimaryHover\", Color3.fromHex(\"60A5FA\"))"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 31,
+    "text": "tokens:SetAttribute(\"Radius\", UDim.new(0, 8))"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 33,
+    "text": "-- The sheet linked to the UI derives the tokens."
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 37,
+    "text": "derive.StyleSheet = tokens"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 69,
+    "text": "tokens.Parent = screenGui"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "references/styling-and-frameworks.md",
+    "line": 74,
+    "text": "Themes: create `LightTheme`/`DarkTheme` sheets that define the same token names, and point the"
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "SKILL.md",
+    "line": 3,
+    "text": "description: Responsive cross-platform UI - ScreenGui and safe areas (ScreenInsets), Scale vs Offset, UIListLayout flex/UIFlexItem, constraints, StyleSheets/tokens/themes, RichText, gamepad/touch navigation, UIDragDetector, CanvasGroup, tweens, BillboardGui/SurfaceGui, React-lua/Fusion/Vide. Use when building HUDs, menus, shops, inventories, or fixing UI that breaks on mobile, console, or other screen sizes."
+  },
+  {
+    "skill": "roblox-ui",
+    "file": "SKILL.md",
+    "line": 83,
+    "text": "- **Tokens** are attributes on a token sheet (`$Primary`, `$Radius`); **themes** are sheets deriving tokens"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 10,
+    "text": "2. Creator Dashboard \u2192 Open Cloud \u2192 API Keys: create a key with"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 12,
+    "text": "   to upload versions). Store it as a CI secret."
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 39,
+    "text": ": \"${ROBLOX_API_KEY:?}\" \"${UNIVERSE_ID:?}\" \"${PLACE_ID:?}\""
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 45,
+    "text": "  -H \"x-api-key: $ROBLOX_API_KEY\" -H \"Content-Type: application/octet-stream\" \\"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 52,
+    "text": "    -H \"x-api-key: $ROBLOX_API_KEY\" -H \"Content-Type: application/json\" --data @- | jq -r .path)"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 56,
+    "text": "  RESPONSE=$(curl -sf \"$API/cloud/v2/$TASK\" -H \"x-api-key: $ROBLOX_API_KEY\")"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 66,
+    "text": "curl -sf \"$API/cloud/v2/$TASK/logs\" -H \"x-api-key: $ROBLOX_API_KEY\" | jq -r '.luauExecutionSessionTaskLogs[]?.messages[]?'"
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "references/cloud-test-runner.md",
+    "line": 70,
+    "text": "- Tasks default to a 5-minute timeout; the rate limit is about 5 task creations per minute per API key owner."
+  },
+  {
+    "skill": "roblox-testing",
+    "file": "SKILL.md",
+    "line": 130,
+    "text": "   (API key scope `universe.place.luau-execution-session:write`; rate limit \u2248 5 tasks/min per key owner)."
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 22,
+    "text": "          curl -sSf https://raw.githubusercontent.com/rojo-rbx/rokit/main/scripts/install.sh | bash"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 24,
+    "text": "          \"$HOME/.rokit/bin/rokit\" authenticate github --token \"$GITHUB_PAT\" # avoid API rate limits"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 27,
+    "text": "          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 66,
+    "text": "Create an API key (Creator Dashboard \u2192 Open Cloud \u2192 API Keys) with the **universe-places** permission (write) for the"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 67,
+    "text": "target universe, store it as a repository secret `ROBLOX_API_KEY`, then:"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "references/ci-workflow.md",
+    "line": 82,
+    "text": "            -H \"x-api-key: ${{ secrets.ROBLOX_API_KEY }}\" \\"
+  },
+  {
+    "skill": "roblox-tooling",
+    "file": "SKILL.md",
+    "line": 34,
+    "text": "Install Rokit: `curl -sSf https://raw.githubusercontent.com/rojo-rbx/rokit/main/scripts/install.sh | bash`"
+  },
+  {
+    "skill": "roblox-gui",
+    "file": "references/full.md",
+    "line": 162,
+    "text": "    local myId = state.requestId -- token: only THIS purchase's timers act"
+  },
+  {
+    "skill": "roblox-gui",
+    "file": "references/full.md",
+    "line": 169,
+    "text": "        -- Token check: if this purchase already resolved, or a NEWER"
+  },
+  {
+    "skill": "roblox-gui",
+    "file": "references/full.md",
+    "line": 232,
+    "text": "- a debounced action that cannot issue duplicate requests while busy."
+  },
+  {
+    "skill": "roblox-gui",
+    "file": "references/full.md",
+    "line": 561,
+    "text": "For an existing stylesheet-based project, extend its tokens and rules rather than setting conflicting per-instance properties. Roblox `StyleSheet` rules are attached to a UI tree with `StyleLink`; `StyleQuery` can adapt to size, preferred input, text size, or reduced motion. For a one-off UI, direct properties may be simpler. See the [official styling guide](https://create.roblox.com/docs/ui/styling) before adding a new sheet."
+  },
+  {
+    "skill": "roblox-building",
+    "file": "references/full.md",
+    "line": 56,
+    "text": "3. **Inspect the inserted model:** read its entire hierarchy before play. Check Scripts/LocalScripts/ModuleScripts, package links, and nested assets; remove or disable code the game does not need. For needed code, inspect what it does, especially obfuscation, remote asset loads, and requests for sensitive capabilities. Roblox warns that [third-party models can contain backdoors](https://create.roblox.com/docs/scripting/security/third-party-vulnerabilities), and a [DevForum cleanup guide](https:/"
+  },
+  {
+    "skill": "blender-core",
+    "file": "references/api-changes-5x.md",
+    "line": 39,
+    "text": "| Compare / Random Value socket identifiers | changed (5.2): look up by name, not identifier |"
+  },
+  {
+    "skill": "blender-core",
+    "file": "scripts/run_in_blender.py",
+    "line": 18,
+    "text": "import subprocess"
+  },
+  {
+    "skill": "blender-core",
+    "file": "scripts/run_in_blender.py",
+    "line": 76,
+    "text": "    p = subprocess.run(cmd, capture_output=True, text=True, encoding=\"utf-8\", errors=\"replace\")"
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "references/pbr-values.md",
+    "line": 3,
+    "text": "Linear values plug straight into socket `default_value`. sRGB values are for textures and color pickers."
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "scripts/build_pbr_material.py",
+    "line": 25,
+    "text": "# filename token -> map (Poly Haven, ambientCG, Substance, Quixel, UE-style suffixes)"
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "scripts/build_pbr_material.py",
+    "line": 26,
+    "text": "TOKENS = {"
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "scripts/build_pbr_material.py",
+    "line": 62,
+    "text": "    \"\"\"Map type from filename tokens, scanning from the end (suffixes win).\"\"\""
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "scripts/build_pbr_material.py",
+    "line": 67,
+    "text": "            if cand and cand in TOKENS and not (cand == toks[i] and i == 0 and len(toks) > 1 and len(cand) == 1):"
+  },
+  {
+    "skill": "blender-pbr-materials",
+    "file": "scripts/build_pbr_material.py",
+    "line": 68,
+    "text": "                return TOKENS[cand]"
+  },
+  {
+    "skill": "blender-geometry-nodes",
+    "file": "references/recipes.md",
+    "line": 3,
+    "text": "Pass these as `spec=` (MCP) or save them as JSON for `--spec`. Run `--describe` to check socket names when you change node types."
+  },
+  {
+    "skill": "blender-geometry-nodes",
+    "file": "scripts/gn_builder.py",
+    "line": 15,
+    "text": "Socket refs: node.SocketName or node.<index>; \"in\"/\"out\" = group input/output."
+  },
+  {
+    "skill": "blender-geometry-nodes",
+    "file": "SKILL.md",
+    "line": 3,
+    "text": "description: Geometry Nodes in Blender 5.3 - fields, domains, attributes, instancing, zones (simulation/repeat/for-each), closures/bundles, lists, SDF grids, node tools, baking, plus a JSON-to-node-tree builder and socket inspector. Use for scattering, procedural assets/environments, parametric tools and modifier inputs."
+  },
+  {
+    "skill": "blender-geometry-nodes",
+    "file": "SKILL.md",
+    "line": 12,
+    "text": "The execution model is in `blender-core`. Build trees with `scripts/gn_builder.py`, a compact JSON spec that's far cheaper than raw bpy. Look up exact socket names first, because they change between versions:"
+  },
+  {
+    "skill": "blender-environment-kits",
+    "file": "scripts/scatter.py",
+    "line": 30,
+    "text": "    \"\"\"Enabled socket by name: Random Value keeps one hidden Min/Max/Value per data type (5.2 renamed ids).\"\"\""
+  },
+  {
+    "skill": "blender-asset-qa",
+    "file": "scripts/qa_check.py",
+    "line": 43,
+    "text": "    \"\"\"(node type, input name) pairs a socket reaches through up to `depth` nodes.\"\"\""
+  },
+  {
+    "skill": "blender-pipeline-automation",
+    "file": "SKILL.md",
+    "line": 46,
+    "text": "- **Find files**: `bpy.data.file_path_foreach(...)` (5.2 flags: `EXPAND_TOKENS` for UDIMs, `EXPAND_SEQUENCES`, `EXPAND_CACHES`), and `bpy.utils.blend_paths(absolute=True)` lists every external path."
+  },
+  {
+    "skill": "blender-workflow-recipes",
+    "file": "SKILL.md",
+    "line": 3,
+    "text": "description: End-to-end Blender 5.3 playbooks chaining the blender-* skills with QA gates - game props (mid-poly, high-to-low), game characters (sculpt/AI mesh to rigged, animated export), Roblox props/accessories/avatars, AI or downloaded asset cleanup, procedural environments, web/AR assets, product turntables, mood/weather shots (night, rain, snow, fog). Use for complete multi-stage asset requests."
+  }
+]

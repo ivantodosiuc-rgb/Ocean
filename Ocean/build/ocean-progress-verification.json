@@ -1,0 +1,380 @@
+{
+  "place": "build\\SuckTheSea.rbxlx",
+  "sha256": "3982d55f6a9f73b5b89213ac2d9adaa528acab77b3eb29d0583220be14bb8762",
+  "preservedExpandedMap": {
+    "StarterIsland": true,
+    "Buildings": true,
+    "Decorations": true,
+    "NPCs": true,
+    "Ocean": true,
+    "UnderwaterTerrain": true,
+    "Terrain": true,
+    "Lighting": true
+  },
+  "installedSourceMatches": {
+    "src\\Shared\\Config.luau": true,
+    "src\\Shared\\Economy.luau": true,
+    "src\\Shared\\LootCatalog.luau": true,
+    "src\\Shared\\OceanVolume.luau": true,
+    "src\\Server\\Bootstrap.server.luau": true,
+    "src\\Server\\Game.luau": true,
+    "src\\Server\\Loot.luau": true,
+    "src\\Server\\Ocean.luau": true,
+    "src\\Server\\OceanLedger.luau": true,
+    "src\\Server\\OceanProgress.luau": true,
+    "src\\Server\\Profiles.luau": true,
+    "src\\Server\\Wrecks.luau": true,
+    "src\\Client\\Bootstrap.client.luau": true,
+    "src\\Client\\Components.luau": true,
+    "src\\Client\\Controller.luau": true,
+    "src\\Client\\Effects.luau": true,
+    "src\\Client\\Theme.luau": true,
+    "src\\Client\\UI.luau": true,
+    "src\\Tests\\EconomyProfiles.luau": true,
+    "src\\Tests\\OceanProgress.luau": true
+  },
+  "temporaryObjectsSaved": [],
+  "blenderResources": {
+    "count": 50,
+    "uniqueUploadedMeshes": 50,
+    "allUploaded": true,
+    "all81MeshQAPassed": true
+  },
+  "globalProgressUnitTests": {
+    "time": "2026-11-16T12:56:04.859Z",
+    "message": "OCEAN_UNIT_COMPLETE 30"
+  },
+  "economyProfileRegression": {
+    "time": "2026-11-16T12:56:08.905Z",
+    "message": "STEP3_UNIT_COMPLETE 87"
+  },
+  "actualWaterAndVolumeTest": {
+    "time": "2026-11-16T12:56:45.503Z",
+    "message": "OCEAN_LIVE_PASS {\"removed\":6413.345865532756,\"remaining\":40101618.65413447,\"voxelAfter\":0.996078431372549,\"level\":-0.010873321305226114,\"percent\":99.98400982160996,\"voxelBefore\":1}"
+  },
+  "clientDisplayAndPerformance": {
+    "time": "2026-11-16T12:56:44.088Z",
+    "message": "OCEAN_CLIENT_PASS 99.98% 99.98400982160996 frames 1924 averageMs 16.665735141869842 p95Ms 17.903300002217293"
+  },
+  "savedVolumeToPhysicalOceanRestorationFixture": {
+    "time": "2026-11-16T13:02:46.826Z",
+    "message": "OCEAN_RESTORE_PASS 15040511.876543997 37.499999692191324 -42.5000002093099 0.37254901960784315"
+  },
+  "phoneLayouts": [
+    {
+      "time": "2026-11-16T12:59:35.597Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"801, 355\",\"barSize\":\"280, 70\",\"viewport\":\"801, 413\",\"display\":\"100.00%\",\"touch\":true}"
+    },
+    {
+      "time": "2026-11-16T12:59:58.962Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"801, 355\",\"barSize\":\"280, 70\",\"viewport\":\"801, 413\",\"display\":\"100.00%\",\"touch\":true}"
+    },
+    {
+      "time": "2026-11-16T13:01:03.828Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"413, 756\",\"barSize\":\"320, 70\",\"viewport\":\"413, 814\",\"display\":\"100.00%\",\"touch\":true}"
+    }
+  ],
+  "nativeTouchStrawToggle": {
+    "time": "2026-11-16T13:01:07.280Z",
+    "message": "OCEAN_TOUCH_SLOT_PASS"
+  },
+  "runtimeErrorsInGameModules": [],
+  "events": [
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS 100.0000 to 99.9996 is preserved internally"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Two-decimal formatting does not alter the source value"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Precise volume and physical height round trip"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Exact endpoints"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Invalid flow rejected"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Strongest single-player upgrades are preserved"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Basic straw takes about twenty seconds per 0.01 percent"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Two servers load one shared ocean"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Conflicting UpdateAsync callback retries successfully"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Concurrent servers add deltas without overwriting"
+    },
+    {
+      "time": "2026-11-16T12:50:29.987Z",
+      "message": "OCEAN_TEST_PASS Servers reconcile to the same volume"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Ambiguous commit pauses further draining"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Unacknowledged progress is not displayed optimistically"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS No unsaved removal during an outage"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Retry after lost acknowledgement does not double count"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Sub-centesimal delta survives serialization and retry"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Independent shard commits"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Shard contributions merge without losing fractional volume"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Old or out-of-order message cannot refill the ocean"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS A new server restores all existing contributions"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Failure before commit is retained for retry"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Pending batch is saved exactly once after recovery"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Expired lease cannot replay an old delta"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Retry transform is idempotent and does not mutate input"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Skipped sequence is rejected"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Global completion clamps exactly at zero"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Shutdown flush survives a later server load"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Read error never falls back to a new full ocean"
+    },
+    {
+      "time": "2026-11-16T12:50:29.989Z",
+      "message": "OCEAN_TEST_PASS Corrupt stored data is never silently overwritten"
+    },
+    {
+      "time": "2026-11-16T12:50:55.852Z",
+      "message": "OCEAN_LIVE_READY 40108032 100 1"
+    },
+    {
+      "time": "2026-11-16T12:51:33.432Z",
+      "message": "OCEAN_CLIENT_PASS 99.98% 99.98408353877129 frames 1907 averageMs 16.72778462509585 p95Ms 17.983799800276756"
+    },
+    {
+      "time": "2026-11-16T12:52:27.597Z",
+      "message": "OCEAN_PHYSICAL_PROBE {\"minimum\":-68,\"saveStatus\":\"Session\",\"refilling\":false,\"complete\":false,\"cycle\":1,\"OceanRemainingPercent\":99.98408353877129,\"RemainingWaterVolume\":40101648.22063712,\"target\":-0.010823193635516759,\"level\":-0.010823193635516759,\"TotalOceanVolume\":40108032,\"ready\":true} occupancy 0.996078431372549 voxelLevel -0.015686274509803866"
+    },
+    {
+      "time": "2026-11-16T12:56:04.857Z",
+      "message": "OCEAN_TEST_PASS 100.0000 to 99.9996 is preserved internally"
+    },
+    {
+      "time": "2026-11-16T12:56:04.857Z",
+      "message": "OCEAN_TEST_PASS Two-decimal formatting does not alter the source value"
+    },
+    {
+      "time": "2026-11-16T12:56:04.857Z",
+      "message": "OCEAN_TEST_PASS Precise volume and physical height round trip"
+    },
+    {
+      "time": "2026-11-16T12:56:04.857Z",
+      "message": "OCEAN_TEST_PASS Exact endpoints"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Invalid flow rejected"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Strongest single-player upgrades are preserved"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Basic straw takes about twenty seconds per 0.01 percent"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Two servers load one shared ocean"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Conflicting UpdateAsync callback retries successfully"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Concurrent servers add deltas without overwriting"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Servers reconcile to the same volume"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Ambiguous commit pauses further draining"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Unacknowledged progress is not displayed optimistically"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS No unsaved removal during an outage"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Retry after lost acknowledgement does not double count"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Sub-centesimal delta survives serialization and retry"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Independent shard commits"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Shard contributions merge without losing fractional volume"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Old or out-of-order message cannot refill the ocean"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS A new server restores all existing contributions"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Failure before commit is retained for retry"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Pending batch is saved exactly once after recovery"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Expired lease cannot replay an old delta"
+    },
+    {
+      "time": "2026-11-16T12:56:04.858Z",
+      "message": "OCEAN_TEST_PASS Retry transform is idempotent and does not mutate input"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Skipped sequence is rejected"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Global completion clamps exactly at zero"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Shutdown flush survives a later server load"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Read error never falls back to a new full ocean"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Corrupt stored data is never silently overwritten"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_TEST_PASS Invalid saved shard cannot be replaced with zero progress"
+    },
+    {
+      "time": "2026-11-16T12:56:04.859Z",
+      "message": "OCEAN_UNIT_COMPLETE 30"
+    },
+    {
+      "time": "2026-11-16T12:56:06.472Z",
+      "message": "OCEAN_LIVE_READY 40108032 100 1"
+    },
+    {
+      "time": "2026-11-16T12:56:08.905Z",
+      "message": "STEP3_UNIT_COMPLETE 87"
+    },
+    {
+      "time": "2026-11-16T12:56:44.088Z",
+      "message": "OCEAN_CLIENT_PASS 99.98% 99.98400982160996 frames 1924 averageMs 16.665735141869842 p95Ms 17.903300002217293"
+    },
+    {
+      "time": "2026-11-16T12:56:45.503Z",
+      "message": "OCEAN_LIVE_PASS {\"removed\":6413.345865532756,\"remaining\":40101618.65413447,\"voxelAfter\":0.996078431372549,\"level\":-0.010873321305226114,\"percent\":99.98400982160996,\"voxelBefore\":1}"
+    },
+    {
+      "time": "2026-11-16T12:59:35.597Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"801, 355\",\"barSize\":\"280, 70\",\"viewport\":\"801, 413\",\"display\":\"100.00%\",\"touch\":true}"
+    },
+    {
+      "time": "2026-11-16T12:59:58.962Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"801, 355\",\"barSize\":\"280, 70\",\"viewport\":\"801, 413\",\"display\":\"100.00%\",\"touch\":true}"
+    },
+    {
+      "time": "2026-11-16T13:01:03.828Z",
+      "message": "OCEAN_UI_LAYOUT_PASS {\"safeArea\":\"413, 756\",\"barSize\":\"320, 70\",\"viewport\":\"413, 814\",\"display\":\"100.00%\",\"touch\":true}"
+    },
+    {
+      "time": "2026-11-16T13:01:07.280Z",
+      "message": "OCEAN_TOUCH_SLOT_PASS"
+    },
+    {
+      "time": "2026-11-16T13:02:46.826Z",
+      "message": "OCEAN_RESTORE_PASS 15040511.876543997 37.499999692191324 -42.5000002093099 0.37254901960784315"
+    }
+  ],
+  "limitations": [
+    "Experience is unpublished. Real Roblox cloud DataStore, rejoin and cross-server messaging are NOT verified.",
+    "Concurrency, retries and restoration tests use a dependency-injected store in actual Studio Luau.",
+    "iPhone XR Simulator tested in both orientations; no physical phone or two-client session.",
+    "Terrain liquid occupancy was observed in 1/255 increments. Saved volume is not rounded to that representation."
+  ],
+  "savedMapAuditPassed": true,
+  "playVerificationPassed": true
+}
